@@ -1,6 +1,6 @@
 {
   "name": "world-cup-2018",
-  "version": "1.8.9",
+  "version": "1.9.0",
   "description": "A simple webpage app for a world cup results.",
   "scripts": {
     "build": "webpack --config webpack/webpack.config.prod.js  --colors",
