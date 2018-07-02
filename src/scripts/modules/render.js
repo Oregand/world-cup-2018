@@ -30,7 +30,7 @@ const renderEntries = (entriesItems) => {
  * @return {HTML<any>}
  */
 const renderLeaderBoard = (leaderboardItems) => {
-  const leaderBoardBody = document.querySelector("article.media div.media-content div.content");
+  const leaderBoardBody = document.querySelector("table.table-leaderboard tbody.leaderboard-table");
   const leaderBoardRow = `
         ${
           leaderboardItems.map(
