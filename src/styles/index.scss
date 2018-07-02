@@ -11,5 +11,7 @@
 
   .article-body {
     overflow-x:auto;
+    overflow-y: auto;
+    max-height: 25rem;
   }
 }
