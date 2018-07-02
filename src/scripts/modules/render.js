@@ -1,6 +1,7 @@
 import {
   compose
 } from '../utils';
+import Chart from 'chart.js';
 
 /**
  * Render Function
@@ -70,6 +71,50 @@ const renderLeaderBoard = (leaderboardItems) => {
   leaderBoardBody.insertAdjacentHTML("beforeend", leaderBoardRow);
 };
 
+const renderEntityChart = (entriesItems) => {
+  var ctx = document.getElementById('myChart').getContext('2d');
+  var chart = new Chart(ctx, {
+    // The type of chart we want to create
+    type: 'line',
+
+    // The data for our dataset
+    data: {
+      labels: ["Name", "Winner"],
+      datasets: [{
+        label: "Name - Winner ",
+        backgroundColor: 'rgb(255, 99, 132)',
+        borderColor: 'rgb(255, 99, 132)',
+        data: [0, 10, 5, 2, 20, 30, 45],
+      }]
+    },
+
+    // Configuration options go here
+    options: {}
+  });
+};
+
+const renderLeaderBoardChart = (leaderboardItems) => {
+  var ctx = document.getElementById('myChart2').getContext('2d');
+  var chart = new Chart(ctx, {
+    // The type of chart we want to create
+    type: 'line',
+
+    // The data for our dataset
+    data: {
+      labels: ["January", "February", "March", "April", "May", "June", "July"],
+      datasets: [{
+        label: "My First dataset",
+        backgroundColor: 'rgb(255, 99, 132)',
+        borderColor: 'rgb(255, 99, 132)',
+        data: [0, 10, 5, 2, 20, 30, 45],
+      }]
+    },
+
+    // Configuration options go here
+    options: {}
+  });
+};
+
 /**
  * Render Function
  * @param {Array<Object>}
@@ -78,5 +123,5 @@ const renderLeaderBoard = (leaderboardItems) => {
 export const renderPage = (source) => {
   const entries = source[0];
   const leaderboard = source[1];
-  compose(renderEntries(entries), renderLeaderBoard(leaderboard));
+  compose(renderEntries(entries), renderLeaderBoard(leaderboard), renderEntityChart(), renderLeaderBoardChart());
 };
