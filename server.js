@@ -1,18 +1,15 @@
-const jsonServer = require('json-server');
-const server = jsonServer.create();
-const router = jsonServer.router('db.json');
-const middlewares = jsonServer.defaults();
-const port = process.env.PORT || 3000;
-const static = require('node-static');
-const home = new static.Server('./dist');
-
-server.use(middlewares);
-server.use(router);
-
+var static = require('node-static');
+ 
+//
+// Create a node-static server instance to serve the './public' folder
+//
+var file = new static.Server('./dist');
+ 
 require('http').createServer(function (request, response) {
-  request.addListener('end', function () {
-    file.serve(request, response);
-  }).resume();
+    request.addListener('end', function () {
+        //
+        // Serve files!
+        //
+        file.serve(request, response);
+    }).resume();
 }).listen(8080);
-
-server.listen(port);

@@ -111,7 +111,7 @@ const renderLeaderBoardChart = (leaderboardItems) => {
  * @return {HTML<any>}
  */
 export const renderPage = (source) => {
-  const entries = source[0];
-  const leaderboard = source[1];
+  const entries = source.entries;
+  const leaderboard = source.leaderboard;
   compose(renderEntries(entries), renderLeaderBoard(leaderboard), renderEntityChart(entries), renderLeaderBoardChart(leaderboard));
 };
