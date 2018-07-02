@@ -1,5 +1,15 @@
-$body-color: blue;
+.hero {
+  
+}
 
-body {
-  color: $body-color;
-}  
+.card {
+  margin-bottom: 2.5rem;
+}
+
+.container-main {
+  .article-body {
+    overflow-x:auto;
+    overflow-y: auto;
+    max-height: 25rem;
+  }
+}
