@@ -72,45 +72,35 @@ const renderLeaderBoard = (leaderboardItems) => {
 };
 
 const renderEntityChart = (entriesItems) => {
-  var ctx = document.getElementById('myChart').getContext('2d');
-  var chart = new Chart(ctx, {
-    // The type of chart we want to create
+  const ctx = document.getElementById('myChart').getContext('2d');
+  const chart = new Chart(ctx, {
     type: 'line',
 
-    // The data for our dataset
     data: {
-      labels: ["Name", "Winner"],
+      labels: entriesItems.map(el => el.NAME),
       datasets: [{
         label: "Name - Winner ",
-        backgroundColor: 'rgb(255, 99, 132)',
-        borderColor: 'rgb(255, 99, 132)',
-        data: [0, 10, 5, 2, 20, 30, 45],
+        data: entriesItems.map(el => el.Winner),
       }]
     },
 
-    // Configuration options go here
     options: {}
   });
 };
 
 const renderLeaderBoardChart = (leaderboardItems) => {
-  var ctx = document.getElementById('myChart2').getContext('2d');
-  var chart = new Chart(ctx, {
-    // The type of chart we want to create
+  const ctx = document.getElementById('myChart2').getContext('2d');
+  const chart = new Chart(ctx, {
     type: 'line',
 
-    // The data for our dataset
     data: {
-      labels: ["January", "February", "March", "April", "May", "June", "July"],
+      labels: leaderboardItems.map(el => el.Name),
       datasets: [{
-        label: "My First dataset",
-        backgroundColor: 'rgb(255, 99, 132)',
-        borderColor: 'rgb(255, 99, 132)',
-        data: [0, 10, 5, 2, 20, 30, 45],
+        label: "LeaderBoard Scores",
+        data: leaderboardItems.map(el => el['Total Points']),
       }]
     },
 
-    // Configuration options go here
     options: {}
   });
 };
@@ -123,5 +113,5 @@ const renderLeaderBoardChart = (leaderboardItems) => {
 export const renderPage = (source) => {
   const entries = source[0];
   const leaderboard = source[1];
-  compose(renderEntries(entries), renderLeaderBoard(leaderboard), renderEntityChart(), renderLeaderBoardChart());
+  compose(renderEntries(entries), renderLeaderBoard(leaderboard), renderEntityChart(entries), renderLeaderBoardChart(leaderboard));
 };
