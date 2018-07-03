@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/styles/index.scss"],"names":[],"mappings":"AAAA,MACE,oBAAsB,CAExB,8BACE,gBACA,gBACA,gBAAkB","file":"styles/bundle.css","sourcesContent":[".card {\n  margin-bottom: 2.5rem; }\n\n.container-main .article-body {\n  overflow-x: auto;\n  overflow-y: auto;\n  max-height: 25rem; }\n"],"sourceRoot":""}

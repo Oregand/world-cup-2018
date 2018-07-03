@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<script src="https://use.fontawesome.com/c4091973e1.js"></script>
+<link href="    https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css" rel="stylesheet">
+
+<head>
+  <meta charset="UTF-8">
+  <title>World Cup 2018</title>
+<link href="styles/bundle.css" rel="stylesheet"></head>
+
+<body>
+  <nav class="navbar">
+    <div class="container">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="../">
+          <img src="http://pluspng.com/img-png/logo-fifa-world-cup-2018-png-ih0-redbubble-net-image-144004343-2754-sticker-375x360-u4-png-375.png" alt="Logo">
+        </a>
+        <span class="navbar-burger burger" data-target="navbarMenu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </span>
+      </div>
+      <div id="navbarMenu" class="navbar-menu">
+        <div class="navbar-end">
+          <a class="navbar-item is-active">
+            Home
+          </a>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Account
+            </a>
+            <div class="navbar-dropdown">
+              <a class="navbar-item">
+                Dashboard
+              </a>
+              <a class="navbar-item">
+                Profile
+              </a>
+              <a class="navbar-item">
+                Settings
+              </a>
+              <hr class="navbar-divider">
+              <div class="navbar-item">
+                Logout
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <section class="hero is-info is-medium is-bold">
+    <div class="hero-body">
+      <div class="container has-text-centered">
+        <h1 class="title">World Cup 2018 First Round Totals</h1>
+      </div>
+    </div>
+  </section>
+
+
+  <div class="container container-main">
+    <section class="articles">
+      <div class="column is-mobile">
+        <section class="hero is-primary is-bold is-small promo-block">
+          <div class="hero-body">
+            <div class="container">
+              <h1 class="title">
+                <i class="fa fa-bell-o"> </i> Entries</h1>
+              <span class="tag is-black is-medium is-rounded">
+                Base Entry Scores
+              </span>
+            </div>
+          </div>
+        </section>
+        <div class="card article">
+          <div class="card-content">
+            <div class="content article-body">
+              <table class="table table-entries is-striped is-hoverable is-fullwidth">
+                <thead>
+                  <tr>
+                    <th>
+                      Code
+                    </th>
+                    <th>Name</th>
+                    <th>
+                      Win A
+                    </th>
+                    <th>
+                      Win B
+                    </th>
+                    <th>
+                      Win C
+                    </th>
+                    <th>
+                      Win D
+                    </th>
+                    <th>
+                      Win E
+                    </th>
+                    <th>
+                      Win F
+                    </th>
+                    <th>
+                      Win G
+                    </th>
+                    <th>
+                      Win H
+                    </th>
+                    <th>
+                      RUP A
+                    </th>
+                    <th>
+                      RUP B
+                    </th>
+                    <th>
+                      RUP C
+                    </th>
+                    <th>
+                      RUP D
+                    </th>
+                    <th>
+                      RUP E
+                    </th>
+                    <th>
+                      RUP F
+                    </th>
+                    <th>
+                      RUP G
+                    </th>
+                    <th>
+                      RUP H
+                    </th>
+                    <th>
+                      Q/Finals
+                    </th>
+                    <th>
+                      Q/Finals goals
+                    </th>
+                    <th>
+                      Semi/Final
+                    </th>
+                    <th>
+                      3rd Place
+                    </th>
+                    <th>
+                      Finalist
+                    </th>
+                    <th>
+                      1st Round Goals
+                    </th>
+                    <th>
+                      2nd Round Goals
+                    </th>
+                    <th>
+                      Tie Breaker
+                    </th>
+                    <th>
+                      Winner
+                    </th>
+                  </tr>
+                </thead>
+                <tbody class="entry-table"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        <section class="hero is-danger is-bold is-small promo-block">
+          <div class="hero-body">
+            <div class="container">
+              <h1 class="title">
+                <i class="fa fa-bell-o"> </i> Leaderboard</h1>
+              <span class="tag is-black is-medium is-rounded">
+                Leader Board Scores
+              </span>
+            </div>
+          </div>
+        </section>
+        <div class="card article">
+          <div class="card-content">
+            <div class="content article-body">
+              <table class="table table-leaderboard is-striped is-hoverable is-fullwidth">
+                <thead>
+                  <tr>
+                    <th>
+                      Name
+                    </th>
+                    <th>Ref</th>
+                    <th>
+                      Total Points
+                    </th>
+                  </tr>
+                </thead>
+                <tbody class="leaderboard-table"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+    </section>
+    </div>
+
+    <div class="container">
+      <section class="section">
+        <div class="container">
+          <h1 class="title">Winners</h1>
+          <h2 class="subtitle">
+            A small break down of the winners by chart.
+          </h2>
+          <div class="columns">
+            <div class="column">
+              <canvas id="myChart"></canvas>
+            </div>
+            <div class="column">
+              <canvas id="myChart2"></canvas>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+<script type="text/javascript" src="bundle.b684df2c50608c0213fc.js"></script></body>
+
+</html>
