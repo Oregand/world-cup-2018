@@ -33,9 +33,19 @@ const renderEntries = (entriesItems) => {
                 <td>${entriesItem['R UP F']}</td>
                 <td>${entriesItem['R UP G']}</td>
                 <td>${entriesItem['R UP H']}</td>
-                <td>${entriesItem['Q/Finals']}</td>
+                <td>${entriesItem['Q/Finals1']}</td>
+                <td>${entriesItem['Q/Finals2']}</td>
+                <td>${entriesItem['Q/Finals3']}</td>
+                <td>${entriesItem['Q/Finals4']}</td>
+                <td>${entriesItem['Q/Finals5']}</td>
+                <td>${entriesItem['Q/Finals6']}</td>
+                <td>${entriesItem['Q/Finals7']}</td>
+                <td>${entriesItem['Q/Finals8']}</td>
                 <td>${entriesItem['Q/Finals goals']}</td>
-                <td>${entriesItem['Semi/Final']}</td>
+                <td>${entriesItem['Semi/Final1']}</td>
+                <td>${entriesItem['Semi/Final2']}</td>
+                <td>${entriesItem['Semi/Final3']}</td>
+                <td>${entriesItem['Semi/Final4']}</td>
                 <td>${entriesItem['3rd Place']}</td>
                 <td>${entriesItem['Finalist']}</td>
                 <td>${entriesItem['1st Round Goals']}</td>
