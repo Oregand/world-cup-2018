@@ -1,15 +1,10 @@
-var static = require('node-static');
- 
-//
-// Create a node-static server instance to serve the './public' folder
-//
-var file = new static.Server('./dist');
- 
-require('http').createServer(function (request, response) {
-    request.addListener('end', function () {
-        //
-        // Serve files!
-        //
-        file.serve(request, response);
-    }).resume();
-}).listen(process.env.PORT || 5000);
+const express = require('express')
+const path = require('path')
+const PORT = process.env.PORT || 5000
+
+express()
+  .use(express.static(path.join(__dirname, 'dist')))
+  .set('dist', path.join(__dirname, 'dist'))
+  .set('view engine', 'html')
+  .get('/', (req, res) => res.render('/index'))
+  .listen(PORT, () => console.log(`Listening on ${ PORT }`))
