@@ -1,8 +1,7 @@
 import '../styles/index.scss';
 
 const data = {
-  "entries": [
-    {
+  "entries": [{
       "": "WK01",
       "NAME": "LIAM KAVANAGH",
       "WINNER A": "URUGUAY",
@@ -30657,3936 +30656,3935 @@ const data = {
       "Tie Breaker": 136
     }
   ],
-  "leaderboard": [
-    {
-      "Ref": "SEN132",
-      "Name": "DEAN TONER",
-      "Total Points": 98
-    },
-    {
-      "Ref": "PD58",
-      "Name": "SIMON DUMBRELL",
-      "Total Points": 97
-    },
-    {
-      "Ref": "WK09",
-      "Name": "WALTER MURPHY",
-      "Total Points": 95
-    },
-    {
-      "Ref": "SEN31",
-      "Name": "AARON DOLAN",
-      "Total Points": 95
-    },
-    {
-      "Ref": "WK06",
-      "Name": "REECE MURPHY",
-      "Total Points": 94
-    },
-    {
-      "Ref": "WK11",
-      "Name": "PAULINE BYRNE",
-      "Total Points": 94
-    },
-    {
-      "Ref": "SN27",
-      "Name": "JAMES RAFFENLY",
-      "Total Points": 94
-    },
-    {
-      "Ref": "AOH8",
-      "Name": "ANGELINA IVORY",
-      "Total Points": 94
-    },
-    {
-      "Ref": "SN11",
-      "Name": "DANIEL ROWE",
-      "Total Points": 93
-    },
-    {
-      "Ref": "RC3",
-      "Name": "MOIRA RAY",
-      "Total Points": 92
-    },
-    {
+  "leaderboard": [{
       "Ref": "AOH29",
       "Name": "AINE GROARK",
-      "Total Points": 92
-    },
-    {
-      "Ref": "SEN98",
-      "Name": "DEREK RAY",
-      "Total Points": 91
-    },
-    {
-      "Ref": "SEN115",
-      "Name": "GEORGE COSTELLO",
-      "Total Points": 91
-    },
-    {
-      "Ref": "SN54",
-      "Name": "EVAN GIBBSON",
-      "Total Points": 91
-    },
-    {
-      "Ref": "DD77",
-      "Name": "PAUL FARRELL",
-      "Total Points": 90
-    },
-    {
-      "Ref": "SEN79",
-      "Name": "THOMAS DOUGLAS",
-      "Total Points": 89
-    },
-    {
-      "Ref": "JS4",
-      "Name": "JOHN DONNELLY",
-      "Total Points": 89
-    },
-    {
-      "Ref": "KB30",
-      "Name": "SEAN WALSH",
-      "Total Points": 89
-    },
-    {
-      "Ref": "DD3",
-      "Name": "ANDREW POWER",
-      "Total Points": 89
-    },
-    {
-      "Ref": "DD74",
-      "Name": "LUKE STEDMAN",
-      "Total Points": 89
-    },
-    {
-      "Ref": "SEN100",
-      "Name": "MARK RAY",
-      "Total Points": 88
-    },
-    {
-      "Ref": "SEN116",
-      "Name": "CONOR MURPHY",
-      "Total Points": 88
-    },
-    {
-      "Ref": "PD29",
-      "Name": "NICOLA PURCELL",
-      "Total Points": 88
-    },
-    {
-      "Ref": "PD57",
-      "Name": "JONATHAN SMYTH",
-      "Total Points": 88
-    },
-    {
-      "Ref": "PC5",
-      "Name": "GEARIOD MC GLADE",
-      "Total Points": 88
-    },
-    {
-      "Ref": "SEN71",
-      "Name": "BARRY LOUGHRAN",
-      "Total Points": 87
-    },
-    {
-      "Ref": "SEN107",
-      "Name": "NICK DAVERN",
-      "Total Points": 87
-    },
-    {
-      "Ref": "AOH4",
-      "Name": "ERIC KANE",
-      "Total Points": 87
-    },
-    {
-      "Ref": "AOH5",
-      "Name": "CHRIS KANE",
-      "Total Points": 87
-    },
-    {
-      "Ref": "SEN18",
-      "Name": "PAUL BYRNE",
-      "Total Points": 86
-    },
-    {
-      "Ref": "KB1",
-      "Name": "GARY GASKIN",
-      "Total Points": 86
-    },
-    {
-      "Ref": "DD88",
-      "Name": "CIARAN MAGUIRE",
-      "Total Points": 86
-    },
-    {
-      "Ref": "SEN60",
-      "Name": "JOHN LEANARD",
-      "Total Points": 85
-    },
-    {
-      "Ref": "EL11",
-      "Name": "BERNARD G MAGUIRE",
-      "Total Points": 85
-    },
-    {
-      "Ref": "DF38",
-      "Name": "DARREN LYNCH",
-      "Total Points": 85
-    },
-    {
-      "Ref": "AOH2",
-      "Name": "OLIVIA BYRNE",
-      "Total Points": 85
-    },
-    {
-      "Ref": "DD49",
-      "Name": "WAYNE MORGAN",
-      "Total Points": 85
-    },
-    {
-      "Ref": "DD85",
-      "Name": "NOEL CHURCHARD",
-      "Total Points": 85
-    },
-    {
-      "Ref": "SEN47",
-      "Name": "MICK GORMAN",
-      "Total Points": 84
-    },
-    {
-      "Ref": "PD30",
-      "Name": "GARRETT KAVANAGH",
-      "Total Points": 84
-    },
-    {
-      "Ref": "AMCG7",
-      "Name": "KARL MC CONNELL",
-      "Total Points": 84
-    },
-    {
-      "Ref": "DF12",
-      "Name": "FIONN RIORDAN",
-      "Total Points": 84
-    },
-    {
-      "Ref": "DF20",
-      "Name": "CRAIG MAHER",
-      "Total Points": 84
-    },
-    {
-      "Ref": "AOH35",
-      "Name": "MARK LEAVY",
-      "Total Points": 84
-    },
-    {
-      "Ref": "AOH39",
-      "Name": "GARRETTE MARTIN",
-      "Total Points": 84
-    },
-    {
-      "Ref": "AOH64",
-      "Name": "PHILIP DEANE",
-      "Total Points": 84
-    },
-    {
-      "Ref": "PC3",
-      "Name": "PADDY COLLINS",
-      "Total Points": 84
-    },
-    {
-      "Ref": "SEN22",
-      "Name": "PETER WATT",
-      "Total Points": 83
-    },
-    {
-      "Ref": "SEN50",
-      "Name": "DREW LOGAN",
-      "Total Points": 83
-    },
-    {
-      "Ref": "SEN125",
-      "Name": "MICHEAL BURKE",
-      "Total Points": 83
-    },
-    {
-      "Ref": "SEN131",
-      "Name": "RYAN GRIFFITHS",
-      "Total Points": 83
-    },
-    {
-      "Ref": "SN37",
-      "Name": "DAITHI DOOLAN",
-      "Total Points": 83
-    },
-    {
-      "Ref": "AOH65",
-      "Name": "ALAN DEANE",
-      "Total Points": 83
-    },
-    {
-      "Ref": "DD13",
-      "Name": "STEPHAN JOYCE",
-      "Total Points": 83
-    },
-    {
-      "Ref": "DD32",
-      "Name": "JOHN CARROLL",
-      "Total Points": 83
-    },
-    {
-      "Ref": "WK21",
-      "Name": "JAQUELINE BURGESS",
-      "Total Points": 82
-    },
-    {
-      "Ref": "SEN12",
-      "Name": "COLOY CONNOLLY",
-      "Total Points": 82
-    },
-    {
-      "Ref": "SEN48",
-      "Name": "TOMAS DOYLE",
-      "Total Points": 82
-    },
-    {
-      "Ref": "SEN57",
-      "Name": "CIARA SMITH",
-      "Total Points": 82
-    },
-    {
-      "Ref": "SEN73",
-      "Name": "PAUL WHITNEY",
-      "Total Points": 82
-    },
-    {
-      "Ref": "SEN139",
-      "Name": "MICK ALLAN",
-      "Total Points": 82
-    },
-    {
-      "Ref": "SN28",
-      "Name": "MATT NOLAN",
-      "Total Points": 82
-    },
-    {
-      "Ref": "SN36",
-      "Name": "PADDY KILDEE-DOOLAN",
-      "Total Points": 82
-    },
-    {
-      "Ref": "SN53",
-      "Name": "LUKE BYRNE",
-      "Total Points": 82
-    },
-    {
-      "Ref": "RC1",
-      "Name": "MARK GALLAGHER",
-      "Total Points": 82
-    },
-    {
-      "Ref": "PD40",
-      "Name": "ROBERT LYNE",
-      "Total Points": 82
-    },
-    {
-      "Ref": "PD46",
-      "Name": "BRIAN SHEEDY",
-      "Total Points": 82
-    },
-    {
-      "Ref": "PD59",
-      "Name": "ROBBIE CLARKE",
-      "Total Points": 82
-    },
-    {
-      "Ref": "AMCG9",
-      "Name": "MARK MC CONNELL",
-      "Total Points": 82
-    },
-    {
-      "Ref": "DF22",
-      "Name": "MICHEAL MAHER",
-      "Total Points": 82
-    },
-    {
-      "Ref": "DF35",
-      "Name": "STEPHAN MC CARE",
-      "Total Points": 82
-    },
-    {
-      "Ref": "PC10",
-      "Name": "LUKE KNOWLES",
-      "Total Points": 82
-    },
-    {
-      "Ref": "PC43",
-      "Name": "MYLES GRAY",
-      "Total Points": 82
-    },
-    {
-      "Ref": "PC49",
-      "Name": "NIALL NOLAN",
-      "Total Points": 82
-    },
-    {
-      "Ref": "DD25",
-      "Name": "DEARBHLA KENNY",
-      "Total Points": 82
-    },
-    {
-      "Ref": "DD43",
-      "Name": "SEAN QUIGLEY",
-      "Total Points": 82
-    },
-    {
-      "Ref": "DD66",
-      "Name": "JOE HUMPHEY",
-      "Total Points": 82
-    },
-    {
-      "Ref": "WK13",
-      "Name": "MARY BYRNE",
-      "Total Points": 81
-    },
-    {
-      "Ref": "WK53",
-      "Name": "MEGAN ROBERTS",
-      "Total Points": 81
-    },
-    {
-      "Ref": "SEN38",
-      "Name": "STEPHAN CULLEN",
-      "Total Points": 81
-    },
-    {
-      "Ref": "SN2",
-      "Name": "DEREK KAVANAGH JNR",
-      "Total Points": 81
-    },
-    {
-      "Ref": "SN38",
-      "Name": "JAMES KEOGH",
-      "Total Points": 81
-    },
-    {
-      "Ref": "PC11",
-      "Name": "PAUL KNOWLES",
-      "Total Points": 81
-    },
-    {
-      "Ref": "WK34",
-      "Name": "STEVE MULHALL",
-      "Total Points": 80
-    },
-    {
-      "Ref": "SEN40",
-      "Name": "ROBERT COSTELLO",
-      "Total Points": 80
-    },
-    {
-      "Ref": "SEN126",
-      "Name": "PAUL REDDIN",
-      "Total Points": 80
-    },
-    {
-      "Ref": "SN63",
-      "Name": "LIAM CURRAN",
-      "Total Points": 80
-    },
-    {
-      "Ref": "WD25",
-      "Name": "GARY PHELAN",
-      "Total Points": 80
-    },
-    {
-      "Ref": "WK67",
-      "Name": "GEORGE COLEMAN",
-      "Total Points": 79
+      "Total Points": 164
     },
     {
       "Ref": "SN65",
       "Name": "LIAM LITTLE",
-      "Total Points": 79
+      "Total Points": 163
     },
     {
-      "Ref": "AMCG6",
-      "Name": "MARTY SCULLY",
-      "Total Points": 79
+      "Ref": "PD57",
+      "Name": "JONATHAN SMYTH",
+      "Total Points": 160
     },
     {
-      "Ref": "PC35",
-      "Name": "STUART CAMPBELL",
-      "Total Points": 79
+      "Ref": "SEN71",
+      "Name": "BARRY LOUGHRAN",
+      "Total Points": 159
     },
     {
-      "Ref": "PC40",
-      "Name": "JOHN J DWYER",
-      "Total Points": 79
+      "Ref": "SEN132",
+      "Name": "DEAN TONER",
+      "Total Points": 158
     },
     {
-      "Ref": "SEN55",
-      "Name": "ROB MAHER",
-      "Total Points": 78
+      "Ref": "DD85",
+      "Name": "NOEL CHURCHARD",
+      "Total Points": 157
     },
     {
-      "Ref": "SN19",
-      "Name": "SEAN MC",
-      "Total Points": 78
+      "Ref": "SEN31",
+      "Name": "AARON DOLAN",
+      "Total Points": 155
     },
     {
-      "Ref": "SN39",
-      "Name": "PAUL UZELL",
-      "Total Points": 78
+      "Ref": "SN27",
+      "Name": "JAMES RAFFENLY",
+      "Total Points": 154
     },
     {
-      "Ref": "GC8",
-      "Name": "KEVIN MCENTEE",
-      "Total Points": 78
+      "Ref": "AOH8",
+      "Name": "ANGELINA IVORY",
+      "Total Points": 154
     },
     {
-      "Ref": "JS3",
-      "Name": "WILLIAM DOYLE",
-      "Total Points": 78
+      "Ref": "SEN38",
+      "Name": "STEPHAN CULLEN",
+      "Total Points": 153
     },
     {
-      "Ref": "WK03",
-      "Name": "TOM MC MAHON",
-      "Total Points": 77
+      "Ref": "RC3",
+      "Name": "MOIRA RAY",
+      "Total Points": 152
     },
     {
-      "Ref": "WK16",
-      "Name": "SEAN BYRNE",
-      "Total Points": 77
+      "Ref": "SEN98",
+      "Name": "DEREK RAY",
+      "Total Points": 151
     },
     {
-      "Ref": "WK29",
-      "Name": "ADAM KAVANAGH",
-      "Total Points": 77
+      "Ref": "SEN115",
+      "Name": "GEORGE COSTELLO",
+      "Total Points": 151
     },
     {
-      "Ref": "WK44",
-      "Name": "MEABH WHITE",
-      "Total Points": 77
-    },
-    {
-      "Ref": "WK46",
-      "Name": "PATERICK MAHER",
-      "Total Points": 77
-    },
-    {
-      "Ref": "WK57",
-      "Name": "CONOR RAY",
-      "Total Points": 77
+      "Ref": "SN54",
+      "Name": "EVAN GIBBSON",
+      "Total Points": 151
     },
     {
       "Ref": "WK66",
       "Name": "OVIDIA",
-      "Total Points": 77
+      "Total Points": 149
     },
     {
-      "Ref": "WK82",
-      "Name": "DEREK CARROLL",
-      "Total Points": 77
+      "Ref": "JS4",
+      "Name": "JOHN DONNELLY",
+      "Total Points": 149
     },
     {
-      "Ref": "WK83",
-      "Name": "JOHN DOE",
-      "Total Points": 77
+      "Ref": "KB30",
+      "Name": "SEAN WALSH",
+      "Total Points": 149
     },
     {
-      "Ref": "SEN20",
-      "Name": "DEREK RYAN",
-      "Total Points": 77
+      "Ref": "DD3",
+      "Name": "ANDREW POWER",
+      "Total Points": 149
     },
     {
-      "Ref": "SEN24",
-      "Name": "T. COUZER",
-      "Total Points": 77
+      "Ref": "DD74",
+      "Name": "LUKE STEDMAN",
+      "Total Points": 149
     },
     {
-      "Ref": "SEN30",
-      "Name": "JOE CULLY",
-      "Total Points": 77
+      "Ref": "SEN116",
+      "Name": "CONOR MURPHY",
+      "Total Points": 148
     },
     {
-      "Ref": "SEN54",
-      "Name": "DAVE MOGRHOUSE",
-      "Total Points": 77
+      "Ref": "PD29",
+      "Name": "NICOLA PURCELL",
+      "Total Points": 148
     },
     {
-      "Ref": "SEN96",
-      "Name": "MARK FREEMAN",
-      "Total Points": 77
+      "Ref": "SEN107",
+      "Name": "NICK DAVERN",
+      "Total Points": 147
     },
     {
-      "Ref": "SEN105",
-      "Name": "COLIN HORN",
-      "Total Points": 77
+      "Ref": "AOH5",
+      "Name": "CHRIS KANE",
+      "Total Points": 147
     },
     {
-      "Ref": "SEN137",
-      "Name": "CALUM MC ELLIGOTT",
-      "Total Points": 77
+      "Ref": "SEN18",
+      "Name": "PAUL BYRNE",
+      "Total Points": 146
     },
     {
-      "Ref": "SEN138",
-      "Name": "CARL ALLAN",
-      "Total Points": 77
+      "Ref": "KB1",
+      "Name": "GARY GASKIN",
+      "Total Points": 146
     },
     {
-      "Ref": "SN13",
-      "Name": "PAUL MC ARDE",
-      "Total Points": 77
-    },
-    {
-      "Ref": "PD27",
-      "Name": "JUDY O NEILL",
-      "Total Points": 77
-    },
-    {
-      "Ref": "PD41",
-      "Name": "BOBBY TAAFFE",
-      "Total Points": 77
-    },
-    {
-      "Ref": "PD60",
-      "Name": "LEE DILLON",
-      "Total Points": 77
-    },
-    {
-      "Ref": "GC14",
-      "Name": "BEN SMYTH",
-      "Total Points": 77
-    },
-    {
-      "Ref": "JS5",
-      "Name": "DAVID KIERNAN",
-      "Total Points": 77
-    },
-    {
-      "Ref": "EL2",
-      "Name": "JACKIE BRENNAN",
-      "Total Points": 77
-    },
-    {
-      "Ref": "EL18",
-      "Name": "DARYLL NOTARO",
-      "Total Points": 77
-    },
-    {
-      "Ref": "AMCG5",
-      "Name": "NIGEL MC CONNELL",
-      "Total Points": 77
-    },
-    {
-      "Ref": "AMCG11",
-      "Name": "ANTO MC GLYNN",
-      "Total Points": 77
-    },
-    {
-      "Ref": "WD11",
-      "Name": "PAULA GLYNN",
-      "Total Points": 77
-    },
-    {
-      "Ref": "WD23",
-      "Name": "WILLIE DONNELLY",
-      "Total Points": 77
-    },
-    {
-      "Ref": "KB27",
-      "Name": "LISA BRADLEY",
-      "Total Points": 77
-    },
-    {
-      "Ref": "DF4",
-      "Name": "BARRY MAGUIRE",
-      "Total Points": 77
-    },
-    {
-      "Ref": "DF5",
-      "Name": "NICOLAI DIMAN",
-      "Total Points": 77
-    },
-    {
-      "Ref": "DF11",
-      "Name": "MICK COTTER",
-      "Total Points": 77
-    },
-    {
-      "Ref": "DF13",
-      "Name": "PAT PHELAN",
-      "Total Points": 77
-    },
-    {
-      "Ref": "DF14",
-      "Name": "LUKE FARRELLY",
-      "Total Points": 77
-    },
-    {
-      "Ref": "DF25",
-      "Name": "RAY RYAN",
-      "Total Points": 77
-    },
-    {
-      "Ref": "DF36",
-      "Name": "GAVIN DUNNE",
-      "Total Points": 77
-    },
-    {
-      "Ref": "AOH14",
-      "Name": "PAUL MC GRATH",
-      "Total Points": 77
-    },
-    {
-      "Ref": "AOH24",
-      "Name": "BRIAN HARVEY",
-      "Total Points": 77
-    },
-    {
-      "Ref": "AOH68",
-      "Name": "PADDY NEARY",
-      "Total Points": 77
-    },
-    {
-      "Ref": "PC23",
-      "Name": "NICKIE BOLAND",
-      "Total Points": 77
-    },
-    {
-      "Ref": "DD22",
-      "Name": "LIAM WHELAN",
-      "Total Points": 77
-    },
-    {
-      "Ref": "DD67",
-      "Name": "HELEN STEDMAN",
-      "Total Points": 77
-    },
-    {
-      "Ref": "DD71",
-      "Name": "MICK KAVANAGH",
-      "Total Points": 77
-    },
-    {
-      "Ref": "DD86",
-      "Name": "AARON CHURCHARD",
-      "Total Points": 77
-    },
-    {
-      "Ref": "DD96",
-      "Name": "SHAUNA MCKAY",
-      "Total Points": 77
-    },
-    {
-      "Ref": "WK25",
-      "Name": "M KAVANAGH",
-      "Total Points": 76
-    },
-    {
-      "Ref": "WK49",
-      "Name": "SAM MALONE",
-      "Total Points": 76
-    },
-    {
-      "Ref": "WK70",
-      "Name": "GRAHAM HOGAN",
-      "Total Points": 76
-    },
-    {
-      "Ref": "SEN130",
-      "Name": "GLEN TONER",
-      "Total Points": 76
-    },
-    {
-      "Ref": "PD18",
-      "Name": "JAKE SHERIDAN",
-      "Total Points": 76
-    },
-    {
-      "Ref": "PD44",
-      "Name": "JOSH TAAFFE",
-      "Total Points": 76
-    },
-    {
-      "Ref": "AMCG10",
-      "Name": "MARGARET MC CONNELL",
-      "Total Points": 76
-    },
-    {
-      "Ref": "WD4",
-      "Name": "JOHN OSBOURNE",
-      "Total Points": 76
-    },
-    {
-      "Ref": "WD16",
-      "Name": "VINCENT APPLEBY",
-      "Total Points": 76
-    },
-    {
-      "Ref": "DF32",
-      "Name": "DEREK MALONEY",
-      "Total Points": 76
-    },
-    {
-      "Ref": "AOH59",
-      "Name": "ANTO LANDERS",
-      "Total Points": 76
-    },
-    {
-      "Ref": "PC6",
-      "Name": "DECLAN PROCTOR",
-      "Total Points": 76
-    },
-    {
-      "Ref": "DD45",
-      "Name": "DES MALONEY",
-      "Total Points": 76
-    },
-    {
-      "Ref": "DD75",
-      "Name": "GARY STEDMAN",
-      "Total Points": 76
-    },
-    {
-      "Ref": "DD82",
-      "Name": "JOHN STEDMAN",
-      "Total Points": 76
-    },
-    {
-      "Ref": "DD92",
-      "Name": "JAMES PROUDFOOT",
-      "Total Points": 76
-    },
-    {
-      "Ref": "WK45",
-      "Name": "SHAY O REILLY",
-      "Total Points": 75
-    },
-    {
-      "Ref": "WK51",
-      "Name": "JOHN KELLY",
-      "Total Points": 75
-    },
-    {
-      "Ref": "SEN82",
-      "Name": "ROBERT WILTON",
-      "Total Points": 75
-    },
-    {
-      "Ref": "SEN93",
-      "Name": "MARK MC DONAH",
-      "Total Points": 75
-    },
-    {
-      "Ref": "SEN102",
-      "Name": "ADAM GLENIS",
-      "Total Points": 75
-    },
-    {
-      "Ref": "SN23",
-      "Name": "DEREK NOLAN",
-      "Total Points": 75
-    },
-    {
-      "Ref": "RC15",
-      "Name": "CALLUM DONOHOE",
-      "Total Points": 75
-    },
-    {
-      "Ref": "EL12",
-      "Name": "JIM CARROLL",
-      "Total Points": 75
-    },
-    {
-      "Ref": "EL14",
-      "Name": "ZIGGY CARROLL",
-      "Total Points": 75
-    },
-    {
-      "Ref": "AOH37",
-      "Name": "DARRAGH LEAVY",
-      "Total Points": 75
-    },
-    {
-      "Ref": "PC24",
-      "Name": "LUKE FITZPATRICK",
-      "Total Points": 75
-    },
-    {
-      "Ref": "DD57",
-      "Name": "PAT DEVLIN",
-      "Total Points": 75
-    },
-    {
-      "Ref": "DD65",
-      "Name": "INAE MINCHETTI",
-      "Total Points": 75
-    },
-    {
-      "Ref": "SEN108",
-      "Name": "AIDAN ROBERTY",
-      "Total Points": 74
-    },
-    {
-      "Ref": "SN10",
-      "Name": "JOHN ROWE",
-      "Total Points": 74
-    },
-    {
-      "Ref": "SN29",
-      "Name": "RICKY CORMALL",
-      "Total Points": 74
-    },
-    {
-      "Ref": "SN46",
-      "Name": "PAUL MURRAY",
-      "Total Points": 74
-    },
-    {
-      "Ref": "PD8",
-      "Name": "MARK COONEY",
-      "Total Points": 74
-    },
-    {
-      "Ref": "PD10",
-      "Name": "PAUL SHORTT",
-      "Total Points": 74
-    },
-    {
-      "Ref": "PD21",
-      "Name": "KIAN MAGUIRE",
-      "Total Points": 74
-    },
-    {
-      "Ref": "GC23",
-      "Name": "AARON WATERHOUSE",
-      "Total Points": 74
-    },
-    {
-      "Ref": "JS18",
-      "Name": "STEPHEN O REILLY",
-      "Total Points": 74
-    },
-    {
-      "Ref": "AMCG1",
-      "Name": "DERMOT COONEY",
-      "Total Points": 74
-    },
-    {
-      "Ref": "KB24",
-      "Name": "BRYAN ROCHE",
-      "Total Points": 74
-    },
-    {
-      "Ref": "KB28",
-      "Name": "SUSAN + ROLAND DARCY",
-      "Total Points": 74
-    },
-    {
-      "Ref": "AOH48",
-      "Name": "KEVIN LIDDLE",
-      "Total Points": 74
-    },
-    {
-      "Ref": "PC7",
-      "Name": "SHANE O REILLY",
-      "Total Points": 74
-    },
-    {
-      "Ref": "PC38",
-      "Name": "DENIS FLYNN",
-      "Total Points": 74
-    },
-    {
-      "Ref": "DD51",
-      "Name": "MARK + SHAY",
-      "Total Points": 74
-    },
-    {
-      "Ref": "WK87",
-      "Name": "NIAMH O CONNOR",
-      "Total Points": 73
-    },
-    {
-      "Ref": "SEN34",
-      "Name": "LAURENCE WELDON",
-      "Total Points": 73
+      "Ref": "DD88",
+      "Name": "CIARAN MAGUIRE",
+      "Total Points": 146
     },
     {
       "Ref": "SEN56",
       "Name": "IAN WILSON",
-      "Total Points": 73
-    },
-    {
-      "Ref": "SEN101",
-      "Name": "IAN ELLIS",
-      "Total Points": 73
-    },
-    {
-      "Ref": "SN32",
-      "Name": "SEAN MARTYN",
-      "Total Points": 73
-    },
-    {
-      "Ref": "SN35",
-      "Name": "JOHN KELLY",
-      "Total Points": 73
-    },
-    {
-      "Ref": "SN51",
-      "Name": "LIZ FARRELL",
-      "Total Points": 73
-    },
-    {
-      "Ref": "SN62",
-      "Name": "BILLY CURRAN",
-      "Total Points": 73
+      "Total Points": 145
     },
     {
       "Ref": "RC13",
       "Name": "PAUL BARRETT",
-      "Total Points": 73
+      "Total Points": 145
     },
     {
-      "Ref": "PD13",
-      "Name": "ADAM SHORTT",
-      "Total Points": 73
+      "Ref": "PD58",
+      "Name": "SIMON DUMBRELL",
+      "Total Points": 145
     },
     {
-      "Ref": "PD49",
-      "Name": "JOE DOOLIN",
-      "Total Points": 73
+      "Ref": "EL11",
+      "Name": "BERNARD G MAGUIRE",
+      "Total Points": 145
     },
     {
-      "Ref": "PD61",
-      "Name": "ALAN CLARKE",
-      "Total Points": 73
+      "Ref": "DF38",
+      "Name": "DARREN LYNCH",
+      "Total Points": 145
     },
     {
-      "Ref": "AMCG3",
-      "Name": "KEITH MC GLYNN",
-      "Total Points": 73
+      "Ref": "AOH2",
+      "Name": "OLIVIA BYRNE",
+      "Total Points": 145
     },
     {
-      "Ref": "WD2",
-      "Name": "KAY FINN",
-      "Total Points": 73
+      "Ref": "SEN47",
+      "Name": "MICK GORMAN",
+      "Total Points": 144
     },
     {
-      "Ref": "WD18",
-      "Name": "JANICE PIDGEON",
-      "Total Points": 73
+      "Ref": "PD30",
+      "Name": "GARRETT KAVANAGH",
+      "Total Points": 144
     },
     {
-      "Ref": "KB26",
-      "Name": "LIAM BRADLEY",
-      "Total Points": 73
+      "Ref": "DF12",
+      "Name": "FIONN RIORDAN",
+      "Total Points": 144
     },
     {
-      "Ref": "DF8",
-      "Name": "JOHN CLIFFORD",
-      "Total Points": 73
+      "Ref": "AOH39",
+      "Name": "GARRETTE MARTIN",
+      "Total Points": 144
     },
     {
-      "Ref": "AOH57",
-      "Name": "LAURA O HALLORAN",
-      "Total Points": 73
+      "Ref": "AOH64",
+      "Name": "PHILIP DEANE",
+      "Total Points": 144
     },
     {
-      "Ref": "PC13",
-      "Name": "BILL DOYLE",
-      "Total Points": 73
+      "Ref": "PC3",
+      "Name": "PADDY COLLINS",
+      "Total Points": 144
     },
     {
-      "Ref": "DD20",
-      "Name": "CALLUM WALSH",
-      "Total Points": 73
+      "Ref": "WK09",
+      "Name": "WALTER MURPHY",
+      "Total Points": 143
     },
     {
-      "Ref": "WK76",
-      "Name": "COLM DUNNE",
-      "Total Points": 72
+      "Ref": "SEN125",
+      "Name": "MICHEAL BURKE",
+      "Total Points": 143
     },
     {
-      "Ref": "SEN4",
-      "Name": "OLIVER BYRNE",
-      "Total Points": 72
+      "Ref": "SEN131",
+      "Name": "RYAN GRIFFITHS",
+      "Total Points": 143
     },
     {
-      "Ref": "SEN41",
-      "Name": "CONOR DUNPHY",
-      "Total Points": 72
-    },
-    {
-      "Ref": "SEN63",
-      "Name": "ADAM",
-      "Total Points": 72
-    },
-    {
-      "Ref": "SEN65",
-      "Name": "ANNE CULLEN",
-      "Total Points": 72
-    },
-    {
-      "Ref": "SEN86",
-      "Name": "ALFIE CULLY",
-      "Total Points": 72
-    },
-    {
-      "Ref": "SEN90",
-      "Name": "BRAIN BRANNIGAN",
-      "Total Points": 72
-    },
-    {
-      "Ref": "SEN99",
-      "Name": "LAURA MILL",
-      "Total Points": 72
-    },
-    {
-      "Ref": "SN5",
-      "Name": "DARRAGH WARD",
-      "Total Points": 72
-    },
-    {
-      "Ref": "SN15",
-      "Name": "SEAN MC MAHON",
-      "Total Points": 72
-    },
-    {
-      "Ref": "SN45",
-      "Name": "GRAEM FARRELL",
-      "Total Points": 72
-    },
-    {
-      "Ref": "RC11",
-      "Name": "CIARA + JENNIFER",
-      "Total Points": 72
-    },
-    {
-      "Ref": "PD33",
-      "Name": "CONOR MONGAN",
-      "Total Points": 72
-    },
-    {
-      "Ref": "GC1",
-      "Name": "GREG CONNOLLY",
-      "Total Points": 72
-    },
-    {
-      "Ref": "GC2",
-      "Name": "MORGAN CAMPBELL",
-      "Total Points": 72
-    },
-    {
-      "Ref": "JS7",
-      "Name": "DONAL GILMER",
-      "Total Points": 72
-    },
-    {
-      "Ref": "JS11",
-      "Name": "ALEX SHANNON",
-      "Total Points": 72
-    },
-    {
-      "Ref": "JS21",
-      "Name": "VICKY REDDIN",
-      "Total Points": 72
-    },
-    {
-      "Ref": "EL7",
-      "Name": "LISA BRENNAN",
-      "Total Points": 72
-    },
-    {
-      "Ref": "WD5",
-      "Name": "IAN EARLY",
-      "Total Points": 72
-    },
-    {
-      "Ref": "WD8",
-      "Name": "DAVE MC CREEVY",
-      "Total Points": 72
-    },
-    {
-      "Ref": "AOH28",
-      "Name": "KEN GORRY 1",
-      "Total Points": 72
-    },
-    {
-      "Ref": "AOH43",
-      "Name": "ANDY MAHON",
-      "Total Points": 72
-    },
-    {
-      "Ref": "AOH44",
-      "Name": "JOSH MCSTAY",
-      "Total Points": 72
-    },
-    {
-      "Ref": "PC15",
-      "Name": "DAVID DOYLE",
-      "Total Points": 72
-    },
-    {
-      "Ref": "PC46",
-      "Name": "CONOR TURNER",
-      "Total Points": 72
-    },
-    {
-      "Ref": "DD17",
-      "Name": "SEAN WALSH",
-      "Total Points": 72
-    },
-    {
-      "Ref": "DD39",
-      "Name": "JACK DOYLE",
-      "Total Points": 72
-    },
-    {
-      "Ref": "DD44",
-      "Name": "STEPHAN COATES",
-      "Total Points": 72
-    },
-    {
-      "Ref": "DD83",
-      "Name": "DAIRE HANCOCK",
-      "Total Points": 72
-    },
-    {
-      "Ref": "WK12",
-      "Name": "JOHN BYRNE",
-      "Total Points": 71
-    },
-    {
-      "Ref": "WK17",
-      "Name": "MUIRE WHITE",
-      "Total Points": 71
-    },
-    {
-      "Ref": "WK18",
-      "Name": "MUIRE WHITE 2",
-      "Total Points": 71
-    },
-    {
-      "Ref": "WK35",
-      "Name": "CHRISTY BYRNE",
-      "Total Points": 71
-    },
-    {
-      "Ref": "SEN32",
-      "Name": "BILLY BYRNE",
-      "Total Points": 71
-    },
-    {
-      "Ref": "SEN72",
-      "Name": "CHRISTINE LEONARD",
-      "Total Points": 71
-    },
-    {
-      "Ref": "SN7",
-      "Name": "JONATHAN KERRIGAN",
-      "Total Points": 71
-    },
-    {
-      "Ref": "SN14",
-      "Name": "IAN COUGHLAN",
-      "Total Points": 71
-    },
-    {
-      "Ref": "SN43",
-      "Name": "SHAY TRACY",
-      "Total Points": 71
-    },
-    {
-      "Ref": "SN59",
-      "Name": "PATRICK WHEATLEY",
-      "Total Points": 71
-    },
-    {
-      "Ref": "SN61",
-      "Name": "CORMAC CURRAN",
-      "Total Points": 71
-    },
-    {
-      "Ref": "RC8",
-      "Name": "NICHOLAS BELNIVOHAN",
-      "Total Points": 71
-    },
-    {
-      "Ref": "RC16",
-      "Name": "DEREK DONOHOE",
-      "Total Points": 71
-    },
-    {
-      "Ref": "PD6",
-      "Name": "JODIE BURKE",
-      "Total Points": 71
-    },
-    {
-      "Ref": "PD48",
-      "Name": "KEITH DEVLIN",
-      "Total Points": 71
-    },
-    {
-      "Ref": "PD62",
-      "Name": "ALAN CLARKE",
-      "Total Points": 71
-    },
-    {
-      "Ref": "GC20",
-      "Name": "LARRY PIERCE",
-      "Total Points": 71
-    },
-    {
-      "Ref": "JS14",
-      "Name": "CALLUM QUINN",
-      "Total Points": 71
-    },
-    {
-      "Ref": "WD17",
-      "Name": "WANYE GLYNN",
-      "Total Points": 71
-    },
-    {
-      "Ref": "KB5",
-      "Name": "JOHN BYRNE",
-      "Total Points": 71
-    },
-    {
-      "Ref": "KB11",
-      "Name": "BERNARD KILLEEN",
-      "Total Points": 71
-    },
-    {
-      "Ref": "KB12",
-      "Name": "KEITH BYRNE",
-      "Total Points": 71
-    },
-    {
-      "Ref": "DF39",
-      "Name": "RIMAMHS GRESTANIAS",
-      "Total Points": 71
-    },
-    {
-      "Ref": "AOH16",
-      "Name": "JASON O HALLORAN",
-      "Total Points": 71
-    },
-    {
-      "Ref": "AOH62",
-      "Name": "DAVID ROCHE",
-      "Total Points": 71
-    },
-    {
-      "Ref": "AOH69",
-      "Name": "ROBERT NOLAN",
-      "Total Points": 71
-    },
-    {
-      "Ref": "PC50",
-      "Name": "GARY RYAN",
-      "Total Points": 71
-    },
-    {
-      "Ref": "DD1",
-      "Name": "THOMAS POWER",
-      "Total Points": 71
-    },
-    {
-      "Ref": "DD69",
-      "Name": "PHIL MURPHY",
-      "Total Points": 71
+      "Ref": "AOH65",
+      "Name": "ALAN DEANE",
+      "Total Points": 143
     },
     {
       "Ref": "DD97",
       "Name": "PADDY DUNNE",
-      "Total Points": 71
+      "Total Points": 143
     },
     {
-      "Ref": "WK01",
-      "Name": "LIAM KAVANAGH",
-      "Total Points": 70
+      "Ref": "WK06",
+      "Name": "REECE MURPHY",
+      "Total Points": 142
     },
     {
-      "Ref": "WK39",
-      "Name": "SUSAN BYRNE",
-      "Total Points": 70
+      "Ref": "WK21",
+      "Name": "JAQUELINE BURGESS",
+      "Total Points": 142
     },
     {
-      "Ref": "WK55",
-      "Name": "TOM MATTHEWS",
-      "Total Points": 70
+      "Ref": "SEN12",
+      "Name": "COLOY CONNOLLY",
+      "Total Points": 142
     },
     {
-      "Ref": "WK63",
-      "Name": "PAUL CHESTER",
-      "Total Points": 70
+      "Ref": "SEN48",
+      "Name": "TOMAS DOYLE",
+      "Total Points": 142
     },
     {
-      "Ref": "WK68",
-      "Name": "JOHN MURPHY",
-      "Total Points": 70
+      "Ref": "RC1",
+      "Name": "MARK GALLAGHER",
+      "Total Points": 142
     },
     {
-      "Ref": "WK84",
-      "Name": "DAVID BEHAN",
-      "Total Points": 70
+      "Ref": "DF22",
+      "Name": "MICHEAL MAHER",
+      "Total Points": 142
     },
     {
-      "Ref": "SEN45",
-      "Name": "BRAIN",
-      "Total Points": 70
+      "Ref": "DF35",
+      "Name": "STEPHAN MC CARE",
+      "Total Points": 142
     },
     {
-      "Ref": "SN6",
-      "Name": "DAVID CAMPBELL",
-      "Total Points": 70
+      "Ref": "PC43",
+      "Name": "MYLES GRAY",
+      "Total Points": 142
     },
     {
-      "Ref": "SN31",
-      "Name": "LISA NOLAN",
-      "Total Points": 70
-    },
-    {
-      "Ref": "SN44",
-      "Name": "JOHN KAVANGH",
-      "Total Points": 70
-    },
-    {
-      "Ref": "PD45",
-      "Name": "JORDAN CORENER",
-      "Total Points": 70
-    },
-    {
-      "Ref": "GC11",
-      "Name": "JOHN KEOGH",
-      "Total Points": 70
-    },
-    {
-      "Ref": "WD3",
-      "Name": "PAUL ARTHURS",
-      "Total Points": 70
-    },
-    {
-      "Ref": "KB2",
-      "Name": "GEMMA GASKIN",
-      "Total Points": 70
-    },
-    {
-      "Ref": "DF45",
-      "Name": "RICHIE HALPIN",
-      "Total Points": 70
-    },
-    {
-      "Ref": "AOH60",
-      "Name": "LEE LANDERS",
-      "Total Points": 70
-    },
-    {
-      "Ref": "PC21",
-      "Name": "ANDY KAVANAGH",
-      "Total Points": 70
-    },
-    {
-      "Ref": "PC25",
-      "Name": "ALAN GUERRINE",
-      "Total Points": 70
-    },
-    {
-      "Ref": "PC44",
-      "Name": "TYLOR COLOM",
-      "Total Points": 70
-    },
-    {
-      "Ref": "DD63",
-      "Name": "PETER CHARLES",
-      "Total Points": 70
-    },
-    {
-      "Ref": "DD87",
-      "Name": "DAVID MOORE",
-      "Total Points": 70
-    },
-    {
-      "Ref": "WK07",
-      "Name": "LEE KIRWAN",
-      "Total Points": 69
-    },
-    {
-      "Ref": "WK60",
-      "Name": "SEAN O NEILL",
-      "Total Points": 69
-    },
-    {
-      "Ref": "SEN23",
-      "Name": "ALEX WATT",
-      "Total Points": 69
-    },
-    {
-      "Ref": "SEN28",
-      "Name": "IAN BOLAND",
-      "Total Points": 69
-    },
-    {
-      "Ref": "SEN35",
-      "Name": "TED MADAGHJIAN",
-      "Total Points": 69
-    },
-    {
-      "Ref": "SEN80",
-      "Name": "AUSTIN DOUGLAS",
-      "Total Points": 69
-    },
-    {
-      "Ref": "SEN136",
-      "Name": "CAMERON MORAN",
-      "Total Points": 69
-    },
-    {
-      "Ref": "RC12",
-      "Name": "RACHEL BARRETT",
-      "Total Points": 69
-    },
-    {
-      "Ref": "PD23",
-      "Name": "KIAN MAGUIRE",
-      "Total Points": 69
+      "Ref": "SN38",
+      "Name": "JAMES KEOGH",
+      "Total Points": 141
     },
     {
       "Ref": "JS6",
       "Name": "GERARD KIERNAN",
-      "Total Points": 69
-    },
-    {
-      "Ref": "EL13",
-      "Name": "COLM MAGUIRE",
-      "Total Points": 69
-    },
-    {
-      "Ref": "EL15",
-      "Name": "JACK DOYLE",
-      "Total Points": 69
-    },
-    {
-      "Ref": "EL19",
-      "Name": "DEREK BRENNAN",
-      "Total Points": 69
-    },
-    {
-      "Ref": "KB7",
-      "Name": "JOHANNA KEEGAN",
-      "Total Points": 69
-    },
-    {
-      "Ref": "KB9",
-      "Name": "PADDY DUNNE",
-      "Total Points": 69
-    },
-    {
-      "Ref": "KB13",
-      "Name": "PAUL SHEIL",
-      "Total Points": 69
-    },
-    {
-      "Ref": "AOH9",
-      "Name": "SEAN IVORY",
-      "Total Points": 69
-    },
-    {
-      "Ref": "AOH12",
-      "Name": "THOMAS GENOCKEY",
-      "Total Points": 69
-    },
-    {
-      "Ref": "AOH38",
-      "Name": "CIAN LEAVY",
-      "Total Points": 69
-    },
-    {
-      "Ref": "AOH50",
-      "Name": "MEGAN CLEARY",
-      "Total Points": 69
-    },
-    {
-      "Ref": "PC20",
-      "Name": "ANDREW KAVANAGH",
-      "Total Points": 69
-    },
-    {
-      "Ref": "DD78",
-      "Name": "STEO STEDMAN",
-      "Total Points": 69
-    },
-    {
-      "Ref": "DD79",
-      "Name": "JOANATHON KINSELLA",
-      "Total Points": 69
-    },
-    {
-      "Ref": "DD102",
-      "Name": "KRRYSTOF",
-      "Total Points": 69
-    },
-    {
-      "Ref": "WK59",
-      "Name": "GEAROID RAY",
-      "Total Points": 68
-    },
-    {
-      "Ref": "SEN62",
-      "Name": "KYLE COSTELLO",
-      "Total Points": 68
-    },
-    {
-      "Ref": "SEN106",
-      "Name": "BREN BURKE",
-      "Total Points": 68
-    },
-    {
-      "Ref": "SN1",
-      "Name": "ROBERT KAVANAGH",
-      "Total Points": 68
-    },
-    {
-      "Ref": "SN34",
-      "Name": "J J KELLY",
-      "Total Points": 68
-    },
-    {
-      "Ref": "SN41",
-      "Name": "MARK BYRNE",
-      "Total Points": 68
-    },
-    {
-      "Ref": "PD11",
-      "Name": "DAVID DOYLE",
-      "Total Points": 68
-    },
-    {
-      "Ref": "PD15",
-      "Name": "MICK BURKE SNR",
-      "Total Points": 68
-    },
-    {
-      "Ref": "PD55",
-      "Name": "CARLY EGAN",
-      "Total Points": 68
-    },
-    {
-      "Ref": "GC4",
-      "Name": "LAR KEANE",
-      "Total Points": 68
-    },
-    {
-      "Ref": "JS10",
-      "Name": "YVAN",
-      "Total Points": 68
-    },
-    {
-      "Ref": "WD12",
-      "Name": "RYAN DONNELLY",
-      "Total Points": 68
-    },
-    {
-      "Ref": "WD15",
-      "Name": "JONNY RYAN",
-      "Total Points": 68
-    },
-    {
-      "Ref": "WD20",
-      "Name": "VALERIE CAHILL",
-      "Total Points": 68
-    },
-    {
-      "Ref": "DF34",
-      "Name": "THOMAS BLAIR",
-      "Total Points": 68
-    },
-    {
-      "Ref": "DF41",
-      "Name": "DOREEN RYAN",
-      "Total Points": 68
-    },
-    {
-      "Ref": "DF44",
-      "Name": "COLM MCINTYRE",
-      "Total Points": 68
-    },
-    {
-      "Ref": "AOH1",
-      "Name": "CONOR MAHON",
-      "Total Points": 68
-    },
-    {
-      "Ref": "AOH6",
-      "Name": "MARK KANE",
-      "Total Points": 68
-    },
-    {
-      "Ref": "AOH11",
-      "Name": "AIDAN SMITH",
-      "Total Points": 68
-    },
-    {
-      "Ref": "AOH34",
-      "Name": "CLAUDE DUFFY",
-      "Total Points": 68
-    },
-    {
-      "Ref": "AOH47",
-      "Name": "FRANCIS BILARDI",
-      "Total Points": 68
-    },
-    {
-      "Ref": "AOH63",
-      "Name": "DAMIEN O RAW",
-      "Total Points": 68
-    },
-    {
-      "Ref": "PC32",
-      "Name": "DAVID WOODS",
-      "Total Points": 68
-    },
-    {
-      "Ref": "PC42",
-      "Name": "JOE DWYER",
-      "Total Points": 68
-    },
-    {
-      "Ref": "DD50",
-      "Name": "PAUL MOLLOY",
-      "Total Points": 68
+      "Total Points": 141
     },
     {
       "Ref": "DD95",
       "Name": "CAOIMHIN MCKAY",
-      "Total Points": 68
+      "Total Points": 140
     },
     {
-      "Ref": "DD101",
-      "Name": "EIAINE KEARNS",
-      "Total Points": 68
+      "Ref": "SEN55",
+      "Name": "ROB MAHER",
+      "Total Points": 138
     },
     {
-      "Ref": "WK72",
-      "Name": "MARTIN KILMURRAY",
-      "Total Points": 67
+      "Ref": "GC8",
+      "Name": "KEVIN MCENTEE",
+      "Total Points": 138
     },
     {
-      "Ref": "SEN14",
-      "Name": "GERARD SHEEHAN",
-      "Total Points": 67
+      "Ref": "JS3",
+      "Name": "WILLIAM DOYLE",
+      "Total Points": 138
     },
     {
-      "Ref": "SEN70",
-      "Name": "BRAIN SNOWE",
-      "Total Points": 67
+      "Ref": "WK16",
+      "Name": "SEAN BYRNE",
+      "Total Points": 137
     },
     {
-      "Ref": "SEN87",
-      "Name": "JOE CULLY",
-      "Total Points": 67
+      "Ref": "WK57",
+      "Name": "CONOR RAY",
+      "Total Points": 137
     },
     {
-      "Ref": "SEN135",
-      "Name": "MARK SANDFORD",
-      "Total Points": 67
+      "Ref": "SEN54",
+      "Name": "DAVE MOGRHOUSE",
+      "Total Points": 137
     },
     {
-      "Ref": "SN9",
-      "Name": "OLIVIA + ANNE ROWE",
-      "Total Points": 67
+      "Ref": "SEN79",
+      "Name": "THOMAS DOUGLAS",
+      "Total Points": 137
     },
     {
-      "Ref": "SN18",
-      "Name": "CHRISRINA STERGIOU",
-      "Total Points": 67
+      "Ref": "SN13",
+      "Name": "PAUL MC ARDE",
+      "Total Points": 137
     },
     {
-      "Ref": "SN49",
-      "Name": "DAMIEN FARRELL",
-      "Total Points": 67
+      "Ref": "PD27",
+      "Name": "JUDY O NEILL",
+      "Total Points": 137
     },
     {
-      "Ref": "SN50",
-      "Name": "TONY FARRELL",
-      "Total Points": 67
+      "Ref": "EL18",
+      "Name": "DARYLL NOTARO",
+      "Total Points": 137
     },
     {
-      "Ref": "RC2",
-      "Name": "NOEL MOORE",
-      "Total Points": 67
+      "Ref": "AMCG5",
+      "Name": "NIGEL MC CONNELL",
+      "Total Points": 137
     },
     {
-      "Ref": "PD54",
-      "Name": "PAUL EGAN",
-      "Total Points": 67
+      "Ref": "AMCG11",
+      "Name": "ANTO MC GLYNN",
+      "Total Points": 137
     },
     {
-      "Ref": "GC3",
-      "Name": "MARK CONNOLLY",
-      "Total Points": 67
+      "Ref": "WD23",
+      "Name": "WILLIE DONNELLY",
+      "Total Points": 137
     },
     {
-      "Ref": "GC7",
-      "Name": "FINTAN WYNNE",
-      "Total Points": 67
+      "Ref": "KB27",
+      "Name": "LISA BRADLEY",
+      "Total Points": 137
     },
     {
-      "Ref": "JS17",
-      "Name": "CHRIS O CONNELL",
-      "Total Points": 67
+      "Ref": "DF13",
+      "Name": "PAT PHELAN",
+      "Total Points": 137
     },
     {
-      "Ref": "WD6",
-      "Name": "BEN DANIEL MBU",
-      "Total Points": 67
+      "Ref": "AOH24",
+      "Name": "BRIAN HARVEY",
+      "Total Points": 137
     },
     {
-      "Ref": "KB14",
-      "Name": "PAUL MOORE",
-      "Total Points": 67
+      "Ref": "DD67",
+      "Name": "HELEN STEDMAN",
+      "Total Points": 137
     },
     {
-      "Ref": "KB16",
-      "Name": "MARTIN KILMURRAY",
-      "Total Points": 67
+      "Ref": "DD71",
+      "Name": "MICK KAVANAGH",
+      "Total Points": 137
     },
     {
-      "Ref": "KB18",
-      "Name": "NIAMH COURTNEY",
-      "Total Points": 67
+      "Ref": "WK49",
+      "Name": "SAM MALONE",
+      "Total Points": 136
     },
     {
-      "Ref": "AOH23",
-      "Name": "ELENA RONAN",
-      "Total Points": 67
+      "Ref": "WK70",
+      "Name": "GRAHAM HOGAN",
+      "Total Points": 136
     },
     {
-      "Ref": "AOH36",
-      "Name": "JACK LEAVY",
-      "Total Points": 67
+      "Ref": "SEN100",
+      "Name": "MARK RAY",
+      "Total Points": 136
     },
     {
-      "Ref": "AOH51",
-      "Name": "GREG CLEARY",
-      "Total Points": 67
+      "Ref": "PD18",
+      "Name": "JAKE SHERIDAN",
+      "Total Points": 136
     },
     {
-      "Ref": "PC16",
-      "Name": "DAVID DOYLE",
-      "Total Points": 67
+      "Ref": "PD44",
+      "Name": "JOSH TAAFFE",
+      "Total Points": 136
     },
     {
-      "Ref": "PC41",
-      "Name": "DARREN FALLON",
-      "Total Points": 67
+      "Ref": "WD16",
+      "Name": "VINCENT APPLEBY",
+      "Total Points": 136
     },
     {
-      "Ref": "DD12",
-      "Name": "STEPHAN FLANAGAN",
-      "Total Points": 67
+      "Ref": "PC5",
+      "Name": "GEARIOD MC GLADE",
+      "Total Points": 136
     },
     {
-      "Ref": "DD15",
-      "Name": "PAUL HENDRICK",
-      "Total Points": 67
-    },
-    {
-      "Ref": "DD53",
-      "Name": "JOE + PASCHAL",
-      "Total Points": 67
-    },
-    {
-      "Ref": "WK58",
-      "Name": "ADAM CLARKE",
-      "Total Points": 66
-    },
-    {
-      "Ref": "WK65",
-      "Name": "DAVID SMITH",
-      "Total Points": 66
-    },
-    {
-      "Ref": "WK71",
-      "Name": "THOMAS MC NALLY",
-      "Total Points": 66
-    },
-    {
-      "Ref": "WK86",
-      "Name": "SEAN DYLAN PALMER",
-      "Total Points": 66
-    },
-    {
-      "Ref": "WK89",
-      "Name": "LUKE ROBINSON",
-      "Total Points": 66
-    },
-    {
-      "Ref": "SEN17",
-      "Name": "NEILL O REILLY",
-      "Total Points": 66
-    },
-    {
-      "Ref": "SEN33",
-      "Name": "COLM MCGARYY",
-      "Total Points": 66
-    },
-    {
-      "Ref": "SEN49",
-      "Name": "ED FARRELL",
-      "Total Points": 66
-    },
-    {
-      "Ref": "SEN78",
-      "Name": "DANIEL O BREIN",
-      "Total Points": 66
-    },
-    {
-      "Ref": "SEN91",
-      "Name": "TERRY NOONE",
-      "Total Points": 66
-    },
-    {
-      "Ref": "SEN92",
-      "Name": "PAUL MALONE",
-      "Total Points": 66
-    },
-    {
-      "Ref": "SEN117",
-      "Name": "REBECCA SAUNDERS",
-      "Total Points": 66
-    },
-    {
-      "Ref": "SEN119",
-      "Name": "VINCENT",
-      "Total Points": 66
-    },
-    {
-      "Ref": "SN12",
-      "Name": "AISHLING MC NAMARA",
-      "Total Points": 66
-    },
-    {
-      "Ref": "SN22",
-      "Name": "SEAN NOLAN",
-      "Total Points": 66
-    },
-    {
-      "Ref": "SN67",
-      "Name": "FINN SMITH",
-      "Total Points": 66
-    },
-    {
-      "Ref": "RC4",
-      "Name": "RHYS KEANE",
-      "Total Points": 66
-    },
-    {
-      "Ref": "PD28",
-      "Name": "ADAM QUINNEY",
-      "Total Points": 66
-    },
-    {
-      "Ref": "PD36",
-      "Name": "MAGS EOIN DEANE",
-      "Total Points": 66
-    },
-    {
-      "Ref": "PD37",
-      "Name": "DEX KELLY",
-      "Total Points": 66
-    },
-    {
-      "Ref": "GC5",
-      "Name": "MARK BUTLER",
-      "Total Points": 66
-    },
-    {
-      "Ref": "JS8",
-      "Name": "ETHAN DOCKERY",
-      "Total Points": 66
-    },
-    {
-      "Ref": "EL5",
-      "Name": "ALAN NORRIS",
-      "Total Points": 66
-    },
-    {
-      "Ref": "EL6",
-      "Name": "TONY MGRATH",
-      "Total Points": 66
-    },
-    {
-      "Ref": "EL9",
-      "Name": "DAMO + MARK",
-      "Total Points": 66
-    },
-    {
-      "Ref": "WD7",
-      "Name": "MARTIN GRAY",
-      "Total Points": 66
-    },
-    {
-      "Ref": "WD10",
-      "Name": "JACKSON RYAN",
-      "Total Points": 66
-    },
-    {
-      "Ref": "DF9",
-      "Name": "COLIN FITZSIMONS",
-      "Total Points": 66
-    },
-    {
-      "Ref": "DF19",
-      "Name": "SEAN CAROLAN",
-      "Total Points": 66
-    },
-    {
-      "Ref": "AOH7",
-      "Name": "DECLAN IVORY",
-      "Total Points": 66
-    },
-    {
-      "Ref": "PC2",
-      "Name": "EVAN COLLINS",
-      "Total Points": 66
-    },
-    {
-      "Ref": "PC9",
-      "Name": "SAM KNOWLES",
-      "Total Points": 66
-    },
-    {
-      "Ref": "DD14",
-      "Name": "PAUL KENNEDY",
-      "Total Points": 66
-    },
-    {
-      "Ref": "DD24",
-      "Name": "ORLAGH KENNY",
-      "Total Points": 66
-    },
-    {
-      "Ref": "DD26",
-      "Name": "HANNAH DOYLE",
-      "Total Points": 66
-    },
-    {
-      "Ref": "DD34",
-      "Name": "AMY CARROLL",
-      "Total Points": 66
-    },
-    {
-      "Ref": "DD60",
-      "Name": "BRIAN HILL",
-      "Total Points": 66
-    },
-    {
-      "Ref": "DD72",
-      "Name": "GREG SIECKOSKI",
-      "Total Points": 66
-    },
-    {
-      "Ref": "WK02",
-      "Name": "SANDRA MC MAHON",
-      "Total Points": 65
-    },
-    {
-      "Ref": "WK54",
-      "Name": "PAUL MOONEY",
-      "Total Points": 65
-    },
-    {
-      "Ref": "WK75",
-      "Name": "STUART CARROLL",
-      "Total Points": 65
-    },
-    {
-      "Ref": "SEN134",
-      "Name": "MICHELLE SANDFORD",
-      "Total Points": 65
-    },
-    {
-      "Ref": "SN64",
-      "Name": "LIAM LITTLE",
-      "Total Points": 65
-    },
-    {
-      "Ref": "EL3",
-      "Name": "DEREK BRENNAN",
-      "Total Points": 65
-    },
-    {
-      "Ref": "WD1",
-      "Name": "DAVID SEERY",
-      "Total Points": 65
-    },
-    {
-      "Ref": "DF10",
-      "Name": "SEAN KELLY",
-      "Total Points": 65
-    },
-    {
-      "Ref": "DF23",
-      "Name": "ROBBIE O MAHONY",
-      "Total Points": 65
-    },
-    {
-      "Ref": "DF27",
-      "Name": "KATELYN KAVANAGH",
-      "Total Points": 65
-    },
-    {
-      "Ref": "AOH21",
-      "Name": "BOYNER 1",
-      "Total Points": 65
-    },
-    {
-      "Ref": "AOH56",
-      "Name": "ANGELA LIDDLE",
-      "Total Points": 65
-    },
-    {
-      "Ref": "PC30",
-      "Name": "GRACE COLLNS",
-      "Total Points": 65
-    },
-    {
-      "Ref": "PC33",
-      "Name": "LIAM DAVIS",
-      "Total Points": 65
-    },
-    {
-      "Ref": "DD5",
-      "Name": "CIARA FAHEY",
-      "Total Points": 65
-    },
-    {
-      "Ref": "DD8",
-      "Name": "BRAIN SELFON",
-      "Total Points": 65
-    },
-    {
-      "Ref": "DD70",
-      "Name": "ADAM STEDMAN",
-      "Total Points": 65
-    },
-    {
-      "Ref": "DD81",
-      "Name": "NIALL BYRNE",
-      "Total Points": 65
-    },
-    {
-      "Ref": "SEN13",
-      "Name": "LINDA BLOOD",
-      "Total Points": 64
-    },
-    {
-      "Ref": "SEN15",
-      "Name": "ROBERT RYDER",
-      "Total Points": 64
-    },
-    {
-      "Ref": "SEN52",
-      "Name": "NICK SMYTH",
-      "Total Points": 64
-    },
-    {
-      "Ref": "SEN53",
-      "Name": "JIMMY DUNNE",
-      "Total Points": 64
-    },
-    {
-      "Ref": "SEN58",
-      "Name": "RICHIE LEANARD",
-      "Total Points": 64
-    },
-    {
-      "Ref": "SEN127",
-      "Name": "STEPHEN SANDFORD",
-      "Total Points": 64
-    },
-    {
-      "Ref": "SN25",
-      "Name": "MICHEAL KEENAN",
-      "Total Points": 64
-    },
-    {
-      "Ref": "SN40",
-      "Name": "CONOR BURKE",
-      "Total Points": 64
-    },
-    {
-      "Ref": "SN52",
-      "Name": "DAVID KELLY",
-      "Total Points": 64
-    },
-    {
-      "Ref": "PD7",
-      "Name": "JOHN BROPMY",
-      "Total Points": 64
-    },
-    {
-      "Ref": "PD32",
-      "Name": "NIAMH KEARNEY",
-      "Total Points": 64
-    },
-    {
-      "Ref": "GC16",
-      "Name": "ANE O NEILL",
-      "Total Points": 64
-    },
-    {
-      "Ref": "GC21",
-      "Name": "CHARLIE WATERHOUSE",
-      "Total Points": 64
-    },
-    {
-      "Ref": "JS2",
-      "Name": "JAMES BUTCHART",
-      "Total Points": 64
-    },
-    {
-      "Ref": "EL4",
-      "Name": "SEAN NORRIS",
-      "Total Points": 64
-    },
-    {
-      "Ref": "EL20",
-      "Name": "DAMIEN TORMEY",
-      "Total Points": 64
-    },
-    {
-      "Ref": "WD27",
-      "Name": "CONOR LAWLOR",
-      "Total Points": 64
-    },
-    {
-      "Ref": "DF15",
-      "Name": "CONOR + CILLIAN GUNNING",
-      "Total Points": 64
-    },
-    {
-      "Ref": "DD7",
-      "Name": "GAVIN FRASER",
-      "Total Points": 64
-    },
-    {
-      "Ref": "DD30",
-      "Name": "DARRAGH CARROLL",
-      "Total Points": 64
-    },
-    {
-      "Ref": "DD80",
-      "Name": "STEPHEN HOPKINS",
-      "Total Points": 64
-    },
-    {
-      "Ref": "DD90",
-      "Name": "DANIEL KEOGH",
-      "Total Points": 64
-    },
-    {
-      "Ref": "WK19",
-      "Name": "LIAM WHITE",
-      "Total Points": 63
-    },
-    {
-      "Ref": "WK31",
-      "Name": "NODDY",
-      "Total Points": 63
-    },
-    {
-      "Ref": "WK38",
-      "Name": "CATHLEEN BYRNE",
-      "Total Points": 63
-    },
-    {
-      "Ref": "WK56",
-      "Name": "GARETH MATTHEWS",
-      "Total Points": 63
-    },
-    {
-      "Ref": "WK79",
-      "Name": "GRAHAM CARROLL",
-      "Total Points": 63
-    },
-    {
-      "Ref": "SEN67",
-      "Name": "JOSH O BREIN",
-      "Total Points": 63
-    },
-    {
-      "Ref": "SEN68",
-      "Name": "LEWIS HALL",
-      "Total Points": 63
-    },
-    {
-      "Ref": "SEN84",
-      "Name": "WILL MULLER",
-      "Total Points": 63
-    },
-    {
-      "Ref": "SEN89",
-      "Name": "KARL COLEMAN",
-      "Total Points": 63
-    },
-    {
-      "Ref": "SEN103",
-      "Name": "DAVID DEVOY",
-      "Total Points": 63
-    },
-    {
-      "Ref": "SEN128",
-      "Name": "JACKIECOOMBES",
-      "Total Points": 63
-    },
-    {
-      "Ref": "SEN129",
-      "Name": "STEPHEN GRIFFIN",
-      "Total Points": 63
-    },
-    {
-      "Ref": "SN8",
-      "Name": "CONOR O ROURKE",
-      "Total Points": 63
+      "Ref": "SEN93",
+      "Name": "MARK MC DONAH",
+      "Total Points": 135
     },
     {
       "Ref": "SN26",
       "Name": "LARRY CUMMING",
-      "Total Points": 63
+      "Total Points": 135
     },
     {
-      "Ref": "PD9",
-      "Name": "JAMIE O BRIEN",
-      "Total Points": 63
-    },
-    {
-      "Ref": "PD17",
-      "Name": "NICHOLAS MALONE",
-      "Total Points": 63
-    },
-    {
-      "Ref": "JS16",
-      "Name": "REECE HICKEY",
-      "Total Points": 63
-    },
-    {
-      "Ref": "EL22",
-      "Name": "VALERIE CRAINE DOYLE",
-      "Total Points": 63
-    },
-    {
-      "Ref": "WD29",
-      "Name": "PATRICK FINN",
-      "Total Points": 63
-    },
-    {
-      "Ref": "KB15",
-      "Name": "PHELIM HOGAN",
-      "Total Points": 63
-    },
-    {
-      "Ref": "DF3",
-      "Name": "DARREN FARRELLY",
-      "Total Points": 63
-    },
-    {
-      "Ref": "DF7",
-      "Name": "GORDAN MOULES",
-      "Total Points": 63
-    },
-    {
-      "Ref": "DF42",
-      "Name": "ROBERT LYPTON",
-      "Total Points": 63
-    },
-    {
-      "Ref": "AOH52",
-      "Name": "LUKE O HALLORAN",
-      "Total Points": 63
-    },
-    {
-      "Ref": "AOH66",
-      "Name": "IAN DENNIS",
-      "Total Points": 63
-    },
-    {
-      "Ref": "PC45",
-      "Name": "TREVOR ROONEY",
-      "Total Points": 63
+      "Ref": "EL14",
+      "Name": "ZIGGY CARROLL",
+      "Total Points": 135
     },
     {
       "Ref": "DD23",
       "Name": "GAVIN HARRISON",
-      "Total Points": 63
+      "Total Points": 135
     },
     {
-      "Ref": "DD37",
-      "Name": "EDDIE OBREIN",
-      "Total Points": 63
+      "Ref": "DD57",
+      "Name": "PAT DEVLIN",
+      "Total Points": 135
     },
     {
-      "Ref": "DD89",
-      "Name": "GERRY JORDAN",
-      "Total Points": 63
+      "Ref": "SN29",
+      "Name": "RICKY CORMALL",
+      "Total Points": 134
     },
     {
-      "Ref": "WK26",
-      "Name": "ALI KAVANAGH",
-      "Total Points": 62
+      "Ref": "SN46",
+      "Name": "PAUL MURRAY",
+      "Total Points": 134
     },
     {
-      "Ref": "WK36",
-      "Name": "PATRICK O CONNELL",
-      "Total Points": 62
+      "Ref": "KB24",
+      "Name": "BRYAN ROCHE",
+      "Total Points": 134
     },
     {
-      "Ref": "WK73",
-      "Name": "DARA SMITH",
-      "Total Points": 62
+      "Ref": "DD51",
+      "Name": "MARK + SHAY",
+      "Total Points": 134
     },
     {
-      "Ref": "SEN5",
-      "Name": "LARRY O BREIN",
-      "Total Points": 62
+      "Ref": "WK87",
+      "Name": "NIAMH O CONNOR",
+      "Total Points": 133
     },
     {
-      "Ref": "SN47",
-      "Name": "DAVE MURRAY",
-      "Total Points": 62
+      "Ref": "SEN60",
+      "Name": "JOHN LEANARD",
+      "Total Points": 133
     },
     {
-      "Ref": "RC6",
-      "Name": "TINA O SULLIVAN",
-      "Total Points": 62
+      "Ref": "SN62",
+      "Name": "BILLY CURRAN",
+      "Total Points": 133
     },
     {
-      "Ref": "RC9",
-      "Name": "WARREN",
-      "Total Points": 62
+      "Ref": "WD2",
+      "Name": "KAY FINN",
+      "Total Points": 133
     },
     {
-      "Ref": "RC10",
-      "Name": "DANIEL CULLY",
-      "Total Points": 62
+      "Ref": "AOH57",
+      "Name": "LAURA O HALLORAN",
+      "Total Points": 133
     },
     {
-      "Ref": "GC12",
-      "Name": "GAVIN BUTLER",
-      "Total Points": 62
+      "Ref": "DD49",
+      "Name": "WAYNE MORGAN",
+      "Total Points": 133
     },
     {
-      "Ref": "GC15",
-      "Name": "JOSEPH BYRNE",
-      "Total Points": 62
+      "Ref": "SEN41",
+      "Name": "CONOR DUNPHY",
+      "Total Points": 132
     },
     {
-      "Ref": "JS13",
-      "Name": "JOHN SHANNON",
-      "Total Points": 62
+      "Ref": "SEN65",
+      "Name": "ANNE CULLEN",
+      "Total Points": 132
     },
     {
-      "Ref": "EL16",
-      "Name": "JOHM DOYLE",
-      "Total Points": 62
+      "Ref": "SEN86",
+      "Name": "ALFIE CULLY",
+      "Total Points": 132
     },
     {
-      "Ref": "EL21",
-      "Name": "DAVE MOONEY",
-      "Total Points": 62
+      "Ref": "JS11",
+      "Name": "ALEX SHANNON",
+      "Total Points": 132
     },
     {
-      "Ref": "WD26",
-      "Name": "ALAN BRADY",
-      "Total Points": 62
-    },
-    {
-      "Ref": "WD28",
-      "Name": "DAVID LORD",
-      "Total Points": 62
-    },
-    {
-      "Ref": "KB4",
-      "Name": "FRANCES BYRNE",
-      "Total Points": 62
-    },
-    {
-      "Ref": "KB21",
-      "Name": "LIAM HOGAN",
-      "Total Points": 62
-    },
-    {
-      "Ref": "KB25",
-      "Name": "CORNIA CONLAN",
-      "Total Points": 62
-    },
-    {
-      "Ref": "AOH10",
-      "Name": "STEPHEN SMITH",
-      "Total Points": 62
-    },
-    {
-      "Ref": "AOH22",
-      "Name": "BOYNER 2",
-      "Total Points": 62
-    },
-    {
-      "Ref": "AOH30",
-      "Name": "KEN GORRY 2",
-      "Total Points": 62
-    },
-    {
-      "Ref": "AOH55",
-      "Name": "CIARA DALY",
-      "Total Points": 62
-    },
-    {
-      "Ref": "PC12",
-      "Name": "BILL DOYLE",
-      "Total Points": 62
-    },
-    {
-      "Ref": "PC17",
-      "Name": "FRANK O REILLY",
-      "Total Points": 62
-    },
-    {
-      "Ref": "PC37",
-      "Name": "MICHEAL MALONE",
-      "Total Points": 62
-    },
-    {
-      "Ref": "DD21",
-      "Name": "LARRY HARRISON",
-      "Total Points": 62
-    },
-    {
-      "Ref": "DD40",
-      "Name": "KELLY DOYLE",
-      "Total Points": 62
-    },
-    {
-      "Ref": "DD58",
-      "Name": "DANNEN GRAHAM",
-      "Total Points": 62
-    },
-    {
-      "Ref": "DD73",
-      "Name": "ROBERT MAGDIAK",
-      "Total Points": 62
-    },
-    {
-      "Ref": "WK24",
-      "Name": "HOLLIE KAVANAGH",
-      "Total Points": 61
-    },
-    {
-      "Ref": "WK52",
-      "Name": "MAURICE KELLY",
-      "Total Points": 61
-    },
-    {
-      "Ref": "WK62",
-      "Name": "LEE EUSTACE",
-      "Total Points": 61
-    },
-    {
-      "Ref": "SEN21",
-      "Name": "MICK JENKO",
-      "Total Points": 61
-    },
-    {
-      "Ref": "SN60",
-      "Name": "AILISH WHEATLEY",
-      "Total Points": 61
-    },
-    {
-      "Ref": "JS15",
-      "Name": "FRAN BYRNE",
-      "Total Points": 61
-    },
-    {
-      "Ref": "WD13",
-      "Name": "JAMES NIX",
-      "Total Points": 61
-    },
-    {
-      "Ref": "DF6",
-      "Name": "KEN SEERY",
-      "Total Points": 61
-    },
-    {
-      "Ref": "PC1",
-      "Name": "COLLETTE COLLINS",
-      "Total Points": 61
-    },
-    {
-      "Ref": "PC39",
-      "Name": "ERIC MALONE",
-      "Total Points": 61
-    },
-    {
-      "Ref": "DD4",
-      "Name": "DEAN POWER",
-      "Total Points": 61
-    },
-    {
-      "Ref": "DD56",
-      "Name": "ANN BAKER",
-      "Total Points": 61
-    },
-    {
-      "Ref": "WK08",
-      "Name": "LEE KIRWAN 2",
-      "Total Points": 60
-    },
-    {
-      "Ref": "WW33",
-      "Name": "DAVID LYONS",
-      "Total Points": 60
-    },
-    {
-      "Ref": "WK47",
-      "Name": "TONY MAHER",
-      "Total Points": 60
-    },
-    {
-      "Ref": "WK48",
-      "Name": "KATIE MALONE",
-      "Total Points": 60
-    },
-    {
-      "Ref": "WK50",
-      "Name": "JACK ROBERTS",
-      "Total Points": 60
-    },
-    {
-      "Ref": "SEN6",
-      "Name": "PASCAL BYRNE",
-      "Total Points": 60
-    },
-    {
-      "Ref": "SEN16",
-      "Name": "JOHN COSTELLO",
-      "Total Points": 60
-    },
-    {
-      "Ref": "SEN19",
-      "Name": "PAUL ENNIS",
-      "Total Points": 60
-    },
-    {
-      "Ref": "SEN25",
-      "Name": "TOM",
-      "Total Points": 60
-    },
-    {
-      "Ref": "SEN74",
-      "Name": "CIARAN SMITH",
-      "Total Points": 60
-    },
-    {
-      "Ref": "SEN75",
-      "Name": "LIAM CALLERY",
-      "Total Points": 60
-    },
-    {
-      "Ref": "SEN88",
-      "Name": "KEVIN BYRNE",
-      "Total Points": 60
-    },
-    {
-      "Ref": "SEN94",
-      "Name": "BRAIN",
-      "Total Points": 60
-    },
-    {
-      "Ref": "SEN104",
-      "Name": "KATE FOX",
-      "Total Points": 60
-    },
-    {
-      "Ref": "SEN109",
-      "Name": "TOMMY COUGHLAN",
-      "Total Points": 60
-    },
-    {
-      "Ref": "SEN122",
-      "Name": "MICK BURKE",
-      "Total Points": 60
-    },
-    {
-      "Ref": "SEN124",
-      "Name": "CONNIE REDDIN",
-      "Total Points": 60
-    },
-    {
-      "Ref": "SN58",
-      "Name": "BEN WHEATLEY",
-      "Total Points": 60
-    },
-    {
-      "Ref": "RC18",
-      "Name": "JENIFER DONOHOE",
-      "Total Points": 60
-    },
-    {
-      "Ref": "PD16",
-      "Name": "ALISON SHERIDAN",
-      "Total Points": 60
-    },
-    {
-      "Ref": "PD25",
-      "Name": "MICHEAL + PAUL",
-      "Total Points": 60
-    },
-    {
-      "Ref": "PD31",
-      "Name": "LAUREN EGAN",
-      "Total Points": 60
+      "Ref": "AMCG7",
+      "Name": "KARL MC CONNELL",
+      "Total Points": 132
     },
     {
       "Ref": "WD9",
       "Name": "PAULINE GLYNN",
-      "Total Points": 60
+      "Total Points": 132
     },
     {
-      "Ref": "WD22",
-      "Name": "THOMAS SMITH",
-      "Total Points": 60
+      "Ref": "DF20",
+      "Name": "CRAIG MAHER",
+      "Total Points": 132
     },
     {
-      "Ref": "KB3",
-      "Name": "KEITH BYRNE",
-      "Total Points": 60
+      "Ref": "AOH28",
+      "Name": "KEN GORRY 1",
+      "Total Points": 132
     },
     {
-      "Ref": "KB10",
-      "Name": "DAVID KLLEEN",
-      "Total Points": 60
+      "Ref": "AOH35",
+      "Name": "MARK LEAVY",
+      "Total Points": 132
     },
     {
-      "Ref": "DF37",
-      "Name": "DAITHI MAC CORMAIC",
-      "Total Points": 60
+      "Ref": "AOH43",
+      "Name": "ANDY MAHON",
+      "Total Points": 132
     },
     {
-      "Ref": "AOH15",
-      "Name": "AIMEE FALLON",
-      "Total Points": 60
+      "Ref": "DD44",
+      "Name": "STEPHAN COATES",
+      "Total Points": 132
     },
     {
-      "Ref": "AOH40",
-      "Name": "BRAIN DALY",
-      "Total Points": 60
+      "Ref": "DD83",
+      "Name": "DAIRE HANCOCK",
+      "Total Points": 132
     },
     {
-      "Ref": "PC8",
-      "Name": "SHANE CURRAN",
-      "Total Points": 60
+      "Ref": "WK35",
+      "Name": "CHRISTY BYRNE",
+      "Total Points": 131
     },
     {
-      "Ref": "DD46",
-      "Name": "DEREK DOYLE",
-      "Total Points": 60
+      "Ref": "SEN22",
+      "Name": "PETER WATT",
+      "Total Points": 131
     },
     {
-      "Ref": "DD64",
-      "Name": "B GANNON",
-      "Total Points": 60
+      "Ref": "SEN32",
+      "Name": "BILLY BYRNE",
+      "Total Points": 131
     },
     {
-      "Ref": "WK32",
-      "Name": "GERRY GAYNOR",
-      "Total Points": 59
+      "Ref": "SEN50",
+      "Name": "DREW LOGAN",
+      "Total Points": 131
     },
     {
-      "Ref": "WK40",
-      "Name": "ELAINE FOX",
-      "Total Points": 59
+      "Ref": "SN37",
+      "Name": "DAITHI DOOLAN",
+      "Total Points": 131
     },
     {
-      "Ref": "WK61",
-      "Name": "RYAN EUSTACE",
-      "Total Points": 59
+      "Ref": "SN61",
+      "Name": "CORMAC CURRAN",
+      "Total Points": 131
     },
     {
-      "Ref": "WK80",
-      "Name": "PHILIP CARROLL",
-      "Total Points": 59
+      "Ref": "KB5",
+      "Name": "JOHN BYRNE",
+      "Total Points": 131
     },
     {
-      "Ref": "WK81",
-      "Name": "DEREK CARROLL JNR",
-      "Total Points": 59
+      "Ref": "KB11",
+      "Name": "BERNARD KILLEEN",
+      "Total Points": 131
     },
     {
-      "Ref": "SEN1",
-      "Name": "JOHN MC GLYNN",
-      "Total Points": 59
+      "Ref": "AOH62",
+      "Name": "DAVID ROCHE",
+      "Total Points": 131
     },
     {
-      "Ref": "SEN27",
-      "Name": "CHRISTOPHER COSTELLO",
-      "Total Points": 59
+      "Ref": "PC50",
+      "Name": "GARY RYAN",
+      "Total Points": 131
     },
     {
-      "Ref": "SEN29",
-      "Name": "JASON COSTELLO",
-      "Total Points": 59
+      "Ref": "DD13",
+      "Name": "STEPHAN JOYCE",
+      "Total Points": 131
     },
     {
-      "Ref": "SEN61",
-      "Name": "JACK + EVAN BURKE",
-      "Total Points": 59
+      "Ref": "DD32",
+      "Name": "JOHN CARROLL",
+      "Total Points": 131
     },
     {
-      "Ref": "SEN76",
-      "Name": "EAMONN CARRUTH",
-      "Total Points": 59
+      "Ref": "DD69",
+      "Name": "PHIL MURPHY",
+      "Total Points": 131
     },
     {
-      "Ref": "SEN83",
-      "Name": "ALAN WILTON",
-      "Total Points": 59
+      "Ref": "WK11",
+      "Name": "PAULINE BYRNE",
+      "Total Points": 130
     },
     {
-      "Ref": "SEN85",
-      "Name": "TOM MOCKLER",
-      "Total Points": 59
+      "Ref": "WK39",
+      "Name": "SUSAN BYRNE",
+      "Total Points": 130
     },
     {
-      "Ref": "SEN121",
-      "Name": "MARK JENKINSON",
-      "Total Points": 59
+      "Ref": "WK63",
+      "Name": "PAUL CHESTER",
+      "Total Points": 130
     },
     {
-      "Ref": "SEN140",
-      "Name": "TREVOR MC ELLIGOTT",
-      "Total Points": 59
+      "Ref": "WK84",
+      "Name": "DAVID BEHAN",
+      "Total Points": 130
     },
     {
-      "Ref": "PD12",
-      "Name": "DAVID DOYLE",
-      "Total Points": 59
+      "Ref": "SEN45",
+      "Name": "BRAIN",
+      "Total Points": 130
     },
     {
-      "Ref": "GC9",
-      "Name": "MARTIN LAMB",
-      "Total Points": 59
+      "Ref": "SEN57",
+      "Name": "CIARA SMITH",
+      "Total Points": 130
     },
     {
-      "Ref": "WD31",
-      "Name": "NOEL DELANEY",
-      "Total Points": 59
+      "Ref": "SEN73",
+      "Name": "PAUL WHITNEY",
+      "Total Points": 130
     },
     {
-      "Ref": "KB29",
-      "Name": "MYRA CONLAN",
-      "Total Points": 59
+      "Ref": "SEN139",
+      "Name": "MICK ALLAN",
+      "Total Points": 130
     },
     {
-      "Ref": "DF1",
-      "Name": "DAN NICOLL",
-      "Total Points": 59
+      "Ref": "SN28",
+      "Name": "MATT NOLAN",
+      "Total Points": 130
     },
     {
-      "Ref": "AOH3",
-      "Name": "BARRY MAHON",
-      "Total Points": 59
+      "Ref": "SN36",
+      "Name": "PADDY KILDEE-DOOLAN",
+      "Total Points": 130
     },
     {
-      "Ref": "DD19",
-      "Name": "HELEN WALSH",
-      "Total Points": 59
+      "Ref": "SN53",
+      "Name": "LUKE BYRNE",
+      "Total Points": 130
     },
     {
-      "Ref": "DD27",
-      "Name": "AARON DOYLE",
-      "Total Points": 59
+      "Ref": "PD40",
+      "Name": "ROBERT LYNE",
+      "Total Points": 130
     },
     {
-      "Ref": "DD62",
-      "Name": "TREVOR DOYLE",
-      "Total Points": 59
+      "Ref": "PD45",
+      "Name": "JORDAN CORENER",
+      "Total Points": 130
     },
     {
-      "Ref": "DD100",
-      "Name": "WILL KAVANAGH",
-      "Total Points": 59
+      "Ref": "GC11",
+      "Name": "JOHN KEOGH",
+      "Total Points": 130
     },
     {
-      "Ref": "SEN46",
-      "Name": "DENISE",
-      "Total Points": 58
+      "Ref": "AMCG9",
+      "Name": "MARK MC CONNELL",
+      "Total Points": 130
     },
     {
-      "Ref": "SEN114",
-      "Name": "MARTINA ELLIS",
-      "Total Points": 58
+      "Ref": "DF45",
+      "Name": "RICHIE HALPIN",
+      "Total Points": 130
     },
     {
-      "Ref": "SEN123",
-      "Name": "HOLLY BURKE",
-      "Total Points": 58
+      "Ref": "DD25",
+      "Name": "DEARBHLA KENNY",
+      "Total Points": 130
     },
     {
-      "Ref": "PD35",
-      "Name": "DEIDRE KEARNEY",
-      "Total Points": 58
+      "Ref": "DD43",
+      "Name": "SEAN QUIGLEY",
+      "Total Points": 130
     },
     {
-      "Ref": "JS12",
-      "Name": "MARTINA SHANNON",
-      "Total Points": 58
+      "Ref": "DD66",
+      "Name": "JOE HUMPHEY",
+      "Total Points": 130
     },
     {
-      "Ref": "DF16",
-      "Name": "SHAUNA DOYLE",
-      "Total Points": 58
+      "Ref": "DD87",
+      "Name": "DAVID MOORE",
+      "Total Points": 130
     },
     {
-      "Ref": "DF43",
-      "Name": "SINEAD LYPTON",
-      "Total Points": 58
+      "Ref": "WK07",
+      "Name": "LEE KIRWAN",
+      "Total Points": 129
     },
     {
-      "Ref": "AOH32",
-      "Name": "EAMONN BYRNE",
-      "Total Points": 58
+      "Ref": "WK13",
+      "Name": "MARY BYRNE",
+      "Total Points": 129
     },
     {
-      "Ref": "AOH41",
-      "Name": "ALAN O HALLORAN",
-      "Total Points": 58
+      "Ref": "WK53",
+      "Name": "MEGAN ROBERTS",
+      "Total Points": 129
     },
     {
-      "Ref": "AOH67",
-      "Name": "AMY NEARY",
-      "Total Points": 58
+      "Ref": "SEN80",
+      "Name": "AUSTIN DOUGLAS",
+      "Total Points": 129
     },
     {
-      "Ref": "PC27",
-      "Name": "ANTO CAREY",
-      "Total Points": 58
+      "Ref": "SN2",
+      "Name": "DEREK KAVANAGH JNR",
+      "Total Points": 129
     },
     {
-      "Ref": "PC48",
-      "Name": "CONOR O REILLY",
-      "Total Points": 58
+      "Ref": "SN11",
+      "Name": "DANIEL ROWE",
+      "Total Points": 129
     },
     {
-      "Ref": "DD38",
-      "Name": "LUKE MULVANY",
-      "Total Points": 58
+      "Ref": "EL19",
+      "Name": "DEREK BRENNAN",
+      "Total Points": 129
     },
     {
-      "Ref": "WK15",
-      "Name": "SARAH BYRNE",
-      "Total Points": 57
+      "Ref": "AOH9",
+      "Name": "SEAN IVORY",
+      "Total Points": 129
     },
     {
-      "Ref": "WK30",
-      "Name": "MARK KAVANAGH",
-      "Total Points": 57
+      "Ref": "AOH12",
+      "Name": "THOMAS GENOCKEY",
+      "Total Points": 129
     },
     {
-      "Ref": "WK85",
-      "Name": "JOE PALMER",
-      "Total Points": 57
+      "Ref": "PC11",
+      "Name": "PAUL KNOWLES",
+      "Total Points": 129
     },
     {
-      "Ref": "SEN7",
-      "Name": "TONY + DARREN",
-      "Total Points": 57
+      "Ref": "WK34",
+      "Name": "STEVE MULHALL",
+      "Total Points": 128
     },
     {
-      "Ref": "SEN26",
-      "Name": "DOAN COSTELLO",
-      "Total Points": 57
+      "Ref": "SEN40",
+      "Name": "ROBERT COSTELLO",
+      "Total Points": 128
     },
     {
-      "Ref": "SEN44",
-      "Name": "PAT",
-      "Total Points": 57
+      "Ref": "SN1",
+      "Name": "ROBERT KAVANAGH",
+      "Total Points": 128
     },
     {
-      "Ref": "SEN64",
-      "Name": "HENO",
-      "Total Points": 57
+      "Ref": "SN34",
+      "Name": "J J KELLY",
+      "Total Points": 128
     },
     {
-      "Ref": "SEN69",
-      "Name": "DYLAN KEARNS",
-      "Total Points": 57
+      "Ref": "SN63",
+      "Name": "LIAM CURRAN",
+      "Total Points": 128
     },
     {
-      "Ref": "SN30",
-      "Name": "W.CONNELL",
-      "Total Points": 57
+      "Ref": "PD15",
+      "Name": "MICK BURKE SNR",
+      "Total Points": 128
     },
     {
-      "Ref": "SN42",
-      "Name": "BRENDAN BOYNE",
-      "Total Points": 57
+      "Ref": "PD55",
+      "Name": "CARLY EGAN",
+      "Total Points": 128
     },
     {
-      "Ref": "SN55",
-      "Name": "KEVIN FISH",
-      "Total Points": 57
+      "Ref": "WD12",
+      "Name": "RYAN DONNELLY",
+      "Total Points": 128
     },
     {
-      "Ref": "RC7",
-      "Name": "DOLLY RYAN",
-      "Total Points": 57
+      "Ref": "WD25",
+      "Name": "GARY PHELAN",
+      "Total Points": 128
     },
     {
-      "Ref": "PD26",
-      "Name": "MARK MURPHY",
-      "Total Points": 57
+      "Ref": "DF34",
+      "Name": "THOMAS BLAIR",
+      "Total Points": 128
     },
     {
-      "Ref": "PD34",
-      "Name": "RIAN EGAN",
-      "Total Points": 57
+      "Ref": "AOH1",
+      "Name": "CONOR MAHON",
+      "Total Points": 128
     },
     {
-      "Ref": "PD43",
-      "Name": "SCOTT TAAFFE",
-      "Total Points": 57
+      "Ref": "AOH47",
+      "Name": "FRANCIS BILARDI",
+      "Total Points": 128
     },
     {
-      "Ref": "PD56",
-      "Name": "MARGARET BURKE",
-      "Total Points": 57
+      "Ref": "WK67",
+      "Name": "GEORGE COLEMAN",
+      "Total Points": 127
     },
     {
-      "Ref": "EL17",
-      "Name": "MARK O DWYER",
-      "Total Points": 57
+      "Ref": "SN9",
+      "Name": "OLIVIA + ANNE ROWE",
+      "Total Points": 127
     },
     {
-      "Ref": "AOH46",
-      "Name": "ELLA O HALLORAN",
-      "Total Points": 57
+      "Ref": "SN49",
+      "Name": "DAMIEN FARRELL",
+      "Total Points": 127
     },
     {
-      "Ref": "PC18",
-      "Name": "ANDY KAVANAGH",
-      "Total Points": 57
+      "Ref": "RC2",
+      "Name": "NOEL MOORE",
+      "Total Points": 127
     },
     {
-      "Ref": "PC28",
-      "Name": "JAMES WHITE",
-      "Total Points": 57
+      "Ref": "PD54",
+      "Name": "PAUL EGAN",
+      "Total Points": 127
     },
     {
-      "Ref": "DD42",
-      "Name": "DECLAN DOYLE",
-      "Total Points": 57
+      "Ref": "GC7",
+      "Name": "FINTAN WYNNE",
+      "Total Points": 127
     },
     {
-      "Ref": "DD47",
-      "Name": "ERIC MULHALL",
-      "Total Points": 57
+      "Ref": "AMCG6",
+      "Name": "MARTY SCULLY",
+      "Total Points": 127
     },
     {
-      "Ref": "DD52",
-      "Name": "ANDREW BAKER",
-      "Total Points": 57
+      "Ref": "KB16",
+      "Name": "MARTIN KILMURRAY",
+      "Total Points": 127
     },
     {
-      "Ref": "DD55",
-      "Name": "DEAN BAKER",
-      "Total Points": 57
+      "Ref": "KB18",
+      "Name": "NIAMH COURTNEY",
+      "Total Points": 127
     },
     {
-      "Ref": "DD94",
-      "Name": "ROB MCKAY",
-      "Total Points": 57
+      "Ref": "AOH51",
+      "Name": "GREG CLEARY",
+      "Total Points": 127
     },
     {
-      "Ref": "WK74",
-      "Name": "BRENDAN CARROLL",
-      "Total Points": 56
+      "Ref": "PC35",
+      "Name": "STUART CAMPBELL",
+      "Total Points": 127
     },
     {
-      "Ref": "PD2",
-      "Name": "JOHN DUNNE",
-      "Total Points": 56
+      "Ref": "PC40",
+      "Name": "JOHN J DWYER",
+      "Total Points": 127
     },
     {
-      "Ref": "PD51",
-      "Name": "KEITH SMITH",
-      "Total Points": 56
+      "Ref": "PC41",
+      "Name": "DARREN FALLON",
+      "Total Points": 127
     },
     {
-      "Ref": "AOH18",
-      "Name": "MARTIN DALY",
-      "Total Points": 56
+      "Ref": "WK65",
+      "Name": "DAVID SMITH",
+      "Total Points": 126
     },
     {
-      "Ref": "DD11",
-      "Name": "TOMAS MCCARTHY",
-      "Total Points": 56
+      "Ref": "WK86",
+      "Name": "SEAN DYLAN PALMER",
+      "Total Points": 126
     },
     {
-      "Ref": "DD68",
-      "Name": "FILIP BOBROWSKI",
-      "Total Points": 56
+      "Ref": "WK89",
+      "Name": "LUKE ROBINSON",
+      "Total Points": 126
     },
     {
-      "Ref": "DD84",
-      "Name": "DAVID MURPHY",
-      "Total Points": 56
+      "Ref": "SEN17",
+      "Name": "NEILL O REILLY",
+      "Total Points": 126
     },
     {
-      "Ref": "WK05",
-      "Name": "BERNARD DONNELLY",
-      "Total Points": 55
+      "Ref": "SEN78",
+      "Name": "DANIEL O BREIN",
+      "Total Points": 126
     },
     {
-      "Ref": "WK77",
-      "Name": "GEORGE HUNT",
-      "Total Points": 55
+      "Ref": "SEN117",
+      "Name": "REBECCA SAUNDERS",
+      "Total Points": 126
     },
     {
-      "Ref": "SEN10",
-      "Name": "COLOY CONNOLLY",
-      "Total Points": 55
+      "Ref": "SN22",
+      "Name": "SEAN NOLAN",
+      "Total Points": 126
     },
     {
-      "Ref": "SEN11",
-      "Name": "COLOY CONNOLLY",
-      "Total Points": 55
+      "Ref": "SN39",
+      "Name": "PAUL UZELL",
+      "Total Points": 126
     },
     {
-      "Ref": "SEN36",
-      "Name": "TOMAS",
-      "Total Points": 55
+      "Ref": "PD28",
+      "Name": "ADAM QUINNEY",
+      "Total Points": 126
     },
     {
-      "Ref": "SEN37",
-      "Name": "BARRY KELLY",
-      "Total Points": 55
+      "Ref": "JS8",
+      "Name": "ETHAN DOCKERY",
+      "Total Points": 126
     },
     {
-      "Ref": "SEN110",
-      "Name": "AOIFE COUGHLAN",
-      "Total Points": 55
+      "Ref": "EL5",
+      "Name": "ALAN NORRIS",
+      "Total Points": 126
     },
     {
-      "Ref": "SN48",
-      "Name": "LEON MC LOUGHLIN",
-      "Total Points": 55
+      "Ref": "EL6",
+      "Name": "TONY MGRATH",
+      "Total Points": 126
     },
     {
-      "Ref": "RC5",
-      "Name": "MARK O REILLY",
-      "Total Points": 55
-    },
-    {
-      "Ref": "PD42",
-      "Name": "ALEX TAAFFE",
-      "Total Points": 55
-    },
-    {
-      "Ref": "GC22",
-      "Name": "M STAUNTON",
-      "Total Points": 55
-    },
-    {
-      "Ref": "KB8",
-      "Name": "PAUL ROCHE",
-      "Total Points": 55
-    },
-    {
-      "Ref": "KB17",
-      "Name": "DARREN BYRNE",
-      "Total Points": 55
-    },
-    {
-      "Ref": "KB20",
-      "Name": "MARK LAWLESS",
-      "Total Points": 55
-    },
-    {
-      "Ref": "DF18",
-      "Name": "SEAN DOYLE",
-      "Total Points": 55
-    },
-    {
-      "Ref": "AOH25",
-      "Name": "CHRISTIAN DUNN",
-      "Total Points": 55
-    },
-    {
-      "Ref": "AOH49",
-      "Name": "LISA CLEARY",
-      "Total Points": 55
-    },
-    {
-      "Ref": "DD16",
-      "Name": "MAEK FLEMING",
-      "Total Points": 55
-    },
-    {
-      "Ref": "DD99",
-      "Name": "BRENDAN CARROLL",
-      "Total Points": 55
-    },
-    {
-      "Ref": "WK14",
-      "Name": "IAN BRENNAN",
-      "Total Points": 54
-    },
-    {
-      "Ref": "WK23",
-      "Name": "W P KAVANAGH",
-      "Total Points": 54
-    },
-    {
-      "Ref": "SEN3",
-      "Name": "KEVIN BYRNE",
-      "Total Points": 54
-    },
-    {
-      "Ref": "SEN43",
-      "Name": "KARL COLEMAN",
-      "Total Points": 54
-    },
-    {
-      "Ref": "SN57",
-      "Name": "B. WHEATLY SR",
-      "Total Points": 54
-    },
-    {
-      "Ref": "SN69",
-      "Name": "MARK NOLAN",
-      "Total Points": 54
-    },
-    {
-      "Ref": "PD53",
-      "Name": "PAUL AHEARNE",
-      "Total Points": 54
-    },
-    {
-      "Ref": "GC19",
-      "Name": "KEVIN FOGARTY",
-      "Total Points": 54
-    },
-    {
-      "Ref": "EL8",
+      "Ref": "EL9",
       "Name": "DAMO + MARK",
-      "Total Points": 54
+      "Total Points": 126
     },
     {
-      "Ref": "AMCG2",
-      "Name": "CRAIG + CANE",
-      "Total Points": 54
+      "Ref": "WD10",
+      "Name": "JACKSON RYAN",
+      "Total Points": 126
     },
     {
-      "Ref": "DF40",
-      "Name": "SEANAN LUPTON",
-      "Total Points": 54
+      "Ref": "AOH7",
+      "Name": "DECLAN IVORY",
+      "Total Points": 126
     },
     {
       "Ref": "AOH53",
       "Name": "PAUL MALONE",
-      "Total Points": 54
+      "Total Points": 126
     },
     {
-      "Ref": "WK20",
-      "Name": "JASON BURGESS",
-      "Total Points": 53
+      "Ref": "DD60",
+      "Name": "BRIAN HILL",
+      "Total Points": 126
     },
     {
-      "Ref": "WK28",
-      "Name": "PAUL KAVANAGH",
-      "Total Points": 53
+      "Ref": "DD72",
+      "Name": "GREG SIECKOSKI",
+      "Total Points": 126
     },
     {
-      "Ref": "WK41",
-      "Name": "DAVE FOX",
-      "Total Points": 53
+      "Ref": "DD77",
+      "Name": "PAUL FARRELL",
+      "Total Points": 126
     },
     {
-      "Ref": "WK64",
-      "Name": "MARTIN POWER",
-      "Total Points": 53
+      "Ref": "WK03",
+      "Name": "TOM MC MAHON",
+      "Total Points": 125
     },
     {
-      "Ref": "SEN81",
-      "Name": "LANNY + GEORGE",
-      "Total Points": 53
+      "Ref": "WK29",
+      "Name": "ADAM KAVANAGH",
+      "Total Points": 125
     },
     {
-      "Ref": "SN4",
-      "Name": "DEREK KAVANAGH",
-      "Total Points": 53
+      "Ref": "WK44",
+      "Name": "MEABH WHITE",
+      "Total Points": 125
     },
     {
-      "Ref": "JS1",
-      "Name": "CIAN ROYSTON",
-      "Total Points": 53
+      "Ref": "WK46",
+      "Name": "PATERICK MAHER",
+      "Total Points": 125
     },
     {
-      "Ref": "AMCG4",
-      "Name": "SHARON MC CONNELL",
-      "Total Points": 53
+      "Ref": "WK82",
+      "Name": "DEREK CARROLL",
+      "Total Points": 125
     },
     {
-      "Ref": "WD21",
-      "Name": "TOM SMITH",
-      "Total Points": 53
+      "Ref": "WK83",
+      "Name": "JOHN DOE",
+      "Total Points": 125
     },
     {
-      "Ref": "DF21",
-      "Name": "NIALL MAHER",
-      "Total Points": 53
+      "Ref": "SEN20",
+      "Name": "DEREK RYAN",
+      "Total Points": 125
     },
     {
-      "Ref": "DF24",
-      "Name": "NICOLA O MAHONY",
-      "Total Points": 53
+      "Ref": "SEN24",
+      "Name": "T. COUZER",
+      "Total Points": 125
     },
     {
-      "Ref": "DF33",
-      "Name": "GEMMA MALONEY",
-      "Total Points": 53
+      "Ref": "SEN30",
+      "Name": "JOE CULLY",
+      "Total Points": 125
     },
     {
-      "Ref": "AOH17",
-      "Name": "MIRIAN O HALLORAN",
-      "Total Points": 53
+      "Ref": "SEN96",
+      "Name": "MARK FREEMAN",
+      "Total Points": 125
     },
     {
-      "Ref": "PC14",
-      "Name": "ANNA DOYLE",
-      "Total Points": 53
+      "Ref": "SEN105",
+      "Name": "COLIN HORN",
+      "Total Points": 125
     },
     {
-      "Ref": "PC31",
-      "Name": "LIAM DOYLE",
-      "Total Points": 53
+      "Ref": "SEN137",
+      "Name": "CALUM MC ELLIGOTT",
+      "Total Points": 125
     },
     {
-      "Ref": "PC47",
-      "Name": "DOREEN RYAN",
-      "Total Points": 53
+      "Ref": "SEN138",
+      "Name": "CARL ALLAN",
+      "Total Points": 125
     },
     {
-      "Ref": "DD59",
-      "Name": "COLM FINNERAN",
-      "Total Points": 53
+      "Ref": "PD41",
+      "Name": "BOBBY TAAFFE",
+      "Total Points": 125
     },
     {
-      "Ref": "DD61",
-      "Name": "MARTIN ROCHE",
-      "Total Points": 53
+      "Ref": "GC14",
+      "Name": "BEN SMYTH",
+      "Total Points": 125
     },
     {
-      "Ref": "DD76",
-      "Name": "PAULA KAVANAGH",
-      "Total Points": 53
+      "Ref": "JS5",
+      "Name": "DAVID KIERNAN",
+      "Total Points": 125
     },
     {
-      "Ref": "WK04",
-      "Name": "PHILIPREDMOND",
-      "Total Points": 52
+      "Ref": "EL2",
+      "Name": "JACKIE BRENNAN",
+      "Total Points": 125
     },
     {
-      "Ref": "WK91",
-      "Name": "CIARA O CONNOR",
-      "Total Points": 52
+      "Ref": "WD11",
+      "Name": "PAULA GLYNN",
+      "Total Points": 125
     },
     {
-      "Ref": "SEN2",
-      "Name": "JOHN MC GLYNN",
-      "Total Points": 52
+      "Ref": "DF4",
+      "Name": "BARRY MAGUIRE",
+      "Total Points": 125
     },
     {
-      "Ref": "SEN8",
-      "Name": "FRAN CRUISE",
-      "Total Points": 52
+      "Ref": "DF5",
+      "Name": "NICOLAI DIMAN",
+      "Total Points": 125
     },
     {
-      "Ref": "SN20",
-      "Name": "CAROLINE + ALEX MC MAHON",
-      "Total Points": 52
+      "Ref": "DF10",
+      "Name": "SEAN KELLY",
+      "Total Points": 125
     },
     {
-      "Ref": "SN21",
-      "Name": "JOHN BOWES",
-      "Total Points": 52
+      "Ref": "DF14",
+      "Name": "LUKE FARRELLY",
+      "Total Points": 125
     },
     {
-      "Ref": "WD24",
-      "Name": "JASON SMITH",
-      "Total Points": 52
+      "Ref": "DF25",
+      "Name": "RAY RYAN",
+      "Total Points": 125
     },
     {
-      "Ref": "WD30",
-      "Name": "OSSIE",
-      "Total Points": 52
+      "Ref": "DF27",
+      "Name": "KATELYN KAVANAGH",
+      "Total Points": 125
+    },
+    {
+      "Ref": "DF36",
+      "Name": "GAVIN DUNNE",
+      "Total Points": 125
+    },
+    {
+      "Ref": "AOH14",
+      "Name": "PAUL MC GRATH",
+      "Total Points": 125
+    },
+    {
+      "Ref": "AOH21",
+      "Name": "BOYNER 1",
+      "Total Points": 125
+    },
+    {
+      "Ref": "AOH68",
+      "Name": "PADDY NEARY",
+      "Total Points": 125
+    },
+    {
+      "Ref": "PC23",
+      "Name": "NICKIE BOLAND",
+      "Total Points": 125
+    },
+    {
+      "Ref": "DD8",
+      "Name": "BRAIN SELFON",
+      "Total Points": 125
+    },
+    {
+      "Ref": "DD70",
+      "Name": "ADAM STEDMAN",
+      "Total Points": 125
+    },
+    {
+      "Ref": "DD81",
+      "Name": "NIALL BYRNE",
+      "Total Points": 125
+    },
+    {
+      "Ref": "DD86",
+      "Name": "AARON CHURCHARD",
+      "Total Points": 125
+    },
+    {
+      "Ref": "DD96",
+      "Name": "SHAUNA MCKAY",
+      "Total Points": 125
+    },
+    {
+      "Ref": "WK25",
+      "Name": "M KAVANAGH",
+      "Total Points": 124
+    },
+    {
+      "Ref": "SEN15",
+      "Name": "ROBERT RYDER",
+      "Total Points": 124
+    },
+    {
+      "Ref": "SEN58",
+      "Name": "RICHIE LEANARD",
+      "Total Points": 124
+    },
+    {
+      "Ref": "SEN130",
+      "Name": "GLEN TONER",
+      "Total Points": 124
+    },
+    {
+      "Ref": "SN52",
+      "Name": "DAVID KELLY",
+      "Total Points": 124
+    },
+    {
+      "Ref": "GC21",
+      "Name": "CHARLIE WATERHOUSE",
+      "Total Points": 124
+    },
+    {
+      "Ref": "AMCG10",
+      "Name": "MARGARET MC CONNELL",
+      "Total Points": 124
+    },
+    {
+      "Ref": "WD4",
+      "Name": "JOHN OSBOURNE",
+      "Total Points": 124
+    },
+    {
+      "Ref": "DF32",
+      "Name": "DEREK MALONEY",
+      "Total Points": 124
     },
     {
       "Ref": "AOH45",
       "Name": "ROGER MAHON",
-      "Total Points": 52
+      "Total Points": 124
+    },
+    {
+      "Ref": "PC6",
+      "Name": "DECLAN PROCTOR",
+      "Total Points": 124
     },
     {
       "Ref": "DD18",
       "Name": "OGO",
-      "Total Points": 52
+      "Total Points": 124
     },
     {
-      "Ref": "DD48",
-      "Name": "ALAN KAVANAGH",
-      "Total Points": 52
+      "Ref": "DD45",
+      "Name": "DES MALONEY",
+      "Total Points": 124
     },
     {
-      "Ref": "SEN59",
-      "Name": "JOHN JACKSON",
-      "Total Points": 51
+      "Ref": "DD75",
+      "Name": "GARY STEDMAN",
+      "Total Points": 124
     },
     {
-      "Ref": "SEN112",
-      "Name": "LORRAINE COUGHLAN",
-      "Total Points": 51
+      "Ref": "DD80",
+      "Name": "STEPHEN HOPKINS",
+      "Total Points": 124
     },
     {
-      "Ref": "SEN113",
-      "Name": "SARAH COUGHLAN",
-      "Total Points": 51
+      "Ref": "DD82",
+      "Name": "JOHN STEDMAN",
+      "Total Points": 124
     },
     {
-      "Ref": "SN68",
-      "Name": "PAMELA NOLAN",
-      "Total Points": 51
+      "Ref": "DD92",
+      "Name": "JAMES PROUDFOOT",
+      "Total Points": 124
     },
     {
-      "Ref": "PD3",
-      "Name": "KEITH FITZERLD",
-      "Total Points": 51
+      "Ref": "WK56",
+      "Name": "GARETH MATTHEWS",
+      "Total Points": 123
     },
     {
-      "Ref": "KB23",
-      "Name": "ROBERT ROCHE",
-      "Total Points": 51
+      "Ref": "SEN82",
+      "Name": "ROBERT WILTON",
+      "Total Points": 123
     },
     {
-      "Ref": "AOH13",
-      "Name": "JOSH MC GRATH",
-      "Total Points": 51
+      "Ref": "SEN102",
+      "Name": "ADAM GLENIS",
+      "Total Points": 123
     },
     {
-      "Ref": "AOH31",
-      "Name": "DECLAN HENNEY",
-      "Total Points": 51
+      "Ref": "SEN103",
+      "Name": "DAVID DEVOY",
+      "Total Points": 123
     },
     {
-      "Ref": "AOH54",
-      "Name": "DERMOT MAGUIRE",
-      "Total Points": 51
+      "Ref": "SEN128",
+      "Name": "JACKIECOOMBES",
+      "Total Points": 123
     },
     {
-      "Ref": "AOH58",
-      "Name": "MARTIN COUGHLAN",
-      "Total Points": 51
+      "Ref": "SN23",
+      "Name": "DEREK NOLAN",
+      "Total Points": 123
     },
     {
-      "Ref": "PC22",
-      "Name": "T TYNAN",
-      "Total Points": 51
+      "Ref": "EL12",
+      "Name": "JIM CARROLL",
+      "Total Points": 123
     },
     {
-      "Ref": "DD10",
-      "Name": "PAUL DONOHUE",
-      "Total Points": 51
+      "Ref": "EL22",
+      "Name": "VALERIE CRAINE DOYLE",
+      "Total Points": 123
     },
     {
-      "Ref": "WK88",
-      "Name": "MICHEAL O CONNOR",
-      "Total Points": 50
+      "Ref": "KB15",
+      "Name": "PHELIM HOGAN",
+      "Total Points": 123
     },
     {
-      "Ref": "SEN9",
-      "Name": "SHAN COUGEN",
-      "Total Points": 50
+      "Ref": "DF3",
+      "Name": "DARREN FARRELLY",
+      "Total Points": 123
     },
     {
-      "Ref": "SEN66",
-      "Name": "LIAM KEARNS",
-      "Total Points": 50
+      "Ref": "AOH4",
+      "Name": "ERIC KANE",
+      "Total Points": 123
     },
     {
-      "Ref": "SEN120",
-      "Name": "JIMMY JENKINSON",
-      "Total Points": 50
+      "Ref": "AOH37",
+      "Name": "DARRAGH LEAVY",
+      "Total Points": 123
     },
     {
-      "Ref": "SN16",
-      "Name": "ANTONIOS STERGIOU",
-      "Total Points": 50
+      "Ref": "PC24",
+      "Name": "LUKE FITZPATRICK",
+      "Total Points": 123
     },
     {
-      "Ref": "SN17",
-      "Name": "CHRISTINA MAXWELL",
-      "Total Points": 50
+      "Ref": "PC45",
+      "Name": "TREVOR ROONEY",
+      "Total Points": 123
     },
     {
-      "Ref": "SN24",
-      "Name": "JOHN KINSELLA",
-      "Total Points": 50
+      "Ref": "DD37",
+      "Name": "EDDIE OBREIN",
+      "Total Points": 123
     },
     {
-      "Ref": "PD1",
-      "Name": "NAOMI + SHAUNA FITZGERALD",
-      "Total Points": 50
+      "Ref": "DD89",
+      "Name": "GERRY JORDAN",
+      "Total Points": 123
     },
     {
-      "Ref": "GC6",
-      "Name": "LIAM WYNNE",
-      "Total Points": 50
+      "Ref": "WK36",
+      "Name": "PATRICK O CONNELL",
+      "Total Points": 122
     },
     {
-      "Ref": "GC18",
-      "Name": "MARK OWENS",
-      "Total Points": 50
+      "Ref": "SEN108",
+      "Name": "AIDAN ROBERTY",
+      "Total Points": 122
     },
     {
-      "Ref": "EL1",
-      "Name": "EMMA BRENNAN",
-      "Total Points": 50
+      "Ref": "SN10",
+      "Name": "JOHN ROWE",
+      "Total Points": 122
     },
     {
-      "Ref": "EL10",
-      "Name": "JOHN LYNCH",
-      "Total Points": 50
+      "Ref": "SN47",
+      "Name": "DAVE MURRAY",
+      "Total Points": 122
     },
     {
-      "Ref": "WD14",
-      "Name": "ALEX DELANEY",
-      "Total Points": 50
+      "Ref": "RC6",
+      "Name": "TINA O SULLIVAN",
+      "Total Points": 122
     },
     {
-      "Ref": "KB6",
-      "Name": "DAMIEN BERNRY",
-      "Total Points": 50
+      "Ref": "PD8",
+      "Name": "MARK COONEY",
+      "Total Points": 122
     },
     {
-      "Ref": "KB22",
-      "Name": "IRENE FOLEY",
-      "Total Points": 50
+      "Ref": "PD10",
+      "Name": "PAUL SHORTT",
+      "Total Points": 122
     },
     {
-      "Ref": "DF30",
-      "Name": "CAMERON O LEARY",
-      "Total Points": 50
+      "Ref": "PD21",
+      "Name": "KIAN MAGUIRE",
+      "Total Points": 122
     },
     {
-      "Ref": "AOH33",
-      "Name": "BRIAN DALY",
-      "Total Points": 50
+      "Ref": "GC15",
+      "Name": "JOSEPH BYRNE",
+      "Total Points": 122
     },
     {
-      "Ref": "PC19",
-      "Name": "ANDREW KAVANAGH",
-      "Total Points": 50
+      "Ref": "GC23",
+      "Name": "AARON WATERHOUSE",
+      "Total Points": 122
     },
     {
-      "Ref": "PC36",
-      "Name": "LENA FLYNN",
-      "Total Points": 50
+      "Ref": "JS18",
+      "Name": "STEPHEN O REILLY",
+      "Total Points": 122
     },
     {
-      "Ref": "DD41",
-      "Name": "KATIE DOYLE",
-      "Total Points": 50
+      "Ref": "WD28",
+      "Name": "DAVID LORD",
+      "Total Points": 122
     },
     {
-      "Ref": "DD54",
-      "Name": "DAMIEN WINTERS",
-      "Total Points": 50
+      "Ref": "KB28",
+      "Name": "SUSAN + ROLAND DARCY",
+      "Total Points": 122
     },
     {
-      "Ref": "WK69",
-      "Name": "SUZANNE WALKER",
-      "Total Points": 49
+      "Ref": "AOH30",
+      "Name": "KEN GORRY 2",
+      "Total Points": 122
     },
     {
-      "Ref": "SEN97",
-      "Name": "HILDA MILLS",
-      "Total Points": 49
+      "Ref": "AOH48",
+      "Name": "KEVIN LIDDLE",
+      "Total Points": 122
     },
     {
-      "Ref": "SEN111",
-      "Name": "TOM COUGHLAN",
-      "Total Points": 49
+      "Ref": "PC7",
+      "Name": "SHANE O REILLY",
+      "Total Points": 122
     },
     {
-      "Ref": "RC14",
-      "Name": "DANIEL BARRETT",
-      "Total Points": 49
+      "Ref": "PC17",
+      "Name": "FRANK O REILLY",
+      "Total Points": 122
     },
     {
-      "Ref": "PD22",
-      "Name": "SHANUNA MAGUIRE",
-      "Total Points": 49
+      "Ref": "PC38",
+      "Name": "DENIS FLYNN",
+      "Total Points": 122
     },
     {
-      "Ref": "PD52",
-      "Name": "JAMIE AHEARNE",
-      "Total Points": 49
+      "Ref": "SN32",
+      "Name": "SEAN MARTYN",
+      "Total Points": 121
     },
     {
-      "Ref": "JS9",
-      "Name": "JASON KEELAN",
-      "Total Points": 49
+      "Ref": "SN35",
+      "Name": "JOHN KELLY",
+      "Total Points": 121
     },
     {
-      "Ref": "DF31",
-      "Name": "HEATHER + LAURA",
-      "Total Points": 49
+      "Ref": "PD61",
+      "Name": "ALAN CLARKE",
+      "Total Points": 121
     },
     {
-      "Ref": "AOH20",
-      "Name": "RUAIRIDH FLEMING",
-      "Total Points": 49
+      "Ref": "JS15",
+      "Name": "FRAN BYRNE",
+      "Total Points": 121
     },
     {
-      "Ref": "AOH61",
-      "Name": "MARLEY LAWSON",
-      "Total Points": 49
+      "Ref": "AMCG3",
+      "Name": "KEITH MC GLYNN",
+      "Total Points": 121
     },
     {
-      "Ref": "PC26",
-      "Name": "LIAM KEARNS",
-      "Total Points": 49
+      "Ref": "KB26",
+      "Name": "LIAM BRADLEY",
+      "Total Points": 121
     },
     {
-      "Ref": "DD2",
-      "Name": "ANTOINETTE POWER",
-      "Total Points": 49
+      "Ref": "DF6",
+      "Name": "KEN SEERY",
+      "Total Points": 121
     },
     {
-      "Ref": "DD93",
-      "Name": "DAVID ROBBERTS",
-      "Total Points": 49
+      "Ref": "DF8",
+      "Name": "JOHN CLIFFORD",
+      "Total Points": 121
     },
     {
-      "Ref": "SEN42",
-      "Name": "ANTO DUNPHY",
-      "Total Points": 48
+      "Ref": "PC1",
+      "Name": "COLLETTE COLLINS",
+      "Total Points": 121
     },
     {
-      "Ref": "SEN51",
-      "Name": "THOMAS SMYTH",
-      "Total Points": 48
+      "Ref": "PC39",
+      "Name": "ERIC MALONE",
+      "Total Points": 121
     },
     {
-      "Ref": "RC19",
-      "Name": "ADAM O NEILL",
-      "Total Points": 48
+      "Ref": "DD20",
+      "Name": "CALLUM WALSH",
+      "Total Points": 121
     },
     {
-      "Ref": "PD24",
-      "Name": "HELEN CUNNINGHAM",
-      "Total Points": 48
+      "Ref": "WW33",
+      "Name": "DAVID LYONS",
+      "Total Points": 120
     },
     {
-      "Ref": "GC17",
-      "Name": "CLAUDIA KINSELLA",
-      "Total Points": 48
+      "Ref": "WK76",
+      "Name": "COLM DUNNE",
+      "Total Points": 120
     },
     {
-      "Ref": "AOH19",
-      "Name": "ANITA FLEMING",
-      "Total Points": 48
+      "Ref": "SEN4",
+      "Name": "OLIVER BYRNE",
+      "Total Points": 120
+    },
+    {
+      "Ref": "SEN63",
+      "Name": "ADAM",
+      "Total Points": 120
+    },
+    {
+      "Ref": "SEN90",
+      "Name": "BRAIN BRANNIGAN",
+      "Total Points": 120
+    },
+    {
+      "Ref": "SEN99",
+      "Name": "LAURA MILL",
+      "Total Points": 120
+    },
+    {
+      "Ref": "SEN104",
+      "Name": "KATE FOX",
+      "Total Points": 120
+    },
+    {
+      "Ref": "SN15",
+      "Name": "SEAN MC MAHON",
+      "Total Points": 120
+    },
+    {
+      "Ref": "PD33",
+      "Name": "CONOR MONGAN",
+      "Total Points": 120
+    },
+    {
+      "Ref": "GC1",
+      "Name": "GREG CONNOLLY",
+      "Total Points": 120
+    },
+    {
+      "Ref": "EL7",
+      "Name": "LISA BRENNAN",
+      "Total Points": 120
+    },
+    {
+      "Ref": "WD5",
+      "Name": "IAN EARLY",
+      "Total Points": 120
+    },
+    {
+      "Ref": "WD8",
+      "Name": "DAVE MC CREEVY",
+      "Total Points": 120
+    },
+    {
+      "Ref": "KB3",
+      "Name": "KEITH BYRNE",
+      "Total Points": 120
+    },
+    {
+      "Ref": "KB10",
+      "Name": "DAVID KLLEEN",
+      "Total Points": 120
+    },
+    {
+      "Ref": "AOH44",
+      "Name": "JOSH MCSTAY",
+      "Total Points": 120
     },
     {
       "Ref": "AOH70",
       "Name": "KATE ELIZABETH NOLAN",
-      "Total Points": 48
+      "Total Points": 120
     },
     {
-      "Ref": "DD6",
-      "Name": "EDDIE CONNERS",
-      "Total Points": 48
+      "Ref": "DD17",
+      "Name": "SEAN WALSH",
+      "Total Points": 120
     },
     {
-      "Ref": "DD31",
-      "Name": "KATHLEEN  DUFFY",
-      "Total Points": 48
+      "Ref": "DD39",
+      "Name": "JACK DOYLE",
+      "Total Points": 120
     },
     {
-      "Ref": "DD98",
-      "Name": "LENNIE EUSTACE",
-      "Total Points": 48
+      "Ref": "WK12",
+      "Name": "JOHN BYRNE",
+      "Total Points": 119
     },
     {
-      "Ref": "WK90",
-      "Name": "DEBORAH O CONNOR",
-      "Total Points": 47
+      "Ref": "WK17",
+      "Name": "MUIRE WHITE",
+      "Total Points": 119
     },
     {
-      "Ref": "PD50",
-      "Name": "CRAIG DOOLIN",
-      "Total Points": 47
+      "Ref": "WK18",
+      "Name": "MUIRE WHITE 2",
+      "Total Points": 119
     },
     {
-      "Ref": "WD19",
-      "Name": "CIAN OSBORNE",
-      "Total Points": 47
+      "Ref": "SEN29",
+      "Name": "JASON COSTELLO",
+      "Total Points": 119
     },
     {
-      "Ref": "DD9",
-      "Name": "ERNIE WATKINS",
-      "Total Points": 47
+      "Ref": "SEN61",
+      "Name": "JACK + EVAN BURKE",
+      "Total Points": 119
+    },
+    {
+      "Ref": "SEN72",
+      "Name": "CHRISTINE LEONARD",
+      "Total Points": 119
+    },
+    {
+      "Ref": "SEN85",
+      "Name": "TOM MOCKLER",
+      "Total Points": 119
+    },
+    {
+      "Ref": "SN14",
+      "Name": "IAN COUGHLAN",
+      "Total Points": 119
+    },
+    {
+      "Ref": "RC8",
+      "Name": "NICHOLAS BELNIVOHAN",
+      "Total Points": 119
+    },
+    {
+      "Ref": "RC16",
+      "Name": "DEREK DONOHOE",
+      "Total Points": 119
+    },
+    {
+      "Ref": "PD48",
+      "Name": "KEITH DEVLIN",
+      "Total Points": 119
+    },
+    {
+      "Ref": "PD62",
+      "Name": "ALAN CLARKE",
+      "Total Points": 119
+    },
+    {
+      "Ref": "GC20",
+      "Name": "LARRY PIERCE",
+      "Total Points": 119
+    },
+    {
+      "Ref": "JS14",
+      "Name": "CALLUM QUINN",
+      "Total Points": 119
+    },
+    {
+      "Ref": "WD17",
+      "Name": "WANYE GLYNN",
+      "Total Points": 119
+    },
+    {
+      "Ref": "KB12",
+      "Name": "KEITH BYRNE",
+      "Total Points": 119
+    },
+    {
+      "Ref": "DF39",
+      "Name": "RIMAMHS GRESTANIAS",
+      "Total Points": 119
+    },
+    {
+      "Ref": "AOH16",
+      "Name": "JASON O HALLORAN",
+      "Total Points": 119
+    },
+    {
+      "Ref": "DD1",
+      "Name": "THOMAS POWER",
+      "Total Points": 119
+    },
+    {
+      "Ref": "WK55",
+      "Name": "TOM MATTHEWS",
+      "Total Points": 118
+    },
+    {
+      "Ref": "SN6",
+      "Name": "DAVID CAMPBELL",
+      "Total Points": 118
+    },
+    {
+      "Ref": "PD46",
+      "Name": "BRIAN SHEEDY",
+      "Total Points": 118
+    },
+    {
+      "Ref": "PD59",
+      "Name": "ROBBIE CLARKE",
+      "Total Points": 118
+    },
+    {
+      "Ref": "WD3",
+      "Name": "PAUL ARTHURS",
+      "Total Points": 118
+    },
+    {
+      "Ref": "KB2",
+      "Name": "GEMMA GASKIN",
+      "Total Points": 118
+    },
+    {
+      "Ref": "AOH32",
+      "Name": "EAMONN BYRNE",
+      "Total Points": 118
+    },
+    {
+      "Ref": "AOH41",
+      "Name": "ALAN O HALLORAN",
+      "Total Points": 118
+    },
+    {
+      "Ref": "AOH60",
+      "Name": "LEE LANDERS",
+      "Total Points": 118
+    },
+    {
+      "Ref": "PC10",
+      "Name": "LUKE KNOWLES",
+      "Total Points": 118
+    },
+    {
+      "Ref": "PC21",
+      "Name": "ANDY KAVANAGH",
+      "Total Points": 118
+    },
+    {
+      "Ref": "PC25",
+      "Name": "ALAN GUERRINE",
+      "Total Points": 118
+    },
+    {
+      "Ref": "PC44",
+      "Name": "TYLOR COLOM",
+      "Total Points": 118
+    },
+    {
+      "Ref": "PC49",
+      "Name": "NIALL NOLAN",
+      "Total Points": 118
+    },
+    {
+      "Ref": "DD63",
+      "Name": "PETER CHARLES",
+      "Total Points": 118
+    },
+    {
+      "Ref": "WK60",
+      "Name": "SEAN O NEILL",
+      "Total Points": 117
+    },
+    {
+      "Ref": "WK85",
+      "Name": "JOE PALMER",
+      "Total Points": 117
+    },
+    {
+      "Ref": "SEN28",
+      "Name": "IAN BOLAND",
+      "Total Points": 117
+    },
+    {
+      "Ref": "SEN35",
+      "Name": "TED MADAGHJIAN",
+      "Total Points": 117
+    },
+    {
+      "Ref": "SEN136",
+      "Name": "CAMERON MORAN",
+      "Total Points": 117
+    },
+    {
+      "Ref": "RC12",
+      "Name": "RACHEL BARRETT",
+      "Total Points": 117
+    },
+    {
+      "Ref": "PD23",
+      "Name": "KIAN MAGUIRE",
+      "Total Points": 117
+    },
+    {
+      "Ref": "PD34",
+      "Name": "RIAN EGAN",
+      "Total Points": 117
+    },
+    {
+      "Ref": "EL13",
+      "Name": "COLM MAGUIRE",
+      "Total Points": 117
+    },
+    {
+      "Ref": "EL15",
+      "Name": "JACK DOYLE",
+      "Total Points": 117
+    },
+    {
+      "Ref": "KB7",
+      "Name": "JOHANNA KEEGAN",
+      "Total Points": 117
+    },
+    {
+      "Ref": "KB9",
+      "Name": "PADDY DUNNE",
+      "Total Points": 117
+    },
+    {
+      "Ref": "KB13",
+      "Name": "PAUL SHEIL",
+      "Total Points": 117
+    },
+    {
+      "Ref": "AOH38",
+      "Name": "CIAN LEAVY",
+      "Total Points": 117
+    },
+    {
+      "Ref": "AOH50",
+      "Name": "MEGAN CLEARY",
+      "Total Points": 117
+    },
+    {
+      "Ref": "PC20",
+      "Name": "ANDREW KAVANAGH",
+      "Total Points": 117
+    },
+    {
+      "Ref": "DD47",
+      "Name": "ERIC MULHALL",
+      "Total Points": 117
+    },
+    {
+      "Ref": "DD78",
+      "Name": "STEO STEDMAN",
+      "Total Points": 117
+    },
+    {
+      "Ref": "DD79",
+      "Name": "JOANATHON KINSELLA",
+      "Total Points": 117
+    },
+    {
+      "Ref": "WK59",
+      "Name": "GEAROID RAY",
+      "Total Points": 116
+    },
+    {
+      "Ref": "SEN62",
+      "Name": "KYLE COSTELLO",
+      "Total Points": 116
+    },
+    {
+      "Ref": "SEN106",
+      "Name": "BREN BURKE",
+      "Total Points": 116
+    },
+    {
+      "Ref": "SN41",
+      "Name": "MARK BYRNE",
+      "Total Points": 116
+    },
+    {
+      "Ref": "GC4",
+      "Name": "LAR KEANE",
+      "Total Points": 116
+    },
+    {
+      "Ref": "WD15",
+      "Name": "JONNY RYAN",
+      "Total Points": 116
+    },
+    {
+      "Ref": "DF41",
+      "Name": "DOREEN RYAN",
+      "Total Points": 116
+    },
+    {
+      "Ref": "DF44",
+      "Name": "COLM MCINTYRE",
+      "Total Points": 116
+    },
+    {
+      "Ref": "AOH11",
+      "Name": "AIDAN SMITH",
+      "Total Points": 116
+    },
+    {
+      "Ref": "AOH34",
+      "Name": "CLAUDE DUFFY",
+      "Total Points": 116
+    },
+    {
+      "Ref": "PC32",
+      "Name": "DAVID WOODS",
+      "Total Points": 116
+    },
+    {
+      "Ref": "PC42",
+      "Name": "JOE DWYER",
+      "Total Points": 116
+    },
+    {
+      "Ref": "DD101",
+      "Name": "EIAINE KEARNS",
+      "Total Points": 116
+    },
+    {
+      "Ref": "WK72",
+      "Name": "MARTIN KILMURRAY",
+      "Total Points": 115
+    },
+    {
+      "Ref": "SEN14",
+      "Name": "GERARD SHEEHAN",
+      "Total Points": 115
+    },
+    {
+      "Ref": "SEN70",
+      "Name": "BRAIN SNOWE",
+      "Total Points": 115
+    },
+    {
+      "Ref": "SEN135",
+      "Name": "MARK SANDFORD",
+      "Total Points": 115
+    },
+    {
+      "Ref": "SN18",
+      "Name": "CHRISRINA STERGIOU",
+      "Total Points": 115
+    },
+    {
+      "Ref": "SN50",
+      "Name": "TONY FARRELL",
+      "Total Points": 115
+    },
+    {
+      "Ref": "JS17",
+      "Name": "CHRIS O CONNELL",
+      "Total Points": 115
+    },
+    {
+      "Ref": "WD6",
+      "Name": "BEN DANIEL MBU",
+      "Total Points": 115
+    },
+    {
+      "Ref": "KB8",
+      "Name": "PAUL ROCHE",
+      "Total Points": 115
+    },
+    {
+      "Ref": "AOH23",
+      "Name": "ELENA RONAN",
+      "Total Points": 115
+    },
+    {
+      "Ref": "AOH49",
+      "Name": "LISA CLEARY",
+      "Total Points": 115
+    },
+    {
+      "Ref": "DD15",
+      "Name": "PAUL HENDRICK",
+      "Total Points": 115
+    },
+    {
+      "Ref": "DD16",
+      "Name": "MAEK FLEMING",
+      "Total Points": 115
+    },
+    {
+      "Ref": "WK14",
+      "Name": "IAN BRENNAN",
+      "Total Points": 114
+    },
+    {
+      "Ref": "WK58",
+      "Name": "ADAM CLARKE",
+      "Total Points": 114
+    },
+    {
+      "Ref": "SEN33",
+      "Name": "COLM MCGARYY",
+      "Total Points": 114
+    },
+    {
+      "Ref": "SEN49",
+      "Name": "ED FARRELL",
+      "Total Points": 114
+    },
+    {
+      "Ref": "SEN91",
+      "Name": "TERRY NOONE",
+      "Total Points": 114
+    },
+    {
+      "Ref": "SEN92",
+      "Name": "PAUL MALONE",
+      "Total Points": 114
+    },
+    {
+      "Ref": "SEN119",
+      "Name": "VINCENT",
+      "Total Points": 114
+    },
+    {
+      "Ref": "SN12",
+      "Name": "AISHLING MC NAMARA",
+      "Total Points": 114
+    },
+    {
+      "Ref": "SN19",
+      "Name": "SEAN MC",
+      "Total Points": 114
+    },
+    {
+      "Ref": "SN67",
+      "Name": "FINN SMITH",
+      "Total Points": 114
+    },
+    {
+      "Ref": "SN69",
+      "Name": "MARK NOLAN",
+      "Total Points": 114
+    },
+    {
+      "Ref": "RC4",
+      "Name": "RHYS KEANE",
+      "Total Points": 114
+    },
+    {
+      "Ref": "PD37",
+      "Name": "DEX KELLY",
+      "Total Points": 114
+    },
+    {
+      "Ref": "WD7",
+      "Name": "MARTIN GRAY",
+      "Total Points": 114
+    },
+    {
+      "Ref": "DF9",
+      "Name": "COLIN FITZSIMONS",
+      "Total Points": 114
+    },
+    {
+      "Ref": "DF19",
+      "Name": "SEAN CAROLAN",
+      "Total Points": 114
+    },
+    {
+      "Ref": "PC2",
+      "Name": "EVAN COLLINS",
+      "Total Points": 114
+    },
+    {
+      "Ref": "PC9",
+      "Name": "SAM KNOWLES",
+      "Total Points": 114
+    },
+    {
+      "Ref": "DD26",
+      "Name": "HANNAH DOYLE",
+      "Total Points": 114
+    },
+    {
+      "Ref": "DD34",
+      "Name": "AMY CARROLL",
+      "Total Points": 114
+    },
+    {
+      "Ref": "WK54",
+      "Name": "PAUL MOONEY",
+      "Total Points": 113
+    },
+    {
+      "Ref": "WK64",
+      "Name": "MARTIN POWER",
+      "Total Points": 113
+    },
+    {
+      "Ref": "SEN134",
+      "Name": "MICHELLE SANDFORD",
+      "Total Points": 113
+    },
+    {
+      "Ref": "SN64",
+      "Name": "LIAM LITTLE",
+      "Total Points": 113
+    },
+    {
+      "Ref": "PD60",
+      "Name": "LEE DILLON",
+      "Total Points": 113
+    },
+    {
+      "Ref": "EL3",
+      "Name": "DEREK BRENNAN",
+      "Total Points": 113
+    },
+    {
+      "Ref": "WD1",
+      "Name": "DAVID SEERY",
+      "Total Points": 113
+    },
+    {
+      "Ref": "DF11",
+      "Name": "MICK COTTER",
+      "Total Points": 113
+    },
+    {
+      "Ref": "DF21",
+      "Name": "NIALL MAHER",
+      "Total Points": 113
+    },
+    {
+      "Ref": "AOH56",
+      "Name": "ANGELA LIDDLE",
+      "Total Points": 113
+    },
+    {
+      "Ref": "PC30",
+      "Name": "GRACE COLLNS",
+      "Total Points": 113
+    },
+    {
+      "Ref": "PC33",
+      "Name": "LIAM DAVIS",
+      "Total Points": 113
+    },
+    {
+      "Ref": "DD22",
+      "Name": "LIAM WHELAN",
+      "Total Points": 113
+    },
+    {
+      "Ref": "DD59",
+      "Name": "COLM FINNERAN",
+      "Total Points": 113
+    },
+    {
+      "Ref": "DD61",
+      "Name": "MARTIN ROCHE",
+      "Total Points": 113
+    },
+    {
+      "Ref": "WK04",
+      "Name": "PHILIPREDMOND",
+      "Total Points": 112
+    },
+    {
+      "Ref": "SEN13",
+      "Name": "LINDA BLOOD",
+      "Total Points": 112
+    },
+    {
+      "Ref": "SEN52",
+      "Name": "NICK SMYTH",
+      "Total Points": 112
+    },
+    {
+      "Ref": "SEN53",
+      "Name": "JIMMY DUNNE",
+      "Total Points": 112
+    },
+    {
+      "Ref": "SEN127",
+      "Name": "STEPHEN SANDFORD",
+      "Total Points": 112
+    },
+    {
+      "Ref": "PD7",
+      "Name": "JOHN BROPMY",
+      "Total Points": 112
+    },
+    {
+      "Ref": "PD32",
+      "Name": "NIAMH KEARNEY",
+      "Total Points": 112
+    },
+    {
+      "Ref": "JS2",
+      "Name": "JAMES BUTCHART",
+      "Total Points": 112
+    },
+    {
+      "Ref": "WD27",
+      "Name": "CONOR LAWLOR",
+      "Total Points": 112
+    },
+    {
+      "Ref": "DF15",
+      "Name": "CONOR + CILLIAN GUNNING",
+      "Total Points": 112
+    },
+    {
+      "Ref": "AOH59",
+      "Name": "ANTO LANDERS",
+      "Total Points": 112
+    },
+    {
+      "Ref": "DD7",
+      "Name": "GAVIN FRASER",
+      "Total Points": 112
+    },
+    {
+      "Ref": "DD30",
+      "Name": "DARRAGH CARROLL",
+      "Total Points": 112
+    },
+    {
+      "Ref": "WK19",
+      "Name": "LIAM WHITE",
+      "Total Points": 111
+    },
+    {
+      "Ref": "WK31",
+      "Name": "NODDY",
+      "Total Points": 111
+    },
+    {
+      "Ref": "WK38",
+      "Name": "CATHLEEN BYRNE",
+      "Total Points": 111
+    },
+    {
+      "Ref": "WK45",
+      "Name": "SHAY O REILLY",
+      "Total Points": 111
+    },
+    {
+      "Ref": "WK51",
+      "Name": "JOHN KELLY",
+      "Total Points": 111
+    },
+    {
+      "Ref": "SEN67",
+      "Name": "JOSH O BREIN",
+      "Total Points": 111
+    },
+    {
+      "Ref": "SEN68",
+      "Name": "LEWIS HALL",
+      "Total Points": 111
+    },
+    {
+      "Ref": "SEN84",
+      "Name": "WILL MULLER",
+      "Total Points": 111
+    },
+    {
+      "Ref": "SEN89",
+      "Name": "KARL COLEMAN",
+      "Total Points": 111
+    },
+    {
+      "Ref": "SEN129",
+      "Name": "STEPHEN GRIFFIN",
+      "Total Points": 111
+    },
+    {
+      "Ref": "SN8",
+      "Name": "CONOR O ROURKE",
+      "Total Points": 111
+    },
+    {
+      "Ref": "RC15",
+      "Name": "CALLUM DONOHOE",
+      "Total Points": 111
+    },
+    {
+      "Ref": "PD9",
+      "Name": "JAMIE O BRIEN",
+      "Total Points": 111
+    },
+    {
+      "Ref": "PD17",
+      "Name": "NICHOLAS MALONE",
+      "Total Points": 111
+    },
+    {
+      "Ref": "JS16",
+      "Name": "REECE HICKEY",
+      "Total Points": 111
+    },
+    {
+      "Ref": "DF7",
+      "Name": "GORDAN MOULES",
+      "Total Points": 111
+    },
+    {
+      "Ref": "DF42",
+      "Name": "ROBERT LYPTON",
+      "Total Points": 111
+    },
+    {
+      "Ref": "AOH31",
+      "Name": "DECLAN HENNEY",
+      "Total Points": 111
+    },
+    {
+      "Ref": "AOH66",
+      "Name": "IAN DENNIS",
+      "Total Points": 111
+    },
+    {
+      "Ref": "DD65",
+      "Name": "INAE MINCHETTI",
+      "Total Points": 111
+    },
+    {
+      "Ref": "WK73",
+      "Name": "DARA SMITH",
+      "Total Points": 110
+    },
+    {
+      "Ref": "SEN66",
+      "Name": "LIAM KEARNS",
+      "Total Points": 110
+    },
+    {
+      "Ref": "RC9",
+      "Name": "WARREN",
+      "Total Points": 110
+    },
+    {
+      "Ref": "RC10",
+      "Name": "DANIEL CULLY",
+      "Total Points": 110
+    },
+    {
+      "Ref": "JS13",
+      "Name": "JOHN SHANNON",
+      "Total Points": 110
+    },
+    {
+      "Ref": "EL16",
+      "Name": "JOHM DOYLE",
+      "Total Points": 110
+    },
+    {
+      "Ref": "AMCG1",
+      "Name": "DERMOT COONEY",
+      "Total Points": 110
+    },
+    {
+      "Ref": "KB4",
+      "Name": "FRANCES BYRNE",
+      "Total Points": 110
+    },
+    {
+      "Ref": "KB21",
+      "Name": "LIAM HOGAN",
+      "Total Points": 110
+    },
+    {
+      "Ref": "KB25",
+      "Name": "CORNIA CONLAN",
+      "Total Points": 110
+    },
+    {
+      "Ref": "AOH10",
+      "Name": "STEPHEN SMITH",
+      "Total Points": 110
+    },
+    {
+      "Ref": "AOH22",
+      "Name": "BOYNER 2",
+      "Total Points": 110
+    },
+    {
+      "Ref": "AOH33",
+      "Name": "BRIAN DALY",
+      "Total Points": 110
+    },
+    {
+      "Ref": "PC36",
+      "Name": "LENA FLYNN",
+      "Total Points": 110
+    },
+    {
+      "Ref": "DD21",
+      "Name": "LARRY HARRISON",
+      "Total Points": 110
+    },
+    {
+      "Ref": "DD40",
+      "Name": "KELLY DOYLE",
+      "Total Points": 110
+    },
+    {
+      "Ref": "DD54",
+      "Name": "DAMIEN WINTERS",
+      "Total Points": 110
+    },
+    {
+      "Ref": "DD58",
+      "Name": "DANNEN GRAHAM",
+      "Total Points": 110
+    },
+    {
+      "Ref": "DD73",
+      "Name": "ROBERT MAGDIAK",
+      "Total Points": 110
+    },
+    {
+      "Ref": "WK24",
+      "Name": "HOLLIE KAVANAGH",
+      "Total Points": 109
+    },
+    {
+      "Ref": "WK52",
+      "Name": "MAURICE KELLY",
+      "Total Points": 109
+    },
+    {
+      "Ref": "WK62",
+      "Name": "LEE EUSTACE",
+      "Total Points": 109
+    },
+    {
+      "Ref": "WK69",
+      "Name": "SUZANNE WALKER",
+      "Total Points": 109
+    },
+    {
+      "Ref": "SEN21",
+      "Name": "MICK JENKO",
+      "Total Points": 109
+    },
+    {
+      "Ref": "SEN34",
+      "Name": "LAURENCE WELDON",
+      "Total Points": 109
+    },
+    {
+      "Ref": "SEN101",
+      "Name": "IAN ELLIS",
+      "Total Points": 109
+    },
+    {
+      "Ref": "SN51",
+      "Name": "LIZ FARRELL",
+      "Total Points": 109
+    },
+    {
+      "Ref": "SN60",
+      "Name": "AILISH WHEATLEY",
+      "Total Points": 109
+    },
+    {
+      "Ref": "PD13",
+      "Name": "ADAM SHORTT",
+      "Total Points": 109
+    },
+    {
+      "Ref": "PD49",
+      "Name": "JOE DOOLIN",
+      "Total Points": 109
+    },
+    {
+      "Ref": "WD13",
+      "Name": "JAMES NIX",
+      "Total Points": 109
+    },
+    {
+      "Ref": "WD18",
+      "Name": "JANICE PIDGEON",
+      "Total Points": 109
+    },
+    {
+      "Ref": "DF31",
+      "Name": "HEATHER + LAURA",
+      "Total Points": 109
+    },
+    {
+      "Ref": "PC13",
+      "Name": "BILL DOYLE",
+      "Total Points": 109
+    },
+    {
+      "Ref": "DD4",
+      "Name": "DEAN POWER",
+      "Total Points": 109
+    },
+    {
+      "Ref": "WK08",
+      "Name": "LEE KIRWAN 2",
+      "Total Points": 108
+    },
+    {
+      "Ref": "WK47",
+      "Name": "TONY MAHER",
+      "Total Points": 108
+    },
+    {
+      "Ref": "WK48",
+      "Name": "KATIE MALONE",
+      "Total Points": 108
+    },
+    {
+      "Ref": "SEN16",
+      "Name": "JOHN COSTELLO",
+      "Total Points": 108
+    },
+    {
+      "Ref": "SEN19",
+      "Name": "PAUL ENNIS",
+      "Total Points": 108
+    },
+    {
+      "Ref": "SEN25",
+      "Name": "TOM",
+      "Total Points": 108
+    },
+    {
+      "Ref": "SEN74",
+      "Name": "CIARAN SMITH",
+      "Total Points": 108
+    },
+    {
+      "Ref": "SEN75",
+      "Name": "LIAM CALLERY",
+      "Total Points": 108
+    },
+    {
+      "Ref": "SEN88",
+      "Name": "KEVIN BYRNE",
+      "Total Points": 108
+    },
+    {
+      "Ref": "SEN109",
+      "Name": "TOMMY COUGHLAN",
+      "Total Points": 108
+    },
+    {
+      "Ref": "SEN122",
+      "Name": "MICK BURKE",
+      "Total Points": 108
+    },
+    {
+      "Ref": "SN5",
+      "Name": "DARRAGH WARD",
+      "Total Points": 108
+    },
+    {
+      "Ref": "SN45",
+      "Name": "GRAEM FARRELL",
+      "Total Points": 108
+    },
+    {
+      "Ref": "RC11",
+      "Name": "CIARA + JENNIFER",
+      "Total Points": 108
+    },
+    {
+      "Ref": "RC18",
+      "Name": "JENIFER DONOHOE",
+      "Total Points": 108
+    },
+    {
+      "Ref": "PD16",
+      "Name": "ALISON SHERIDAN",
+      "Total Points": 108
+    },
+    {
+      "Ref": "PD25",
+      "Name": "MICHEAL + PAUL",
+      "Total Points": 108
+    },
+    {
+      "Ref": "PD31",
+      "Name": "LAUREN EGAN",
+      "Total Points": 108
+    },
+    {
+      "Ref": "GC2",
+      "Name": "MORGAN CAMPBELL",
+      "Total Points": 108
+    },
+    {
+      "Ref": "JS7",
+      "Name": "DONAL GILMER",
+      "Total Points": 108
+    },
+    {
+      "Ref": "WD22",
+      "Name": "THOMAS SMITH",
+      "Total Points": 108
+    },
+    {
+      "Ref": "DF37",
+      "Name": "DAITHI MAC CORMAIC",
+      "Total Points": 108
+    },
+    {
+      "Ref": "AOH15",
+      "Name": "AIMEE FALLON",
+      "Total Points": 108
+    },
+    {
+      "Ref": "PC15",
+      "Name": "DAVID DOYLE",
+      "Total Points": 108
+    },
+    {
+      "Ref": "PC46",
+      "Name": "CONOR TURNER",
+      "Total Points": 108
+    },
+    {
+      "Ref": "DD46",
+      "Name": "DEREK DOYLE",
+      "Total Points": 108
+    },
+    {
+      "Ref": "DD64",
+      "Name": "B GANNON",
+      "Total Points": 108
+    },
+    {
+      "Ref": "WK32",
+      "Name": "GERRY GAYNOR",
+      "Total Points": 107
+    },
+    {
+      "Ref": "WK40",
+      "Name": "ELAINE FOX",
+      "Total Points": 107
+    },
+    {
+      "Ref": "WK61",
+      "Name": "RYAN EUSTACE",
+      "Total Points": 107
+    },
+    {
+      "Ref": "WK81",
+      "Name": "DEREK CARROLL JNR",
+      "Total Points": 107
+    },
+    {
+      "Ref": "SEN1",
+      "Name": "JOHN MC GLYNN",
+      "Total Points": 107
+    },
+    {
+      "Ref": "SEN27",
+      "Name": "CHRISTOPHER COSTELLO",
+      "Total Points": 107
+    },
+    {
+      "Ref": "SEN76",
+      "Name": "EAMONN CARRUTH",
+      "Total Points": 107
+    },
+    {
+      "Ref": "SEN83",
+      "Name": "ALAN WILTON",
+      "Total Points": 107
+    },
+    {
+      "Ref": "SEN121",
+      "Name": "MARK JENKINSON",
+      "Total Points": 107
+    },
+    {
+      "Ref": "SN7",
+      "Name": "JONATHAN KERRIGAN",
+      "Total Points": 107
+    },
+    {
+      "Ref": "SN43",
+      "Name": "SHAY TRACY",
+      "Total Points": 107
+    },
+    {
+      "Ref": "SN59",
+      "Name": "PATRICK WHEATLEY",
+      "Total Points": 107
+    },
+    {
+      "Ref": "PD6",
+      "Name": "JODIE BURKE",
+      "Total Points": 107
+    },
+    {
+      "Ref": "PD12",
+      "Name": "DAVID DOYLE",
+      "Total Points": 107
+    },
+    {
+      "Ref": "GC9",
+      "Name": "MARTIN LAMB",
+      "Total Points": 107
+    },
+    {
+      "Ref": "DF1",
+      "Name": "DAN NICOLL",
+      "Total Points": 107
+    },
+    {
+      "Ref": "AOH69",
+      "Name": "ROBERT NOLAN",
+      "Total Points": 107
+    },
+    {
+      "Ref": "DD27",
+      "Name": "AARON DOYLE",
+      "Total Points": 107
+    },
+    {
+      "Ref": "DD62",
+      "Name": "TREVOR DOYLE",
+      "Total Points": 107
+    },
+    {
+      "Ref": "DD100",
+      "Name": "WILL KAVANAGH",
+      "Total Points": 107
+    },
+    {
+      "Ref": "WK01",
+      "Name": "LIAM KAVANAGH",
+      "Total Points": 106
     },
     {
       "Ref": "WK27",
       "Name": "LILY KAVANAGH",
-      "Total Points": 46
+      "Total Points": 106
+    },
+    {
+      "Ref": "WK68",
+      "Name": "JOHN MURPHY",
+      "Total Points": 106
+    },
+    {
+      "Ref": "SEN114",
+      "Name": "MARTINA ELLIS",
+      "Total Points": 106
+    },
+    {
+      "Ref": "SEN123",
+      "Name": "HOLLY BURKE",
+      "Total Points": 106
+    },
+    {
+      "Ref": "SN31",
+      "Name": "LISA NOLAN",
+      "Total Points": 106
+    },
+    {
+      "Ref": "SN44",
+      "Name": "JOHN KAVANGH",
+      "Total Points": 106
     },
     {
       "Ref": "PD14",
       "Name": "NOEL MALONE",
-      "Total Points": 46
+      "Total Points": 106
     },
     {
-      "Ref": "PC29",
-      "Name": "PAUL LAY",
-      "Total Points": 46
+      "Ref": "PD35",
+      "Name": "DEIDRE KEARNEY",
+      "Total Points": 106
     },
     {
-      "Ref": "DD29",
-      "Name": "DOMO",
-      "Total Points": 46
+      "Ref": "JS12",
+      "Name": "MARTINA SHANNON",
+      "Total Points": 106
     },
     {
-      "Ref": "SEN39",
-      "Name": "HANNAH COSTELLO",
-      "Total Points": 45
+      "Ref": "AOH67",
+      "Name": "AMY NEARY",
+      "Total Points": 106
     },
     {
-      "Ref": "DF26",
-      "Name": "ASHTON SWEENEY",
-      "Total Points": 45
+      "Ref": "PC27",
+      "Name": "ANTO CAREY",
+      "Total Points": 106
     },
     {
-      "Ref": "PC34",
-      "Name": "JANE CAMPBELL",
-      "Total Points": 45
+      "Ref": "PC48",
+      "Name": "CONOR O REILLY",
+      "Total Points": 106
     },
     {
-      "Ref": "DD35",
-      "Name": "MARIE SPAN",
-      "Total Points": 45
+      "Ref": "DD38",
+      "Name": "LUKE MULVANY",
+      "Total Points": 106
     },
     {
-      "Ref": "SN3",
-      "Name": "PAULA KAVANAGH",
-      "Total Points": 44
+      "Ref": "WK30",
+      "Name": "MARK KAVANAGH",
+      "Total Points": 105
     },
     {
-      "Ref": "GC10",
-      "Name": "GLEN LAMBE",
-      "Total Points": 44
+      "Ref": "SEN7",
+      "Name": "TONY + DARREN",
+      "Total Points": 105
     },
     {
-      "Ref": "AOH42",
-      "Name": "JOHN O HALLORAN",
-      "Total Points": 44
+      "Ref": "SEN23",
+      "Name": "ALEX WATT",
+      "Total Points": 105
     },
     {
-      "Ref": "GC13",
-      "Name": "BOBBY SMYTH",
-      "Total Points": 43
+      "Ref": "SEN26",
+      "Name": "DOAN COSTELLO",
+      "Total Points": 105
     },
     {
-      "Ref": "DF2",
-      "Name": "PAUL BYRNE",
-      "Total Points": 43
+      "Ref": "SEN69",
+      "Name": "DYLAN KEARNS",
+      "Total Points": 105
+    },
+    {
+      "Ref": "SN30",
+      "Name": "W.CONNELL",
+      "Total Points": 105
+    },
+    {
+      "Ref": "SN42",
+      "Name": "BRENDAN BOYNE",
+      "Total Points": 105
+    },
+    {
+      "Ref": "SN55",
+      "Name": "KEVIN FISH",
+      "Total Points": 105
+    },
+    {
+      "Ref": "RC7",
+      "Name": "DOLLY RYAN",
+      "Total Points": 105
+    },
+    {
+      "Ref": "PD26",
+      "Name": "MARK MURPHY",
+      "Total Points": 105
+    },
+    {
+      "Ref": "PD43",
+      "Name": "SCOTT TAAFFE",
+      "Total Points": 105
+    },
+    {
+      "Ref": "AOH46",
+      "Name": "ELLA O HALLORAN",
+      "Total Points": 105
+    },
+    {
+      "Ref": "PC18",
+      "Name": "ANDY KAVANAGH",
+      "Total Points": 105
+    },
+    {
+      "Ref": "PC28",
+      "Name": "JAMES WHITE",
+      "Total Points": 105
+    },
+    {
+      "Ref": "DD52",
+      "Name": "ANDREW BAKER",
+      "Total Points": 105
+    },
+    {
+      "Ref": "DD94",
+      "Name": "ROB MCKAY",
+      "Total Points": 105
+    },
+    {
+      "Ref": "DD102",
+      "Name": "KRRYSTOF",
+      "Total Points": 105
+    },
+    {
+      "Ref": "WK74",
+      "Name": "BRENDAN CARROLL",
+      "Total Points": 104
+    },
+    {
+      "Ref": "SEN126",
+      "Name": "PAUL REDDIN",
+      "Total Points": 104
+    },
+    {
+      "Ref": "PD2",
+      "Name": "JOHN DUNNE",
+      "Total Points": 104
+    },
+    {
+      "Ref": "PD11",
+      "Name": "DAVID DOYLE",
+      "Total Points": 104
+    },
+    {
+      "Ref": "JS10",
+      "Name": "YVAN",
+      "Total Points": 104
+    },
+    {
+      "Ref": "WD20",
+      "Name": "VALERIE CAHILL",
+      "Total Points": 104
+    },
+    {
+      "Ref": "AOH6",
+      "Name": "MARK KANE",
+      "Total Points": 104
+    },
+    {
+      "Ref": "AOH63",
+      "Name": "DAMIEN O RAW",
+      "Total Points": 104
+    },
+    {
+      "Ref": "WK05",
+      "Name": "BERNARD DONNELLY",
+      "Total Points": 103
+    },
+    {
+      "Ref": "WK77",
+      "Name": "GEORGE HUNT",
+      "Total Points": 103
+    },
+    {
+      "Ref": "SEN10",
+      "Name": "COLOY CONNOLLY",
+      "Total Points": 103
+    },
+    {
+      "Ref": "SEN11",
+      "Name": "COLOY CONNOLLY",
+      "Total Points": 103
+    },
+    {
+      "Ref": "SEN37",
+      "Name": "BARRY KELLY",
+      "Total Points": 103
+    },
+    {
+      "Ref": "SEN87",
+      "Name": "JOE CULLY",
+      "Total Points": 103
+    },
+    {
+      "Ref": "SEN110",
+      "Name": "AOIFE COUGHLAN",
+      "Total Points": 103
+    },
+    {
+      "Ref": "SN48",
+      "Name": "LEON MC LOUGHLIN",
+      "Total Points": 103
+    },
+    {
+      "Ref": "RC5",
+      "Name": "MARK O REILLY",
+      "Total Points": 103
+    },
+    {
+      "Ref": "PD42",
+      "Name": "ALEX TAAFFE",
+      "Total Points": 103
+    },
+    {
+      "Ref": "GC3",
+      "Name": "MARK CONNOLLY",
+      "Total Points": 103
+    },
+    {
+      "Ref": "GC22",
+      "Name": "M STAUNTON",
+      "Total Points": 103
+    },
+    {
+      "Ref": "KB14",
+      "Name": "PAUL MOORE",
+      "Total Points": 103
+    },
+    {
+      "Ref": "KB17",
+      "Name": "DARREN BYRNE",
+      "Total Points": 103
+    },
+    {
+      "Ref": "AOH36",
+      "Name": "JACK LEAVY",
+      "Total Points": 103
+    },
+    {
+      "Ref": "PC16",
+      "Name": "DAVID DOYLE",
+      "Total Points": 103
+    },
+    {
+      "Ref": "DD12",
+      "Name": "STEPHAN FLANAGAN",
+      "Total Points": 103
+    },
+    {
+      "Ref": "DD53",
+      "Name": "JOE + PASCHAL",
+      "Total Points": 103
+    },
+    {
+      "Ref": "DD99",
+      "Name": "BRENDAN CARROLL",
+      "Total Points": 103
+    },
+    {
+      "Ref": "WK23",
+      "Name": "W P KAVANAGH",
+      "Total Points": 102
+    },
+    {
+      "Ref": "WK71",
+      "Name": "THOMAS MC NALLY",
+      "Total Points": 102
+    },
+    {
+      "Ref": "SEN3",
+      "Name": "KEVIN BYRNE",
+      "Total Points": 102
+    },
+    {
+      "Ref": "SEN43",
+      "Name": "KARL COLEMAN",
+      "Total Points": 102
     },
     {
       "Ref": "SEN77",
       "Name": "SARAH THOMPSON",
-      "Total Points": 42
+      "Total Points": 102
     },
     {
-      "Ref": "SN33",
-      "Name": "JERRY MARTYN",
-      "Total Points": 42
+      "Ref": "SN57",
+      "Name": "B. WHEATLY SR",
+      "Total Points": 102
+    },
+    {
+      "Ref": "PD36",
+      "Name": "MAGS EOIN DEANE",
+      "Total Points": 102
+    },
+    {
+      "Ref": "PD53",
+      "Name": "PAUL AHEARNE",
+      "Total Points": 102
+    },
+    {
+      "Ref": "GC5",
+      "Name": "MARK BUTLER",
+      "Total Points": 102
+    },
+    {
+      "Ref": "GC19",
+      "Name": "KEVIN FOGARTY",
+      "Total Points": 102
+    },
+    {
+      "Ref": "AMCG2",
+      "Name": "CRAIG + CANE",
+      "Total Points": 102
+    },
+    {
+      "Ref": "DF40",
+      "Name": "SEANAN LUPTON",
+      "Total Points": 102
     },
     {
       "Ref": "AOH27",
       "Name": "LISA YOURELL",
-      "Total Points": 42
+      "Total Points": 102
     },
     {
-      "Ref": "WK10",
-      "Name": "RACHEL -STEPHEN MAHER",
-      "Total Points": 41
+      "Ref": "DD14",
+      "Name": "PAUL KENNEDY",
+      "Total Points": 102
     },
     {
-      "Ref": "SEN95",
-      "Name": "JOHN MC MANUS",
-      "Total Points": 41
+      "Ref": "DD24",
+      "Name": "ORLAGH KENNY",
+      "Total Points": 102
     },
     {
-      "Ref": "PD39",
-      "Name": "MARTIN KELLY",
-      "Total Points": 41
+      "Ref": "WK02",
+      "Name": "SANDRA MC MAHON",
+      "Total Points": 101
     },
     {
-      "Ref": "JS20",
-      "Name": "EVAN BURKE",
-      "Total Points": 41
+      "Ref": "WK20",
+      "Name": "JASON BURGESS",
+      "Total Points": 101
     },
     {
-      "Ref": "SEN118",
-      "Name": "JAMES JENKINSON",
-      "Total Points": 40
+      "Ref": "WK28",
+      "Name": "PAUL KAVANAGH",
+      "Total Points": 101
     },
     {
-      "Ref": "AMCG8",
-      "Name": "GUS MC CONNELL",
-      "Total Points": 39
+      "Ref": "WK41",
+      "Name": "DAVE FOX",
+      "Total Points": 101
     },
     {
-      "Ref": "KB19",
-      "Name": "CARLOS SADILUA",
-      "Total Points": 39
+      "Ref": "WK75",
+      "Name": "STUART CARROLL",
+      "Total Points": 101
     },
     {
-      "Ref": "AOH26",
-      "Name": "GARY O CONNELL",
-      "Total Points": 39
+      "Ref": "SEN81",
+      "Name": "LANNY + GEORGE",
+      "Total Points": 101
     },
     {
-      "Ref": "DD36",
-      "Name": "JESSICA MURPHY",
-      "Total Points": 39
+      "Ref": "SN4",
+      "Name": "DEREK KAVANAGH",
+      "Total Points": 101
     },
     {
-      "Ref": "SN66",
-      "Name": "LUCA SMITH",
-      "Total Points": 38
+      "Ref": "JS1",
+      "Name": "CIAN ROYSTON",
+      "Total Points": 101
     },
     {
-      "Ref": "WK22",
-      "Name": "DYMPNA BURGESS",
-      "Total Points": 37
+      "Ref": "AMCG4",
+      "Name": "SHARON MC CONNELL",
+      "Total Points": 101
     },
     {
-      "Ref": "JS19",
-      "Name": "DAVID KIERNAN",
-      "Total Points": 37
+      "Ref": "WD21",
+      "Name": "TOM SMITH",
+      "Total Points": 101
     },
     {
-      "Ref": "DF28",
-      "Name": "GREG KAVANAGH",
-      "Total Points": 35
+      "Ref": "DF23",
+      "Name": "ROBBIE O MAHONY",
+      "Total Points": 101
+    },
+    {
+      "Ref": "DF24",
+      "Name": "NICOLA O MAHONY",
+      "Total Points": 101
+    },
+    {
+      "Ref": "DF33",
+      "Name": "GEMMA MALONEY",
+      "Total Points": 101
+    },
+    {
+      "Ref": "AOH17",
+      "Name": "MIRIAN O HALLORAN",
+      "Total Points": 101
+    },
+    {
+      "Ref": "PC47",
+      "Name": "DOREEN RYAN",
+      "Total Points": 101
+    },
+    {
+      "Ref": "DD5",
+      "Name": "CIARA FAHEY",
+      "Total Points": 101
+    },
+    {
+      "Ref": "DD76",
+      "Name": "PAULA KAVANAGH",
+      "Total Points": 101
+    },
+    {
+      "Ref": "SEN2",
+      "Name": "JOHN MC GLYNN",
+      "Total Points": 100
+    },
+    {
+      "Ref": "SEN8",
+      "Name": "FRAN CRUISE",
+      "Total Points": 100
+    },
+    {
+      "Ref": "SN25",
+      "Name": "MICHEAL KEENAN",
+      "Total Points": 100
+    },
+    {
+      "Ref": "SN40",
+      "Name": "CONOR BURKE",
+      "Total Points": 100
+    },
+    {
+      "Ref": "EL4",
+      "Name": "SEAN NORRIS",
+      "Total Points": 100
+    },
+    {
+      "Ref": "EL20",
+      "Name": "DAMIEN TORMEY",
+      "Total Points": 100
+    },
+    {
+      "Ref": "WD24",
+      "Name": "JASON SMITH",
+      "Total Points": 100
+    },
+    {
+      "Ref": "WD30",
+      "Name": "OSSIE",
+      "Total Points": 100
+    },
+    {
+      "Ref": "DD48",
+      "Name": "ALAN KAVANAGH",
+      "Total Points": 100
+    },
+    {
+      "Ref": "DD90",
+      "Name": "DANIEL KEOGH",
+      "Total Points": 100
+    },
+    {
+      "Ref": "SEN113",
+      "Name": "SARAH COUGHLAN",
+      "Total Points": 99
+    },
+    {
+      "Ref": "SN68",
+      "Name": "PAMELA NOLAN",
+      "Total Points": 99
+    },
+    {
+      "Ref": "PD3",
+      "Name": "KEITH FITZERLD",
+      "Total Points": 99
+    },
+    {
+      "Ref": "WD29",
+      "Name": "PATRICK FINN",
+      "Total Points": 99
+    },
+    {
+      "Ref": "KB23",
+      "Name": "ROBERT ROCHE",
+      "Total Points": 99
+    },
+    {
+      "Ref": "AOH52",
+      "Name": "LUKE O HALLORAN",
+      "Total Points": 99
+    },
+    {
+      "Ref": "AOH58",
+      "Name": "MARTIN COUGHLAN",
+      "Total Points": 99
+    },
+    {
+      "Ref": "PC22",
+      "Name": "T TYNAN",
+      "Total Points": 99
+    },
+    {
+      "Ref": "DD10",
+      "Name": "PAUL DONOHUE",
+      "Total Points": 99
+    },
+    {
+      "Ref": "WK88",
+      "Name": "MICHEAL O CONNOR",
+      "Total Points": 98
+    },
+    {
+      "Ref": "SEN5",
+      "Name": "LARRY O BREIN",
+      "Total Points": 98
+    },
+    {
+      "Ref": "SEN9",
+      "Name": "SHAN COUGEN",
+      "Total Points": 98
+    },
+    {
+      "Ref": "SEN120",
+      "Name": "JIMMY JENKINSON",
+      "Total Points": 98
+    },
+    {
+      "Ref": "PD1",
+      "Name": "NAOMI + SHAUNA FITZGERALD",
+      "Total Points": 98
+    },
+    {
+      "Ref": "GC12",
+      "Name": "GAVIN BUTLER",
+      "Total Points": 98
+    },
+    {
+      "Ref": "GC18",
+      "Name": "MARK OWENS",
+      "Total Points": 98
+    },
+    {
+      "Ref": "EL1",
+      "Name": "EMMA BRENNAN",
+      "Total Points": 98
+    },
+    {
+      "Ref": "EL10",
+      "Name": "JOHN LYNCH",
+      "Total Points": 98
+    },
+    {
+      "Ref": "EL21",
+      "Name": "DAVE MOONEY",
+      "Total Points": 98
+    },
+    {
+      "Ref": "WD14",
+      "Name": "ALEX DELANEY",
+      "Total Points": 98
+    },
+    {
+      "Ref": "WD26",
+      "Name": "ALAN BRADY",
+      "Total Points": 98
+    },
+    {
+      "Ref": "KB6",
+      "Name": "DAMIEN BERNRY",
+      "Total Points": 98
+    },
+    {
+      "Ref": "KB22",
+      "Name": "IRENE FOLEY",
+      "Total Points": 98
+    },
+    {
+      "Ref": "AOH55",
+      "Name": "CIARA DALY",
+      "Total Points": 98
+    },
+    {
+      "Ref": "PC12",
+      "Name": "BILL DOYLE",
+      "Total Points": 98
+    },
+    {
+      "Ref": "PC19",
+      "Name": "ANDREW KAVANAGH",
+      "Total Points": 98
+    },
+    {
+      "Ref": "PC37",
+      "Name": "MICHEAL MALONE",
+      "Total Points": 98
+    },
+    {
+      "Ref": "DD41",
+      "Name": "KATIE DOYLE",
+      "Total Points": 98
+    },
+    {
+      "Ref": "PD52",
+      "Name": "JAMIE AHEARNE",
+      "Total Points": 97
+    },
+    {
+      "Ref": "AOH61",
+      "Name": "MARLEY LAWSON",
+      "Total Points": 97
+    },
+    {
+      "Ref": "DD2",
+      "Name": "ANTOINETTE POWER",
+      "Total Points": 97
+    },
+    {
+      "Ref": "DD93",
+      "Name": "DAVID ROBBERTS",
+      "Total Points": 97
+    },
+    {
+      "Ref": "SEN6",
+      "Name": "PASCAL BYRNE",
+      "Total Points": 96
+    },
+    {
+      "Ref": "SEN42",
+      "Name": "ANTO DUNPHY",
+      "Total Points": 96
+    },
+    {
+      "Ref": "SEN94",
+      "Name": "BRAIN",
+      "Total Points": 96
+    },
+    {
+      "Ref": "SEN124",
+      "Name": "CONNIE REDDIN",
+      "Total Points": 96
+    },
+    {
+      "Ref": "SN58",
+      "Name": "BEN WHEATLEY",
+      "Total Points": 96
+    },
+    {
+      "Ref": "RC19",
+      "Name": "ADAM O NEILL",
+      "Total Points": 96
+    },
+    {
+      "Ref": "PD24",
+      "Name": "HELEN CUNNINGHAM",
+      "Total Points": 96
+    },
+    {
+      "Ref": "JS21",
+      "Name": "VICKY REDDIN",
+      "Total Points": 96
+    },
+    {
+      "Ref": "AOH40",
+      "Name": "BRAIN DALY",
+      "Total Points": 96
+    },
+    {
+      "Ref": "PC8",
+      "Name": "SHANE CURRAN",
+      "Total Points": 96
+    },
+    {
+      "Ref": "DD6",
+      "Name": "EDDIE CONNERS",
+      "Total Points": 96
+    },
+    {
+      "Ref": "DD31",
+      "Name": "KATHLEEN  DUFFY",
+      "Total Points": 96
+    },
+    {
+      "Ref": "DD98",
+      "Name": "LENNIE EUSTACE",
+      "Total Points": 96
+    },
+    {
+      "Ref": "WK80",
+      "Name": "PHILIP CARROLL",
+      "Total Points": 95
+    },
+    {
+      "Ref": "SEN140",
+      "Name": "TREVOR MC ELLIGOTT",
+      "Total Points": 95
+    },
+    {
+      "Ref": "PD50",
+      "Name": "CRAIG DOOLIN",
+      "Total Points": 95
+    },
+    {
+      "Ref": "WD19",
+      "Name": "CIAN OSBORNE",
+      "Total Points": 95
+    },
+    {
+      "Ref": "WD31",
+      "Name": "NOEL DELANEY",
+      "Total Points": 95
+    },
+    {
+      "Ref": "KB29",
+      "Name": "MYRA CONLAN",
+      "Total Points": 95
     },
     {
       "Ref": "DF29",
       "Name": "JANICE KAVANAGH",
-      "Total Points": 35
+      "Total Points": 95
+    },
+    {
+      "Ref": "AOH3",
+      "Name": "BARRY MAHON",
+      "Total Points": 95
+    },
+    {
+      "Ref": "DD9",
+      "Name": "ERNIE WATKINS",
+      "Total Points": 95
+    },
+    {
+      "Ref": "SEN46",
+      "Name": "DENISE",
+      "Total Points": 94
+    },
+    {
+      "Ref": "DF43",
+      "Name": "SINEAD LYPTON",
+      "Total Points": 94
+    },
+    {
+      "Ref": "PC29",
+      "Name": "PAUL LAY",
+      "Total Points": 94
+    },
+    {
+      "Ref": "DD29",
+      "Name": "DOMO",
+      "Total Points": 94
+    },
+    {
+      "Ref": "WK15",
+      "Name": "SARAH BYRNE",
+      "Total Points": 93
+    },
+    {
+      "Ref": "SEN44",
+      "Name": "PAT",
+      "Total Points": 93
+    },
+    {
+      "Ref": "PD56",
+      "Name": "MARGARET BURKE",
+      "Total Points": 93
+    },
+    {
+      "Ref": "EL17",
+      "Name": "MARK O DWYER",
+      "Total Points": 93
+    },
+    {
+      "Ref": "DF26",
+      "Name": "ASHTON SWEENEY",
+      "Total Points": 93
+    },
+    {
+      "Ref": "DD42",
+      "Name": "DECLAN DOYLE",
+      "Total Points": 93
+    },
+    {
+      "Ref": "DD55",
+      "Name": "DEAN BAKER",
+      "Total Points": 93
+    },
+    {
+      "Ref": "SN3",
+      "Name": "PAULA KAVANAGH",
+      "Total Points": 92
+    },
+    {
+      "Ref": "PD51",
+      "Name": "KEITH SMITH",
+      "Total Points": 92
+    },
+    {
+      "Ref": "AOH18",
+      "Name": "MARTIN DALY",
+      "Total Points": 92
+    },
+    {
+      "Ref": "DD11",
+      "Name": "TOMAS MCCARTHY",
+      "Total Points": 92
+    },
+    {
+      "Ref": "DD50",
+      "Name": "PAUL MOLLOY",
+      "Total Points": 92
+    },
+    {
+      "Ref": "DD68",
+      "Name": "FILIP BOBROWSKI",
+      "Total Points": 92
+    },
+    {
+      "Ref": "DD84",
+      "Name": "DAVID MURPHY",
+      "Total Points": 92
+    },
+    {
+      "Ref": "SEN36",
+      "Name": "TOMAS",
+      "Total Points": 91
+    },
+    {
+      "Ref": "GC13",
+      "Name": "BOBBY SMYTH",
+      "Total Points": 91
+    },
+    {
+      "Ref": "KB20",
+      "Name": "MARK LAWLESS",
+      "Total Points": 91
+    },
+    {
+      "Ref": "DF2",
+      "Name": "PAUL BYRNE",
+      "Total Points": 91
+    },
+    {
+      "Ref": "DF18",
+      "Name": "SEAN DOYLE",
+      "Total Points": 91
+    },
+    {
+      "Ref": "AOH25",
+      "Name": "CHRISTIAN DUNN",
+      "Total Points": 91
+    },
+    {
+      "Ref": "SN33",
+      "Name": "JERRY MARTYN",
+      "Total Points": 90
+    },
+    {
+      "Ref": "EL8",
+      "Name": "DAMO + MARK",
+      "Total Points": 90
+    },
+    {
+      "Ref": "WK10",
+      "Name": "RACHEL -STEPHEN MAHER",
+      "Total Points": 89
+    },
+    {
+      "Ref": "SEN95",
+      "Name": "JOHN MC MANUS",
+      "Total Points": 89
+    },
+    {
+      "Ref": "JS20",
+      "Name": "EVAN BURKE",
+      "Total Points": 89
+    },
+    {
+      "Ref": "PC31",
+      "Name": "LIAM DOYLE",
+      "Total Points": 89
+    },
+    {
+      "Ref": "WK91",
+      "Name": "CIARA O CONNOR",
+      "Total Points": 88
+    },
+    {
+      "Ref": "SEN118",
+      "Name": "JAMES JENKINSON",
+      "Total Points": 88
+    },
+    {
+      "Ref": "SN20",
+      "Name": "CAROLINE + ALEX MC MAHON",
+      "Total Points": 88
+    },
+    {
+      "Ref": "SN21",
+      "Name": "JOHN BOWES",
+      "Total Points": 88
+    },
+    {
+      "Ref": "GC16",
+      "Name": "ANE O NEILL",
+      "Total Points": 88
+    },
+    {
+      "Ref": "WK79",
+      "Name": "GRAHAM CARROLL",
+      "Total Points": 87
+    },
+    {
+      "Ref": "SEN59",
+      "Name": "JOHN JACKSON",
+      "Total Points": 87
+    },
+    {
+      "Ref": "SEN112",
+      "Name": "LORRAINE COUGHLAN",
+      "Total Points": 87
+    },
+    {
+      "Ref": "AMCG8",
+      "Name": "GUS MC CONNELL",
+      "Total Points": 87
+    },
+    {
+      "Ref": "KB19",
+      "Name": "CARLOS SADILUA",
+      "Total Points": 87
+    },
+    {
+      "Ref": "AOH13",
+      "Name": "JOSH MC GRATH",
+      "Total Points": 87
+    },
+    {
+      "Ref": "AOH26",
+      "Name": "GARY O CONNELL",
+      "Total Points": 87
+    },
+    {
+      "Ref": "AOH54",
+      "Name": "DERMOT MAGUIRE",
+      "Total Points": 87
+    },
+    {
+      "Ref": "DD36",
+      "Name": "JESSICA MURPHY",
+      "Total Points": 87
+    },
+    {
+      "Ref": "WK26",
+      "Name": "ALI KAVANAGH",
+      "Total Points": 86
+    },
+    {
+      "Ref": "SN16",
+      "Name": "ANTONIOS STERGIOU",
+      "Total Points": 86
+    },
+    {
+      "Ref": "SN66",
+      "Name": "LUCA SMITH",
+      "Total Points": 86
+    },
+    {
+      "Ref": "DF30",
+      "Name": "CAMERON O LEARY",
+      "Total Points": 86
+    },
+    {
+      "Ref": "SEN111",
+      "Name": "TOM COUGHLAN",
+      "Total Points": 85
+    },
+    {
+      "Ref": "RC14",
+      "Name": "DANIEL BARRETT",
+      "Total Points": 85
+    },
+    {
+      "Ref": "PD22",
+      "Name": "SHANUNA MAGUIRE",
+      "Total Points": 85
+    },
+    {
+      "Ref": "JS9",
+      "Name": "JASON KEELAN",
+      "Total Points": 85
+    },
+    {
+      "Ref": "AOH20",
+      "Name": "RUAIRIDH FLEMING",
+      "Total Points": 85
+    },
+    {
+      "Ref": "PC26",
+      "Name": "LIAM KEARNS",
+      "Total Points": 85
+    },
+    {
+      "Ref": "DD56",
+      "Name": "ANN BAKER",
+      "Total Points": 85
+    },
+    {
+      "Ref": "WK50",
+      "Name": "JACK ROBERTS",
+      "Total Points": 84
+    },
+    {
+      "Ref": "SEN51",
+      "Name": "THOMAS SMYTH",
+      "Total Points": 84
+    },
+    {
+      "Ref": "GC17",
+      "Name": "CLAUDIA KINSELLA",
+      "Total Points": 84
+    },
+    {
+      "Ref": "AOH19",
+      "Name": "ANITA FLEMING",
+      "Total Points": 84
+    },
+    {
+      "Ref": "WK90",
+      "Name": "DEBORAH O CONNOR",
+      "Total Points": 83
+    },
+    {
+      "Ref": "DF28",
+      "Name": "GREG KAVANAGH",
+      "Total Points": 83
+    },
+    {
+      "Ref": "DD19",
+      "Name": "HELEN WALSH",
+      "Total Points": 83
     },
     {
       "Ref": "SEN133",
       "Name": "COLM KAVANAGH",
-      "Total Points": 34
+      "Total Points": 82
     },
     {
-      "Ref": "WK42",
-      "Name": "EOIN",
-      "Total Points": 33
+      "Ref": "DF16",
+      "Name": "SHAUNA DOYLE",
+      "Total Points": 82
     },
     {
-      "Ref": "DD33",
-      "Name": "CATHERNE MURPHY",
-      "Total Points": 33
+      "Ref": "SEN39",
+      "Name": "HANNAH COSTELLO",
+      "Total Points": 81
+    },
+    {
+      "Ref": "SEN64",
+      "Name": "HENO",
+      "Total Points": 81
+    },
+    {
+      "Ref": "PC34",
+      "Name": "JANE CAMPBELL",
+      "Total Points": 81
     },
     {
       "Ref": "PD47",
       "Name": "MARY DEVLIN",
-      "Total Points": 32
+      "Total Points": 80
     },
     {
-      "Ref": "WK37",
-      "Name": "CHRISTINE PHIPPS",
-      "Total Points": 30
+      "Ref": "GC10",
+      "Name": "GLEN LAMBE",
+      "Total Points": 80
     },
     {
-      "Ref": "PC4",
-      "Name": "GRAHAM TOOMEY",
-      "Total Points": 30
+      "Ref": "AOH42",
+      "Name": "JOHN O HALLORAN",
+      "Total Points": 80
     },
     {
-      "Ref": "DD91",
-      "Name": "CAROL PROUDFOOT",
-      "Total Points": 26
+      "Ref": "PD39",
+      "Name": "MARTIN KELLY",
+      "Total Points": 77
+    },
+    {
+      "Ref": "PC14",
+      "Name": "ANNA DOYLE",
+      "Total Points": 77
+    },
+    {
+      "Ref": "SN17",
+      "Name": "CHRISTINA MAXWELL",
+      "Total Points": 74
+    },
+    {
+      "Ref": "SN24",
+      "Name": "JOHN KINSELLA",
+      "Total Points": 74
+    },
+    {
+      "Ref": "GC6",
+      "Name": "LIAM WYNNE",
+      "Total Points": 74
+    },
+    {
+      "Ref": "WK22",
+      "Name": "DYMPNA BURGESS",
+      "Total Points": 73
+    },
+    {
+      "Ref": "SEN97",
+      "Name": "HILDA MILLS",
+      "Total Points": 73
     },
     {
       "Ref": "WK43",
       "Name": "MARTINA WHITE",
-      "Total Points": 22
+      "Total Points": 70
     },
     {
-      "Ref": "SN56",
-      "Name": "ANN WHEATLY",
-      "Total Points": 16
+      "Ref": "WK42",
+      "Name": "EOIN",
+      "Total Points": 69
     },
     {
-      "Ref": "WK78",
-      "Name": "GLEN FISH",
-      "Total Points": 8
+      "Ref": "DD35",
+      "Name": "MARIE SPAN",
+      "Total Points": 69
     },
     {
       "Ref": "RC17",
       "Name": "PATRICK DONOHOE",
-      "Total Points": 8
+      "Total Points": 68
+    },
+    {
+      "Ref": "WK37",
+      "Name": "CHRISTINE PHIPPS",
+      "Total Points": 66
+    },
+    {
+      "Ref": "PC4",
+      "Name": "GRAHAM TOOMEY",
+      "Total Points": 66
+    },
+    {
+      "Ref": "SN56",
+      "Name": "ANN WHEATLY",
+      "Total Points": 64
+    },
+    {
+      "Ref": "DD91",
+      "Name": "CAROL PROUDFOOT",
+      "Total Points": 62
+    },
+    {
+      "Ref": "JS19",
+      "Name": "DAVID KIERNAN",
+      "Total Points": 61
+    },
+    {
+      "Ref": "DD33",
+      "Name": "CATHERNE MURPHY",
+      "Total Points": 57
+    },
+    {
+      "Ref": "WK78",
+      "Name": "GLEN FISH",
+      "Total Points": 56
     },
     {
       "Ref": "PD38",
       "Name": "JOE HEDERSON",
-      "Total Points": 8
-    },
-    {
-      "Ref": "PD4",
-      "Name": "JOHN DUNNE SNR",
-      "Total Points": 2
-    },
-    {
-      "Ref": "PD5",
-      "Name": "EVAN DUNNE + PADDY GREENE",
-      "Total Points": 0
-    },
-    {
-      "Ref": "PD19",
-      "Name": "GIT GREENE",
-      "Total Points": 0
-    },
-    {
-      "Ref": "PD20",
-      "Name": "SHANE O NEILL",
-      "Total Points": 0
-    },
-    {
-      "Ref": "DF17",
-      "Name": "TADGH BRANAGAN",
-      "Total Points": 0
+      "Total Points": 56
     },
     {
       "Ref": "DD28",
       "Name": "SAM SKELLY",
-      "Total Points": 0
+      "Total Points": 48
+    },
+    {
+      "Ref": "PD4",
+      "Name": "JOHN DUNNE SNR",
+      "Total Points": 38
+    },
+    {
+      "Ref": "PD5",
+      "Name": "EVAN DUNNE + PADDY GREENE",
+      "Total Points": 36
+    },
+    {
+      "Ref": "PD19",
+      "Name": "GIT GREENE",
+      "Total Points": 36
+    },
+    {
+      "Ref": "PD20",
+      "Name": "SHANE O NEILL",
+      "Total Points": 36
+    },
+    {
+      "Ref": "DF17",
+      "Name": "TADGH BRANAGAN",
+      "Total Points": 36
     }
   ]
 };
