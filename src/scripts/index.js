@@ -30660,27 +30660,242 @@ const data = {
  {
    "Ref": "DD85",
    "Name": "NOEL CHURCHARD",
-   "Total Points": "259"
- },
- {
-   "Ref": "KB30",
-   "Name": "SEAN WALSH",
-   "Total Points": "251"
- },
- {
-   "Ref": "SN65",
-   "Name": "LIAM LITTLE",
-   "Total Points": "245"
+   "Total Points": "334"
  },
  {
    "Ref": "SN29",
    "Name": "RICKY CORMALL",
-   "Total Points": "244"
+   "Total Points": "319"
+ },
+ {
+   "Ref": "AOH41",
+   "Name": "ALAN O HALLORAN",
+   "Total Points": "307"
+ },
+ {
+   "Ref": "SEN58",
+   "Name": "RICHIE LEANARD",
+   "Total Points": "301"
+ },
+ {
+   "Ref": "WK16",
+   "Name": "SEAN BYRNE",
+   "Total Points": "300"
+ },
+ {
+   "Ref": "SN32",
+   "Name": "SEAN MARTYN",
+   "Total Points": "298"
+ },
+ {
+   "Ref": "KB9",
+   "Name": "PADDY DUNNE",
+   "Total Points": "294"
+ },
+ {
+   "Ref": "KB30",
+   "Name": "SEAN WALSH",
+   "Total Points": "291"
+ },
+ {
+   "Ref": "SN65",
+   "Name": "LIAM LITTLE",
+   "Total Points": "285"
+ },
+ {
+   "Ref": "DF8",
+   "Name": "JOHN CLIFFORD",
+   "Total Points": "284"
+ },
+ {
+   "Ref": "DD72",
+   "Name": "GREG SIECKOSKI",
+   "Total Points": "283"
+ },
+ {
+   "Ref": "WK29",
+   "Name": "ADAM KAVANAGH",
+   "Total Points": "282"
  },
  {
    "Ref": "AOH29",
    "Name": "AINE GROARK",
+   "Total Points": "275"
+ },
+ {
+   "Ref": "EL19",
+   "Name": "DEREK BRENNAN",
+   "Total Points": "272"
+ },
+ {
+   "Ref": "WK83",
+   "Name": "JOHN DOE",
+   "Total Points": "270"
+ },
+ {
+   "Ref": "SN30",
+   "Name": "W.CONNELL",
+   "Total Points": "270"
+ },
+ {
+   "Ref": "WD10",
+   "Name": "JACKSON RYAN",
+   "Total Points": "269"
+ },
+ {
+   "Ref": "AOH59",
+   "Name": "ANTO LANDERS",
+   "Total Points": "269"
+ },
+ {
+   "Ref": "SN27",
+   "Name": "JAMES RAFFENLY",
+   "Total Points": "268"
+ },
+ {
+   "Ref": "GC12",
+   "Name": "GAVIN BUTLER",
+   "Total Points": "267"
+ },
+ {
+   "Ref": "SEN75",
+   "Name": "LIAM CALLERY",
+   "Total Points": "265"
+ },
+ {
+   "Ref": "AOH15",
+   "Name": "AIMEE FALLON",
+   "Total Points": "265"
+ },
+ {
+   "Ref": "DD49",
+   "Name": "WAYNE MORGAN",
+   "Total Points": "261"
+ },
+ {
+   "Ref": "SEN93",
+   "Name": "MARK MC DONAH",
+   "Total Points": "260"
+ },
+ {
+   "Ref": "SEN92",
+   "Name": "PAUL MALONE",
+   "Total Points": "259"
+ },
+ {
+   "Ref": "WD16",
+   "Name": "VINCENT APPLEBY",
+   "Total Points": "258"
+ },
+ {
+   "Ref": "DF1",
+   "Name": "DAN NICOLL",
+   "Total Points": "258"
+ },
+ {
+   "Ref": "KB17",
+   "Name": "DARREN BYRNE",
+   "Total Points": "254"
+ },
+ {
+   "Ref": "SEN19",
+   "Name": "PAUL ENNIS",
+   "Total Points": "253"
+ },
+ {
+   "Ref": "WD15",
+   "Name": "JONNY RYAN",
+   "Total Points": "252"
+ },
+ {
+   "Ref": "AOH10",
+   "Name": "STEPHEN SMITH",
+   "Total Points": "252"
+ },
+ {
+   "Ref": "DD66",
+   "Name": "JOE HUMPHEY",
+   "Total Points": "252"
+ },
+ {
+   "Ref": "SEN40",
+   "Name": "ROBERT COSTELLO",
+   "Total Points": "250"
+ },
+ {
+   "Ref": "DF22",
+   "Name": "MICHEAL MAHER",
+   "Total Points": "250"
+ },
+ {
+   "Ref": "EL14",
+   "Name": "ZIGGY CARROLL",
+   "Total Points": "249"
+ },
+ {
+   "Ref": "SEN15",
+   "Name": "ROBERT RYDER",
+   "Total Points": "247"
+ },
+ {
+   "Ref": "PD30",
+   "Name": "GARRETT KAVANAGH",
+   "Total Points": "246"
+ },
+ {
+   "Ref": "PD9",
+   "Name": "JAMIE O BRIEN",
+   "Total Points": "245"
+ },
+ {
+   "Ref": "AOH4",
+   "Name": "ERIC KANE",
+   "Total Points": "245"
+ },
+ {
+   "Ref": "DD43",
+   "Name": "SEAN QUIGLEY",
+   "Total Points": "244"
+ },
+ {
+   "Ref": "DF21",
+   "Name": "NIALL MAHER",
+   "Total Points": "243"
+ },
+ {
+   "Ref": "PC39",
+   "Name": "ERIC MALONE",
+   "Total Points": "243"
+ },
+ {
+   "Ref": "SEN33",
+   "Name": "COLM MCGARYY",
+   "Total Points": "242"
+ },
+ {
+   "Ref": "JS7",
+   "Name": "DONAL GILMER",
+   "Total Points": "242"
+ },
+ {
+   "Ref": "SEN85",
+   "Name": "TOM MOCKLER",
+   "Total Points": "241"
+ },
+ {
+   "Ref": "SN63",
+   "Name": "LIAM CURRAN",
    "Total Points": "240"
+ },
+ {
+   "Ref": "EL2",
+   "Name": "JACKIE BRENNAN",
+   "Total Points": "239"
+ },
+ {
+   "Ref": "DD96",
+   "Name": "SHAUNA MCKAY",
+   "Total Points": "239"
  },
  {
    "Ref": "SEN48",
@@ -30688,14 +30903,49 @@ const data = {
    "Total Points": "238"
  },
  {
-   "Ref": "EL19",
-   "Name": "DEREK BRENNAN",
+   "Ref": "GC1",
+   "Name": "GREG CONNOLLY",
    "Total Points": "237"
  },
  {
-   "Ref": "WD10",
-   "Name": "JACKSON RYAN",
-   "Total Points": "234"
+   "Ref": "AOH9",
+   "Name": "SEAN IVORY",
+   "Total Points": "237"
+ },
+ {
+   "Ref": "WD12",
+   "Name": "RYAN DONNELLY",
+   "Total Points": "236"
+ },
+ {
+   "Ref": "WD28",
+   "Name": "DAVID LORD",
+   "Total Points": "236"
+ },
+ {
+   "Ref": "AOH7",
+   "Name": "DECLAN IVORY",
+   "Total Points": "236"
+ },
+ {
+   "Ref": "PC38",
+   "Name": "DENIS FLYNN",
+   "Total Points": "236"
+ },
+ {
+   "Ref": "EL3",
+   "Name": "DEREK BRENNAN",
+   "Total Points": "235"
+ },
+ {
+   "Ref": "WK30",
+   "Name": "MARK KAVANAGH",
+   "Total Points": "233"
+ },
+ {
+   "Ref": "SEN50",
+   "Name": "DREW LOGAN",
+   "Total Points": "233"
  },
  {
    "Ref": "SEN71",
@@ -30703,18 +30953,78 @@ const data = {
    "Total Points": "233"
  },
  {
-   "Ref": "AOH41",
-   "Name": "ALAN O HALLORAN",
+   "Ref": "EL12",
+   "Name": "JIM CARROLL",
+   "Total Points": "233"
+ },
+ {
+   "Ref": "AOH31",
+   "Name": "DECLAN HENNEY",
+   "Total Points": "233"
+ },
+ {
+   "Ref": "DD67",
+   "Name": "HELEN STEDMAN ",
+   "Total Points": "233"
+ },
+ {
+   "Ref": "DD86",
+   "Name": "AARON CHURCHARD",
+   "Total Points": "233"
+ },
+ {
+   "Ref": "SEN45",
+   "Name": "BRAIN ",
    "Total Points": "232"
  },
  {
-   "Ref": "SEN75",
-   "Name": "LIAM CALLERY",
+   "Ref": "PD44",
+   "Name": "JOSH TAAFFE",
+   "Total Points": "232"
+ },
+ {
+   "Ref": "SN2",
+   "Name": "DEREK KAVANAGH JNR",
+   "Total Points": "231"
+ },
+ {
+   "Ref": "PD33",
+   "Name": "CONOR MONGAN",
    "Total Points": "230"
  },
  {
-   "Ref": "SN27",
-   "Name": "JAMES RAFFENLY",
+   "Ref": "RC8",
+   "Name": "NICHOLAS BELNIVOHAN",
+   "Total Points": "229"
+ },
+ {
+   "Ref": "GC9",
+   "Name": "MARTIN LAMB",
+   "Total Points": "229"
+ },
+ {
+   "Ref": "DD20",
+   "Name": "CALLUM WALSH",
+   "Total Points": "229"
+ },
+ {
+   "Ref": "SEN41",
+   "Name": "CONOR DUNPHY",
+   "Total Points": "228"
+ },
+ {
+   "Ref": "DF30",
+   "Name": "CAMERON O LEARY",
+   "Total Points": "228"
+ },
+ {
+   "Ref": "PC2",
+   "Name": "EVAN COLLINS",
+   "Total Points": "228"
+ },
+ {
+   "Ref": "DD39",
+   "Name": "JACK DOYLE",
    "Total Points": "228"
  },
  {
@@ -30723,13 +31033,43 @@ const data = {
    "Total Points": "227"
  },
  {
+   "Ref": "SEN68",
+   "Name": "LEWIS HALL",
+   "Total Points": "227"
+ },
+ {
    "Ref": "PD58",
    "Name": "SIMON DUMBRELL",
    "Total Points": "227"
  },
  {
-   "Ref": "SEN58",
-   "Name": "RICHIE LEANARD",
+   "Ref": "PD60",
+   "Name": "LEE DILLON",
+   "Total Points": "227"
+ },
+ {
+   "Ref": "AOH38",
+   "Name": "CIAN LEAVY",
+   "Total Points": "227"
+ },
+ {
+   "Ref": "PC23",
+   "Name": "NICKIE BOLAND",
+   "Total Points": "227"
+ },
+ {
+   "Ref": "AMCG10",
+   "Name": "MARGARET MC CONNELL",
+   "Total Points": "226"
+ },
+ {
+   "Ref": "AOH32",
+   "Name": "EAMONN BYRNE",
+   "Total Points": "226"
+ },
+ {
+   "Ref": "AOH60",
+   "Name": "LEE LANDERS",
    "Total Points": "226"
  },
  {
@@ -30738,19 +31078,24 @@ const data = {
    "Total Points": "226"
  },
  {
-   "Ref": "WK16",
-   "Name": "SEAN BYRNE",
-   "Total Points": "225"
- },
- {
-   "Ref": "SEN93",
-   "Name": "MARK MC DONAH",
-   "Total Points": "225"
- },
- {
    "Ref": "SEN98",
    "Name": "DEREK RAY ",
    "Total Points": "225"
+ },
+ {
+   "Ref": "WD13",
+   "Name": "JAMES NIX",
+   "Total Points": "225"
+ },
+ {
+   "Ref": "AOH25",
+   "Name": "CHRISTIAN DUNN",
+   "Total Points": "225"
+ },
+ {
+   "Ref": "WK36",
+   "Name": "PATRICK O CONNELL",
+   "Total Points": "224"
  },
  {
    "Ref": "RC1",
@@ -30758,8 +31103,18 @@ const data = {
    "Total Points": "224"
  },
  {
-   "Ref": "SN32",
-   "Name": "SEAN MARTYN",
+   "Ref": "RC6",
+   "Name": "TINA O SULLIVAN",
+   "Total Points": "224"
+ },
+ {
+   "Ref": "PC36",
+   "Name": "LENA FLYNN",
+   "Total Points": "224"
+ },
+ {
+   "Ref": "WK87",
+   "Name": "NIAMH O CONNOR",
    "Total Points": "223"
  },
  {
@@ -30768,13 +31123,68 @@ const data = {
    "Total Points": "223"
  },
  {
-   "Ref": "DD49",
-   "Name": "WAYNE MORGAN",
+   "Ref": "KB26",
+   "Name": "LIAM BRADLEY",
+   "Total Points": "223"
+ },
+ {
+   "Ref": "AOH45",
+   "Name": "ROGER MAHON",
+   "Total Points": "223"
+ },
+ {
+   "Ref": "WK47",
+   "Name": "TONY MAHER",
+   "Total Points": "222"
+ },
+ {
+   "Ref": "WK76",
+   "Name": "COLM DUNNE",
+   "Total Points": "222"
+ },
+ {
+   "Ref": "DF37",
+   "Name": "DAITHI MAC CORMAIC",
+   "Total Points": "222"
+ },
+ {
+   "Ref": "AOH28",
+   "Name": "KEN GORRY 1",
+   "Total Points": "222"
+ },
+ {
+   "Ref": "WK81",
+   "Name": "DEREK CARROLL JNR",
    "Total Points": "221"
+ },
+ {
+   "Ref": "SEN20",
+   "Name": "DEREK RYAN",
+   "Total Points": "221"
+ },
+ {
+   "Ref": "SN47",
+   "Name": "DAVE MURRAY",
+   "Total Points": "221"
+ },
+ {
+   "Ref": "AOH54",
+   "Name": "DERMOT MAGUIRE",
+   "Total Points": "221"
+ },
+ {
+   "Ref": "SN6",
+   "Name": "DAVID CAMPBELL",
+   "Total Points": "220"
  },
  {
    "Ref": "KB1",
    "Name": "GARY GASKIN",
+   "Total Points": "220"
+ },
+ {
+   "Ref": "DD82",
+   "Name": "JOHN STEDMAN",
    "Total Points": "220"
  },
  {
@@ -30783,8 +31193,18 @@ const data = {
    "Total Points": "219"
  },
  {
-   "Ref": "KB9",
-   "Name": "PADDY DUNNE",
+   "Ref": "PD52",
+   "Name": "JAMIE AHEARNE",
+   "Total Points": "219"
+ },
+ {
+   "Ref": "AOH36",
+   "Name": "JACK LEAVY",
+   "Total Points": "219"
+ },
+ {
+   "Ref": "PC27",
+   "Name": "ANTO CAREY",
    "Total Points": "219"
  },
  {
@@ -30793,9 +31213,19 @@ const data = {
    "Total Points": "218"
  },
  {
-   "Ref": "WD16",
-   "Name": "VINCENT APPLEBY",
+   "Ref": "PC32",
+   "Name": "DAVID WOODS",
    "Total Points": "218"
+ },
+ {
+   "Ref": "DD37",
+   "Name": "EDDIE OBREIN",
+   "Total Points": "218"
+ },
+ {
+   "Ref": "SEN1",
+   "Name": "JOHN MC GLYNN",
+   "Total Points": "217"
  },
  {
    "Ref": "SEN38",
@@ -30808,14 +31238,39 @@ const data = {
    "Total Points": "217"
  },
  {
+   "Ref": "DD5",
+   "Name": "CIARA FAHEY",
+   "Total Points": "217"
+ },
+ {
+   "Ref": "DD99",
+   "Name": "BRENDAN CARROLL",
+   "Total Points": "217"
+ },
+ {
    "Ref": "WK49",
    "Name": "SAM MALONE",
+   "Total Points": "216"
+ },
+ {
+   "Ref": "WK89",
+   "Name": "LUKE ROBINSON",
+   "Total Points": "216"
+ },
+ {
+   "Ref": "SEN91",
+   "Name": "TERRY NOONE",
    "Total Points": "216"
  },
  {
    "Ref": "PD15",
    "Name": "MICK BURKE SNR",
    "Total Points": "216"
+ },
+ {
+   "Ref": "JS13",
+   "Name": "JOHN SHANNON",
+   "Total Points": "215"
  },
  {
    "Ref": "DD1",
@@ -30838,8 +31293,18 @@ const data = {
    "Total Points": "213"
  },
  {
+   "Ref": "PD31",
+   "Name": "LAUREN EGAN",
+   "Total Points": "213"
+ },
+ {
    "Ref": "PD62",
    "Name": "ALAN CLARKE",
+   "Total Points": "213"
+ },
+ {
+   "Ref": "DF18",
+   "Name": "SEAN DOYLE",
    "Total Points": "213"
  },
  {
@@ -30853,29 +31318,14 @@ const data = {
    "Total Points": "212"
  },
  {
-   "Ref": "SEN15",
-   "Name": "ROBERT RYDER",
-   "Total Points": "212"
- },
- {
    "Ref": "SEN18",
    "Name": "PAUL BYRNE ",
    "Total Points": "212"
  },
  {
-   "Ref": "WD15",
-   "Name": "JONNY RYAN",
-   "Total Points": "212"
- },
- {
-   "Ref": "AOH10",
-   "Name": "STEPHEN SMITH",
-   "Total Points": "212"
- },
- {
-   "Ref": "DD66",
-   "Name": "JOE HUMPHEY",
-   "Total Points": "212"
+   "Ref": "KB21",
+   "Name": "LIAM HOGAN",
+   "Total Points": "211"
  },
  {
    "Ref": "AOH5",
@@ -30893,8 +31343,8 @@ const data = {
    "Total Points": "210"
  },
  {
-   "Ref": "SEN40",
-   "Name": "ROBERT COSTELLO",
+   "Ref": "SN5",
+   "Name": "DARRAGH WARD",
    "Total Points": "210"
  },
  {
@@ -30903,9 +31353,24 @@ const data = {
    "Total Points": "210"
  },
  {
-   "Ref": "DF22",
-   "Name": "MICHEAL MAHER",
+   "Ref": "WD22",
+   "Name": "THOMAS SMITH",
    "Total Points": "210"
+ },
+ {
+   "Ref": "WK40",
+   "Name": "ELAINE FOX",
+   "Total Points": "209"
+ },
+ {
+   "Ref": "SEN83",
+   "Name": "ALAN WILTON",
+   "Total Points": "209"
+ },
+ {
+   "Ref": "SN7",
+   "Name": "JONATHAN KERRIGAN",
+   "Total Points": "209"
  },
  {
    "Ref": "SN35",
@@ -30918,18 +31383,33 @@ const data = {
    "Total Points": "209"
  },
  {
-   "Ref": "EL14",
-   "Name": "ZIGGY CARROLL",
+   "Ref": "JS1",
+   "Name": "CIAN ROYSTON",
    "Total Points": "209"
  },
  {
-   "Ref": "DF8",
-   "Name": "JOHN CLIFFORD",
+   "Ref": "DF33",
+   "Name": "GEMMA MALONEY ",
    "Total Points": "209"
  },
  {
    "Ref": "EL9",
    "Name": "DAMO + MARK",
+   "Total Points": "208"
+ },
+ {
+   "Ref": "KB2",
+   "Name": "GEMMA GASKIN",
+   "Total Points": "208"
+ },
+ {
+   "Ref": "AOH11",
+   "Name": "AIDAN SMITH",
+   "Total Points": "208"
+ },
+ {
+   "Ref": "PC10",
+   "Name": "LUKE KNOWLES",
    "Total Points": "208"
  },
  {
@@ -30943,18 +31423,13 @@ const data = {
    "Total Points": "208"
  },
  {
-   "Ref": "DD72",
-   "Name": "GREG SIECKOSKI",
-   "Total Points": "208"
- },
- {
-   "Ref": "WK29",
-   "Name": "ADAM KAVANAGH",
+   "Ref": "PD27",
+   "Name": "JUDY O NEILL",
    "Total Points": "207"
  },
  {
-   "Ref": "PD27",
-   "Name": "JUDY O NEILL",
+   "Ref": "PD43",
+   "Name": "SCOTT TAAFFE",
    "Total Points": "207"
  },
  {
@@ -30963,29 +31438,24 @@ const data = {
    "Total Points": "207"
  },
  {
+   "Ref": "AOH50",
+   "Name": "MEGAN CLEARY",
+   "Total Points": "207"
+ },
+ {
    "Ref": "SEN86",
    "Name": "ALFIE CULLY",
    "Total Points": "206"
  },
  {
-   "Ref": "PD30",
-   "Name": "GARRETT KAVANAGH",
+   "Ref": "WD14",
+   "Name": "ALEX DELANEY",
    "Total Points": "206"
  },
  {
    "Ref": "DD80",
    "Name": "STEPHEN HOPKINS",
    "Total Points": "206"
- },
- {
-   "Ref": "PD9",
-   "Name": "JAMIE O BRIEN",
-   "Total Points": "205"
- },
- {
-   "Ref": "AOH4",
-   "Name": "ERIC KANE",
-   "Total Points": "205"
  },
  {
    "Ref": "AOH12",
@@ -31008,11 +31478,6 @@ const data = {
    "Total Points": "204"
  },
  {
-   "Ref": "DD43",
-   "Name": "SEAN QUIGLEY",
-   "Total Points": "204"
- },
- {
    "Ref": "RC13",
    "Name": "PAUL BARRETT",
    "Total Points": "203"
@@ -31023,18 +31488,8 @@ const data = {
    "Total Points": "203"
  },
  {
-   "Ref": "DF21",
-   "Name": "NIALL MAHER",
-   "Total Points": "203"
- },
- {
    "Ref": "PC35",
    "Name": "STUART CAMPBELL",
-   "Total Points": "203"
- },
- {
-   "Ref": "PC39",
-   "Name": "ERIC MALONE",
    "Total Points": "203"
  },
  {
@@ -31048,8 +31503,8 @@ const data = {
    "Total Points": "202"
  },
  {
-   "Ref": "SEN33",
-   "Name": "COLM MCGARYY",
+   "Ref": "WK13",
+   "Name": "MARY BYRNE",
    "Total Points": "202"
  },
  {
@@ -31058,18 +31513,23 @@ const data = {
    "Total Points": "202"
  },
  {
-   "Ref": "GC1",
-   "Name": "GREG CONNOLLY",
+   "Ref": "SEN114",
+   "Name": "MARTINA ELLIS",
    "Total Points": "202"
  },
  {
-   "Ref": "JS7",
-   "Name": "DONAL GILMER",
+   "Ref": "KB14",
+   "Name": "PAUL MOORE",
    "Total Points": "202"
  },
  {
    "Ref": "DF45",
    "Name": "RICHIE HALPIN",
+   "Total Points": "202"
+ },
+ {
+   "Ref": "AOH18",
+   "Name": "MARTIN DALY",
    "Total Points": "202"
  },
  {
@@ -31088,8 +31548,13 @@ const data = {
    "Total Points": "202"
  },
  {
-   "Ref": "SEN85",
-   "Name": "TOM MOCKLER",
+   "Ref": "DD90",
+   "Name": "DANIEL KEOGH",
+   "Total Points": "202"
+ },
+ {
+   "Ref": "SEN26",
+   "Name": "DOAN COSTELLO",
    "Total Points": "201"
  },
  {
@@ -31103,13 +31568,18 @@ const data = {
    "Total Points": "201"
  },
  {
-   "Ref": "SN63",
-   "Name": "LIAM CURRAN",
+   "Ref": "AOH55",
+   "Name": "CIARA DALY",
    "Total Points": "200"
  },
  {
-   "Ref": "AOH55",
-   "Name": "CIARA DALY",
+   "Ref": "DD61",
+   "Name": "MARTIN ROCHE",
+   "Total Points": "200"
+ },
+ {
+   "Ref": "DD68",
+   "Name": "FILIP BOBROWSKI",
    "Total Points": "200"
  },
  {
@@ -31120,11 +31590,6 @@ const data = {
  {
    "Ref": "PD23",
    "Name": "KIAN MAGUIRE",
-   "Total Points": "199"
- },
- {
-   "Ref": "EL2",
-   "Name": "JACKIE BRENNAN",
    "Total Points": "199"
  },
  {
@@ -31148,9 +31613,9 @@ const data = {
    "Total Points": "199"
  },
  {
-   "Ref": "DD96",
-   "Name": "SHAUNA MCKAY",
-   "Total Points": "199"
+   "Ref": "SEN94",
+   "Name": "BRAIN ",
+   "Total Points": "198"
  },
  {
    "Ref": "SN46",
@@ -31163,38 +31628,18 @@ const data = {
    "Total Points": "197"
  },
  {
+   "Ref": "WD31",
+   "Name": "NOEL DELANEY",
+   "Total Points": "197"
+ },
+ {
    "Ref": "DF38",
    "Name": "DARREN LYNCH",
    "Total Points": "197"
  },
  {
-   "Ref": "AOH9",
-   "Name": "SEAN IVORY",
-   "Total Points": "197"
- },
- {
    "Ref": "SEN47",
    "Name": "MICK GORMAN",
-   "Total Points": "196"
- },
- {
-   "Ref": "WD12",
-   "Name": "RYAN DONNELLY",
-   "Total Points": "196"
- },
- {
-   "Ref": "WD28",
-   "Name": "DAVID LORD",
-   "Total Points": "196"
- },
- {
-   "Ref": "AOH7",
-   "Name": "DECLAN IVORY",
-   "Total Points": "196"
- },
- {
-   "Ref": "PC38",
-   "Name": "DENIS FLYNN",
    "Total Points": "196"
  },
  {
@@ -31208,8 +31653,8 @@ const data = {
    "Total Points": "195"
  },
  {
-   "Ref": "WK83",
-   "Name": "JOHN DOE",
+   "Ref": "SEN23",
+   "Name": "ALEX WATT",
    "Total Points": "195"
  },
  {
@@ -31218,18 +31663,18 @@ const data = {
    "Total Points": "195"
  },
  {
-   "Ref": "SN30",
-   "Name": "W.CONNELL",
-   "Total Points": "195"
- },
- {
-   "Ref": "EL3",
-   "Name": "DEREK BRENNAN",
+   "Ref": "DF26",
+   "Name": "ASHTON SWEENEY",
    "Total Points": "195"
  },
  {
    "Ref": "DD74",
    "Name": "LUKE STEDMAN",
+   "Total Points": "195"
+ },
+ {
+   "Ref": "DD102",
+   "Name": "KRRYSTOF ",
    "Total Points": "195"
  },
  {
@@ -31248,23 +31693,13 @@ const data = {
    "Total Points": "194"
  },
  {
-   "Ref": "AOH59",
-   "Name": "ANTO LANDERS",
-   "Total Points": "194"
- },
- {
-   "Ref": "WK30",
-   "Name": "MARK KAVANAGH",
-   "Total Points": "193"
- },
- {
    "Ref": "WK82",
    "Name": "DEREK CARROLL  ",
    "Total Points": "193"
  },
  {
-   "Ref": "SEN50",
-   "Name": "DREW LOGAN",
+   "Ref": "SEN37",
+   "Name": "BARRY KELLY",
    "Total Points": "193"
  },
  {
@@ -31273,44 +31708,14 @@ const data = {
    "Total Points": "193"
  },
  {
-   "Ref": "EL12",
-   "Name": "JIM CARROLL",
-   "Total Points": "193"
- },
- {
    "Ref": "DF13",
    "Name": "PAT PHELAN",
    "Total Points": "193"
  },
  {
-   "Ref": "AOH31",
-   "Name": "DECLAN HENNEY",
+   "Ref": "AOH58",
+   "Name": "MARTIN COUGHLAN",
    "Total Points": "193"
- },
- {
-   "Ref": "DD67",
-   "Name": "HELEN STEDMAN ",
-   "Total Points": "193"
- },
- {
-   "Ref": "DD86",
-   "Name": "AARON CHURCHARD",
-   "Total Points": "193"
- },
- {
-   "Ref": "SEN45",
-   "Name": "BRAIN ",
-   "Total Points": "192"
- },
- {
-   "Ref": "PD44",
-   "Name": "JOSH TAAFFE",
-   "Total Points": "192"
- },
- {
-   "Ref": "GC12",
-   "Name": "GAVIN BUTLER",
-   "Total Points": "192"
  },
  {
    "Ref": "DD87",
@@ -31328,8 +31733,8 @@ const data = {
    "Total Points": "191"
  },
  {
-   "Ref": "SN2",
-   "Name": "DEREK KAVANAGH JNR",
+   "Ref": "SN4",
+   "Name": "DEREK KAVANAGH ",
    "Total Points": "191"
  },
  {
@@ -31358,8 +31763,13 @@ const data = {
    "Total Points": "190"
  },
  {
-   "Ref": "PD33",
-   "Name": "CONOR MONGAN",
+   "Ref": "SEN10",
+   "Name": "COLOY CONNOLLY",
+   "Total Points": "190"
+ },
+ {
+   "Ref": "RC17",
+   "Name": "PATRICK DONOHOE",
    "Total Points": "190"
  },
  {
@@ -31370,11 +31780,6 @@ const data = {
  {
    "Ref": "JS18",
    "Name": "STEPHEN O REILLY",
-   "Total Points": "190"
- },
- {
-   "Ref": "AOH15",
-   "Name": "AIMEE FALLON",
    "Total Points": "190"
  },
  {
@@ -31403,16 +31808,6 @@ const data = {
    "Total Points": "189"
  },
  {
-   "Ref": "RC8",
-   "Name": "NICHOLAS BELNIVOHAN",
-   "Total Points": "189"
- },
- {
-   "Ref": "GC9",
-   "Name": "MARTIN LAMB",
-   "Total Points": "189"
- },
- {
    "Ref": "WD23",
    "Name": "WILLIE DONNELLY",
    "Total Points": "189"
@@ -31423,43 +31818,18 @@ const data = {
    "Total Points": "189"
  },
  {
-   "Ref": "DD20",
-   "Name": "CALLUM WALSH",
-   "Total Points": "189"
- },
- {
    "Ref": "DD71",
    "Name": "MICK KAVANAGH",
    "Total Points": "189"
  },
  {
+   "Ref": "DD73",
+   "Name": "ROBERT MAGDIAK",
+   "Total Points": "189"
+ },
+ {
    "Ref": "WK86",
    "Name": "SEAN DYLAN PALMER",
-   "Total Points": "188"
- },
- {
-   "Ref": "SEN41",
-   "Name": "CONOR DUNPHY",
-   "Total Points": "188"
- },
- {
-   "Ref": "DF30",
-   "Name": "CAMERON O LEARY",
-   "Total Points": "188"
- },
- {
-   "Ref": "AOH45",
-   "Name": "ROGER MAHON",
-   "Total Points": "188"
- },
- {
-   "Ref": "PC2",
-   "Name": "EVAN COLLINS",
-   "Total Points": "188"
- },
- {
-   "Ref": "DD39",
-   "Name": "JACK DOYLE",
    "Total Points": "188"
  },
  {
@@ -31473,8 +31843,8 @@ const data = {
    "Total Points": "187"
  },
  {
-   "Ref": "SEN68",
-   "Name": "LEWIS HALL",
+   "Ref": "SEN36",
+   "Name": "TOMAS",
    "Total Points": "187"
  },
  {
@@ -31488,23 +31858,8 @@ const data = {
    "Total Points": "187"
  },
  {
-   "Ref": "PD60",
-   "Name": "LEE DILLON",
-   "Total Points": "187"
- },
- {
    "Ref": "JS9",
    "Name": "JASON KEELAN",
-   "Total Points": "187"
- },
- {
-   "Ref": "AOH38",
-   "Name": "CIAN LEAVY",
-   "Total Points": "187"
- },
- {
-   "Ref": "PC23",
-   "Name": "NICKIE BOLAND",
    "Total Points": "187"
  },
  {
@@ -31515,16 +31870,6 @@ const data = {
  {
    "Ref": "SEN139",
    "Name": "MICK ALLAN",
-   "Total Points": "186"
- },
- {
-   "Ref": "SN47",
-   "Name": "DAVE MURRAY",
-   "Total Points": "186"
- },
- {
-   "Ref": "AMCG10",
-   "Name": "MARGARET MC CONNELL",
    "Total Points": "186"
  },
  {
@@ -31540,16 +31885,6 @@ const data = {
  {
    "Ref": "AOH1",
    "Name": "CONOR MAHON",
-   "Total Points": "186"
- },
- {
-   "Ref": "AOH32",
-   "Name": "EAMONN BYRNE",
-   "Total Points": "186"
- },
- {
-   "Ref": "AOH60",
-   "Name": "LEE LANDERS",
    "Total Points": "186"
  },
  {
@@ -31573,24 +31908,9 @@ const data = {
    "Total Points": "185"
  },
  {
-   "Ref": "WD13",
-   "Name": "JAMES NIX",
-   "Total Points": "185"
- },
- {
-   "Ref": "AOH25",
-   "Name": "CHRISTIAN DUNN",
-   "Total Points": "185"
- },
- {
    "Ref": "AOH56",
    "Name": "ANGELA LIDDLE",
    "Total Points": "185"
- },
- {
-   "Ref": "WK36",
-   "Name": "PATRICK O CONNELL",
-   "Total Points": "184"
  },
  {
    "Ref": "SEN13",
@@ -31598,28 +31918,8 @@ const data = {
    "Total Points": "184"
  },
  {
-   "Ref": "SEN92",
-   "Name": "PAUL MALONE",
-   "Total Points": "184"
- },
- {
-   "Ref": "RC6",
-   "Name": "TINA O SULLIVAN",
-   "Total Points": "184"
- },
- {
    "Ref": "WD5",
    "Name": "IAN EARLY",
-   "Total Points": "184"
- },
- {
-   "Ref": "PC27",
-   "Name": "ANTO CAREY",
-   "Total Points": "184"
- },
- {
-   "Ref": "PC36",
-   "Name": "LENA FLYNN",
    "Total Points": "184"
  },
  {
@@ -31633,11 +31933,6 @@ const data = {
    "Total Points": "184"
  },
  {
-   "Ref": "WK87",
-   "Name": "NIAMH O CONNOR",
-   "Total Points": "183"
- },
- {
    "Ref": "SN54",
    "Name": "EVAN GIBBSON",
    "Total Points": "183"
@@ -31648,23 +31943,8 @@ const data = {
    "Total Points": "183"
  },
  {
-   "Ref": "KB26",
-   "Name": "LIAM BRADLEY",
-   "Total Points": "183"
- },
- {
-   "Ref": "DF1",
-   "Name": "DAN NICOLL",
-   "Total Points": "183"
- },
- {
    "Ref": "DD15",
    "Name": "PAUL HENDRICK ",
-   "Total Points": "183"
- },
- {
-   "Ref": "DD37",
-   "Name": "EDDIE OBREIN",
    "Total Points": "183"
  },
  {
@@ -31675,16 +31955,6 @@ const data = {
  {
    "Ref": "WK39",
    "Name": "SUSAN BYRNE",
-   "Total Points": "182"
- },
- {
-   "Ref": "WK47",
-   "Name": "TONY MAHER",
-   "Total Points": "182"
- },
- {
-   "Ref": "WK76",
-   "Name": "COLM DUNNE",
    "Total Points": "182"
  },
  {
@@ -31708,16 +31978,6 @@ const data = {
    "Total Points": "182"
  },
  {
-   "Ref": "DF37",
-   "Name": "DAITHI MAC CORMAIC",
-   "Total Points": "182"
- },
- {
-   "Ref": "AOH28",
-   "Name": "KEN GORRY 1",
-   "Total Points": "182"
- },
- {
    "Ref": "AOH39",
    "Name": "GARRETTE MARTIN",
    "Total Points": "182"
@@ -31735,16 +31995,6 @@ const data = {
  {
    "Ref": "WK57",
    "Name": "CONOR RAY",
-   "Total Points": "181"
- },
- {
-   "Ref": "WK81",
-   "Name": "DEREK CARROLL JNR",
-   "Total Points": "181"
- },
- {
-   "Ref": "SEN20",
-   "Name": "DEREK RYAN",
    "Total Points": "181"
  },
  {
@@ -31768,11 +32018,6 @@ const data = {
    "Total Points": "181"
  },
  {
-   "Ref": "AOH54",
-   "Name": "DERMOT MAGUIRE",
-   "Total Points": "181"
- },
- {
    "Ref": "DD57",
    "Name": "PAT DEVLIN",
    "Total Points": "181"
@@ -31788,13 +32033,13 @@ const data = {
    "Total Points": "180"
  },
  {
-   "Ref": "SEN88",
-   "Name": "KEVIN BYRNE",
+   "Ref": "WK43",
+   "Name": "MARTINA WHITE",
    "Total Points": "180"
  },
  {
-   "Ref": "SN6",
-   "Name": "DAVID CAMPBELL",
+   "Ref": "SEN88",
+   "Name": "KEVIN BYRNE",
    "Total Points": "180"
  },
  {
@@ -31808,18 +32053,8 @@ const data = {
    "Total Points": "180"
  },
  {
-   "Ref": "JS13",
-   "Name": "JOHN SHANNON",
-   "Total Points": "180"
- },
- {
    "Ref": "KB28",
    "Name": "SUSAN + ROLAND DARCY ",
-   "Total Points": "180"
- },
- {
-   "Ref": "DD82",
-   "Name": "JOHN STEDMAN",
    "Total Points": "180"
  },
  {
@@ -31833,18 +32068,8 @@ const data = {
    "Total Points": "179"
  },
  {
-   "Ref": "PD52",
-   "Name": "JAMIE AHEARNE",
-   "Total Points": "179"
- },
- {
    "Ref": "KB8",
    "Name": "PAUL ROCHE",
-   "Total Points": "179"
- },
- {
-   "Ref": "KB17",
-   "Name": "DARREN BYRNE",
    "Total Points": "179"
  },
  {
@@ -31853,19 +32078,9 @@ const data = {
    "Total Points": "179"
  },
  {
-   "Ref": "AOH36",
-   "Name": "JACK LEAVY",
-   "Total Points": "179"
- },
- {
    "Ref": "DD89",
    "Name": "GERRY JORDAN",
    "Total Points": "179"
- },
- {
-   "Ref": "SEN19",
-   "Name": "PAUL ENNIS",
-   "Total Points": "178"
  },
  {
    "Ref": "SN22",
@@ -31883,11 +32098,6 @@ const data = {
    "Total Points": "178"
  },
  {
-   "Ref": "PD31",
-   "Name": "LAUREN EGAN",
-   "Total Points": "178"
- },
- {
    "Ref": "GC23",
    "Name": "AARON WATERHOUSE",
    "Total Points": "178"
@@ -31895,11 +32105,6 @@ const data = {
  {
    "Ref": "EL5",
    "Name": "ALAN NORRIS",
-   "Total Points": "178"
- },
- {
-   "Ref": "PC32",
-   "Name": "DAVID WOODS",
    "Total Points": "178"
  },
  {
@@ -31920,11 +32125,6 @@ const data = {
  {
    "Ref": "WK85",
    "Name": "JOE PALMER",
-   "Total Points": "177"
- },
- {
-   "Ref": "SEN1",
-   "Name": "JOHN MC GLYNN",
    "Total Points": "177"
  },
  {
@@ -31973,11 +32173,6 @@ const data = {
    "Total Points": "177"
  },
  {
-   "Ref": "DD5",
-   "Name": "CIARA FAHEY",
-   "Total Points": "177"
- },
- {
    "Ref": "DD8",
    "Name": "BRAIN SELFON",
    "Total Points": "177"
@@ -31986,16 +32181,6 @@ const data = {
    "Ref": "DD69",
    "Name": "PHIL MURPHY ",
    "Total Points": "177"
- },
- {
-   "Ref": "DD99",
-   "Name": "BRENDAN CARROLL",
-   "Total Points": "177"
- },
- {
-   "Ref": "WK89",
-   "Name": "LUKE ROBINSON",
-   "Total Points": "176"
  },
  {
    "Ref": "SEN8",
@@ -32008,18 +32193,8 @@ const data = {
    "Total Points": "176"
  },
  {
-   "Ref": "SEN91",
-   "Name": "TERRY NOONE",
-   "Total Points": "176"
- },
- {
    "Ref": "GC11",
    "Name": "JOHN KEOGH",
-   "Total Points": "176"
- },
- {
-   "Ref": "KB21",
-   "Name": "LIAM HOGAN",
    "Total Points": "176"
  },
  {
@@ -32148,11 +32323,6 @@ const data = {
    "Total Points": "173"
  },
  {
-   "Ref": "DF18",
-   "Name": "SEAN DOYLE",
-   "Total Points": "173"
- },
- {
    "Ref": "AOH51",
    "Name": "GREG CLEARY",
    "Total Points": "173"
@@ -32263,11 +32433,6 @@ const data = {
    "Total Points": "170"
  },
  {
-   "Ref": "SN5",
-   "Name": "DARRAGH WARD",
-   "Total Points": "170"
- },
- {
    "Ref": "SN45",
    "Name": "GRAEM FARRELL",
    "Total Points": "170"
@@ -32293,11 +32458,6 @@ const data = {
    "Total Points": "170"
  },
  {
-   "Ref": "WD22",
-   "Name": "THOMAS SMITH",
-   "Total Points": "170"
- },
- {
    "Ref": "AOH53",
    "Name": "PAUL MALONE",
    "Total Points": "170"
@@ -32306,11 +32466,6 @@ const data = {
    "Ref": "DD40",
    "Name": "KELLY DOYLE",
    "Total Points": "170"
- },
- {
-   "Ref": "WK40",
-   "Name": "ELAINE FOX",
-   "Total Points": "169"
  },
  {
    "Ref": "WK66",
@@ -32333,28 +32488,13 @@ const data = {
    "Total Points": "169"
  },
  {
-   "Ref": "SEN83",
-   "Name": "ALAN WILTON",
-   "Total Points": "169"
- },
- {
    "Ref": "SEN105",
    "Name": "COLIN HORN",
    "Total Points": "169"
  },
  {
-   "Ref": "SN7",
-   "Name": "JONATHAN KERRIGAN",
-   "Total Points": "169"
- },
- {
    "Ref": "PD34",
    "Name": "RIAN EGAN",
-   "Total Points": "169"
- },
- {
-   "Ref": "JS1",
-   "Name": "CIAN ROYSTON",
    "Total Points": "169"
  },
  {
@@ -32383,11 +32523,6 @@ const data = {
    "Total Points": "169"
  },
  {
-   "Ref": "DF33",
-   "Name": "GEMMA MALONEY ",
-   "Total Points": "169"
- },
- {
    "Ref": "DD70",
    "Name": "ADAM STEDMAN",
    "Total Points": "169"
@@ -32408,29 +32543,9 @@ const data = {
    "Total Points": "168"
  },
  {
-   "Ref": "KB2",
-   "Name": "GEMMA GASKIN",
-   "Total Points": "168"
- },
- {
-   "Ref": "AOH11",
-   "Name": "AIDAN SMITH",
-   "Total Points": "168"
- },
- {
-   "Ref": "PC10",
-   "Name": "LUKE KNOWLES",
-   "Total Points": "168"
- },
- {
    "Ref": "DD45",
    "Name": "DES MALONEY",
    "Total Points": "168"
- },
- {
-   "Ref": "WK13",
-   "Name": "MARY BYRNE",
-   "Total Points": "167"
  },
  {
    "Ref": "WK72",
@@ -32463,28 +32578,13 @@ const data = {
    "Total Points": "167"
  },
  {
-   "Ref": "PD43",
-   "Name": "SCOTT TAAFFE",
-   "Total Points": "167"
- },
- {
    "Ref": "JS17",
    "Name": "CHRIS O CONNELL",
    "Total Points": "167"
  },
  {
-   "Ref": "KB14",
-   "Name": "PAUL MOORE",
-   "Total Points": "167"
- },
- {
    "Ref": "AOH37",
    "Name": "DARRAGH LEAVY",
-   "Total Points": "167"
- },
- {
-   "Ref": "AOH50",
-   "Name": "MEGAN CLEARY",
    "Total Points": "167"
  },
  {
@@ -32538,11 +32638,6 @@ const data = {
    "Total Points": "166"
  },
  {
-   "Ref": "WD14",
-   "Name": "ALEX DELANEY",
-   "Total Points": "166"
- },
- {
    "Ref": "KB24",
    "Name": "BRYAN ROCHE",
    "Total Points": "166"
@@ -32570,11 +32665,6 @@ const data = {
  {
    "Ref": "DD59",
    "Name": "COLM FINNERAN",
-   "Total Points": "165"
- },
- {
-   "Ref": "DD61",
-   "Name": "MARTIN ROCHE",
    "Total Points": "165"
  },
  {
@@ -32683,11 +32773,6 @@ const data = {
    "Total Points": "163"
  },
  {
-   "Ref": "SEN114",
-   "Name": "MARTINA ELLIS",
-   "Total Points": "162"
- },
- {
    "Ref": "SN28",
    "Name": "MATT NOLAN",
    "Total Points": "162"
@@ -32718,11 +32803,6 @@ const data = {
    "Total Points": "162"
  },
  {
-   "Ref": "AOH18",
-   "Name": "MARTIN DALY",
-   "Total Points": "162"
- },
- {
    "Ref": "AOH22",
    "Name": "BOYNER 2",
    "Total Points": "162"
@@ -32730,11 +32810,6 @@ const data = {
  {
    "Ref": "DD7",
    "Name": "GAVIN FRASER",
-   "Total Points": "162"
- },
- {
-   "Ref": "DD90",
-   "Name": "DANIEL KEOGH",
    "Total Points": "162"
  },
  {
@@ -32753,13 +32828,13 @@ const data = {
    "Total Points": "161"
  },
  {
-   "Ref": "SEN26",
-   "Name": "DOAN COSTELLO",
+   "Ref": "SN11",
+   "Name": "DANIEL ROWE",
    "Total Points": "161"
  },
  {
-   "Ref": "SN11",
-   "Name": "DANIEL ROWE",
+   "Ref": "SN44",
+   "Name": "JOHN KAVANGH",
    "Total Points": "161"
  },
  {
@@ -32784,7 +32859,7 @@ const data = {
  },
  {
    "Ref": "SEN100",
-   "Name": "MARK RAY",
+   "Name": "MARIE RAY",
    "Total Points": "160"
  },
  {
@@ -32810,11 +32885,6 @@ const data = {
  {
    "Ref": "PC17",
    "Name": "FRANK O REILLY",
-   "Total Points": "160"
- },
- {
-   "Ref": "DD68",
-   "Name": "FILIP BOBROWSKI",
    "Total Points": "160"
  },
  {
@@ -32873,11 +32943,6 @@ const data = {
    "Total Points": "158"
  },
  {
-   "Ref": "SEN94",
-   "Name": "BRAIN ",
-   "Total Points": "158"
- },
- {
    "Ref": "RC11",
    "Name": "CIARA + JENNIFER",
    "Total Points": "158"
@@ -32920,11 +32985,6 @@ const data = {
  {
    "Ref": "WD1",
    "Name": "DAVID SEERY",
-   "Total Points": "157"
- },
- {
-   "Ref": "WD31",
-   "Name": "NOEL DELANEY",
    "Total Points": "157"
  },
  {
@@ -32988,18 +33048,8 @@ const data = {
    "Total Points": "155"
  },
  {
-   "Ref": "SEN10",
-   "Name": "COLOY CONNOLLY",
-   "Total Points": "155"
- },
- {
    "Ref": "SEN21",
    "Name": "MICK JENKO",
-   "Total Points": "155"
- },
- {
-   "Ref": "SEN23",
-   "Name": "ALEX WATT",
    "Total Points": "155"
  },
  {
@@ -33015,16 +33065,6 @@ const data = {
  {
    "Ref": "EL15",
    "Name": "JACK DOYLE",
-   "Total Points": "155"
- },
- {
-   "Ref": "DF26",
-   "Name": "ASHTON SWEENEY",
-   "Total Points": "155"
- },
- {
-   "Ref": "DD102",
-   "Name": "KRRYSTOF ",
    "Total Points": "155"
  },
  {
@@ -33083,16 +33123,6 @@ const data = {
    "Total Points": "154"
  },
  {
-   "Ref": "DD73",
-   "Name": "ROBERT MAGDIAK",
-   "Total Points": "154"
- },
- {
-   "Ref": "SEN37",
-   "Name": "BARRY KELLY",
-   "Total Points": "153"
- },
- {
    "Ref": "SEN135",
    "Name": "MARK SANDFORD",
    "Total Points": "153"
@@ -33110,11 +33140,6 @@ const data = {
  {
    "Ref": "AOH23",
    "Name": "ELENA RONAN",
-   "Total Points": "153"
- },
- {
-   "Ref": "AOH58",
-   "Name": "MARTIN COUGHLAN",
    "Total Points": "153"
  },
  {
@@ -33218,11 +33243,6 @@ const data = {
    "Total Points": "151"
  },
  {
-   "Ref": "SN4",
-   "Name": "DEREK KAVANAGH ",
-   "Total Points": "151"
- },
- {
    "Ref": "RC16",
    "Name": "DEREK DONOHOE",
    "Total Points": "151"
@@ -33290,11 +33310,6 @@ const data = {
  {
    "Ref": "RC9",
    "Name": "WARREN",
-   "Total Points": "150"
- },
- {
-   "Ref": "RC17",
-   "Name": "PATRICK DONOHOE",
    "Total Points": "150"
  },
  {
@@ -33433,11 +33448,6 @@ const data = {
    "Total Points": "148"
  },
  {
-   "Ref": "SEN36",
-   "Name": "TOMAS",
-   "Total Points": "147"
- },
- {
    "Ref": "SEN81",
    "Name": "LANNY + GEORGE",
    "Total Points": "147"
@@ -33568,6 +33578,11 @@ const data = {
    "Total Points": "143"
  },
  {
+   "Ref": "PD38",
+   "Name": "JOE HEDERSON",
+   "Total Points": "143"
+ },
+ {
    "Ref": "KB11",
    "Name": "BERNARD KILLEEN",
    "Total Points": "143"
@@ -33681,11 +33696,6 @@ const data = {
    "Ref": "DD12",
    "Name": "STEPHAN FLANAGAN",
    "Total Points": "141"
- },
- {
-   "Ref": "WK43",
-   "Name": "MARTINA WHITE",
-   "Total Points": "140"
  },
  {
    "Ref": "SEN3",
@@ -34028,11 +34038,6 @@ const data = {
    "Total Points": "126"
  },
  {
-   "Ref": "SN44",
-   "Name": "JOHN KAVANGH",
-   "Total Points": "126"
- },
- {
    "Ref": "GC19",
    "Name": "KEVIN FOGARTY",
    "Total Points": "126"
@@ -34358,11 +34363,6 @@ const data = {
    "Total Points": "109"
  },
  {
-   "Ref": "PD38",
-   "Name": "JOE HEDERSON",
-   "Total Points": "108"
- },
- {
    "Ref": "GC16",
    "Name": "ANE O NEILL",
    "Total Points": "108"
@@ -34587,8 +34587,7 @@ const data = {
    "Name": "JOHN DUNNE SNR",
    "Total Points": "50"
  }
-]
-};
+]};
 
 
 // import {
